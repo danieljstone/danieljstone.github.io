@@ -30,13 +30,13 @@ With the next charts I look at whether recent surges in death and case counts ar
   * states where weekly case counts are currently lower than they were on April 21 (the peak of the first wave) and
   * states where the case counts are lower.
 * I graph death and case data about the groups in two ways:
-  * The first chart plots raw weekly death and case counts
+  * The first chart plots raw weekly death and case counts.
   * The second plot looks at total per capita numbers for the same two groups.
 
 
-*Counts*
+**Counts**
 <iframe width="785" height="498" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyrpfNTurjdXm3Im0H6jVSqNYZHNg9oEQngbyOFCH8vkHF7s4lLEl9I1VFpb4ZQ8mHJ_--VNEsLwMI/pubchart?oid=1568055513&amp;format=interactive"></iframe>
-*Cumulative Per Capita Counts*
+**Cumulative Per Capita Counts**
 <iframe width="785" height="592" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyrpfNTurjdXm3Im0H6jVSqNYZHNg9oEQngbyOFCH8vkHF7s4lLEl9I1VFpb4ZQ8mHJ_--VNEsLwMI/pubchart?oid=576510956&amp;format=interactive"></iframe>
 
 
@@ -45,11 +45,11 @@ With the next charts I look at whether recent surges in death and case counts ar
   * states where weekly death counts are currently lower than they were on April 21 (the peak of the first wave) and
   * states where the death counts are lower. The first chart plots raw weekly death and case counts, while the second plot looks at total per capita numbers for the same two groups.
 * I graph death and case data about the groups in two ways:
-  * The first chart plots raw weekly death and case counts
+  * The first chart plots raw weekly death and case counts.
   * The second plot looks at total per capita numbers for the same two groups.
-*Counts*  
+**Counts**  
 <iframe width="805" height="498" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyrpfNTurjdXm3Im0H6jVSqNYZHNg9oEQngbyOFCH8vkHF7s4lLEl9I1VFpb4ZQ8mHJ_--VNEsLwMI/pubchart?oid=140196596&amp;format=interactive"></iframe>
-*Cumulative Per Capita Counts*
+**Cumulative Per Capita Counts**
 <iframe width="805" height="592" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyrpfNTurjdXm3Im0H6jVSqNYZHNg9oEQngbyOFCH8vkHF7s4lLEl9I1VFpb4ZQ8mHJ_--VNEsLwMI/pubchart?oid=550498935&amp;format=interactive"></iframe>
 
 ### Tri-state Area Versus the Rest of the Country
