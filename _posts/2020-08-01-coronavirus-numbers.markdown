@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The Coronavirus Numbers I Follow"
+title:  "Coronavirus Numbers"
 date:   2020-08-01 23:03:25 -0400
-categories: numbers
+categories: 
 ---
 
 ### Background
@@ -10,20 +10,24 @@ categories: numbers
 In April, I couldn't find a website that had rolling averages of U.S. coronavirus death and case counts.  So I made a spreadsheet calculating weekly average counts and shared it with some friends.
 
 
-Since then, I have continued to add other summary statistics and charts to the spreadsheet, taking advantage of the growing availability of reliable and easy-to-use data sources, namely the COVID Tracking Project.  Here I've assembled some of these charts.
+Since then, I have continued to make other summary statistics and charts, taking advantage of the growing availability of reliable and easy-to-use data sources, namely the COVID Tracking Project.  Here I've assembled some of these charts.
+
+*Data Updates*
 
 The data should automatically refresh every day, though the CDC age data are updated less frequently.
 
 ## The Charts
 ### Rolling Indexed 7-Day Averages
-This chart takes weekly case, death, positive, and test counts and divides them by their highest values in the past 150 days. This helps show how things stand today relative to where they have stood in the past five months.  For instance, if there is a spike in deaths in one week, this chart makes it easy to tell whether that spike has a greater magnitude than past spikes.
+This chart takes weekly case, death, positive, and test counts and divides them by their highest values in the past 150 days. This is to say that if, as is the case at the time of writing, the number of tests administered in the past week is the highest on record, it is charted at 100%, and all other values are determined in porportion to this highest value.
+
+This chart helps show how things stand relative to where they have stood in the past five months.  For instance, if there is a spike in deaths in one week, this chart makes it easy to tell whether that spike has a greater magnitude than past spikes.
 
 There are a lot of things that this chart does not show---among them actual counts. Relatedly, formulating this chart so that there is always a 100% value for every metric means that numbers that are actually small can appear large.
 
 <iframe width="987" height="600" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyrpfNTurjdXm3Im0H6jVSqNYZHNg9oEQngbyOFCH8vkHF7s4lLEl9I1VFpb4ZQ8mHJ_--VNEsLwMI/pubchart?oid=793749523&amp;format=interactive"></iframe>
 
-### Looking at with Recent Increases in Death and Case Counts
-With the next charts I look at whether recent surges in death and case counts are happening in places that did not experience the initial wave as harshly as other states.  To do this I generated two pairs of charts. The first looks at places that have seen an increase in case counts (the focus of many initial news reports) and the second looks at death counts.
+### Looking at States with Recent Increases in Death and Case Counts
+With the next charts I look at whether recent surges in death and case counts are happening in states that did not experience the initial wave as harshly as other states.  To do this I present two pairs of charts. The first looks at places that have seen an increase in case counts (the focus of many initial news reports) and the second looks at death counts.
 
 #### States with higher case counts today than in April
 * In the first pair of charts, I divide states into two groups:
@@ -65,7 +69,7 @@ At the time of writing, this chart shows that at least on a per capita basis, th
 <iframe width="287" height="406" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyrpfNTurjdXm3Im0H6jVSqNYZHNg9oEQngbyOFCH8vkHF7s4lLEl9I1VFpb4ZQ8mHJ_--VNEsLwMI/pubchart?oid=404931936&amp;format=interactive"></iframe>
 
 ### Trump States v. Clinton States
-This chart compares how both weekly and cumulative death counts have changed over time in states that Donald Trump won with states that Hillary Clinton won.
+This chart compares how both weekly and cumulative death counts have changed over time in states that Donald Trump won with states that Hillary Clinton won in 2016.
 
 <iframe width="489" height="406" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyrpfNTurjdXm3Im0H6jVSqNYZHNg9oEQngbyOFCH8vkHF7s4lLEl9I1VFpb4ZQ8mHJ_--VNEsLwMI/pubchart?oid=941948628&amp;format=interactive"></iframe>
 
