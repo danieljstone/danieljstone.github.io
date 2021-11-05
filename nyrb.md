@@ -1,6 +1,6 @@
 ---
 layout: nyrb
-title: NYRB
+title: New York Review of Books by The Numbers
 permalink: /nyrb/
 ---
 
