@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="post">
+<style type="text/css">
+@font-face{
+font-family:"Title";
+src:url(http://www.columbia.edu/cu/bw/Title.ttf);
+}
+  </style>
+  <header class="post-header">
+    <h1 class="post-title"><p style="font-family:Title;">{{ page.title | escape }}</p></h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
