@@ -2,14 +2,19 @@
 layout: default
 ---
 <article class="post">
-<style type="text/css">
-@font-face{
-font-family:"Title";
-src:url(http://www.columbia.edu/cu/bw/Title.ttf);
-}
-  </style>
-  <header class="post-header">
-    <h1 class="post-title"><p style="font-family:Title;">{{ page.title | escape }}</p></h1>
+ <head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Ultra">
+    <style>
+      header.NYRB {
+        font-family: 'Ultra', serif;
+        font-size: 48px;
+      }
+    </style>
+  </head>
+
+  <header class="NYRB">
+    <p class="NYRB">{{ page.title | escape }}</p>
   </header>
 
   <div class="post-content">
