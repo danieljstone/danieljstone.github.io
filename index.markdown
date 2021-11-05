@@ -4,7 +4,7 @@
 
 layout: home
 ---
-Welcome to my website! In the coming weeks in this space I hope to look at:
+Welcome to my website! In this space I hope to look at:
 
 * Available data on demographics and coronavirus fatalities in the District of Columbia.
 
