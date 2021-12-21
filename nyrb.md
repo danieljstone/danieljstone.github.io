@@ -196,7 +196,7 @@ What I consider to be the chief value of these descriptive statistics, however, 
 
 #### Data 
 
-The underlying data used here were collected by scraping metadata from every categorized as a “Article or Review” in New York Review of Books’ online archive using the Python Beautiful Soup package. Particularly, for each article through August 2020, the following were collected: 
+The underlying data used here were collected by scraping metadata from every article categorized as a “Article or Review” in New York Review of Books’ online archive using the Python Beautiful Soup package. Specifically, for each article through August 2020, the following were collected: 
 
 - The date of publication
 - The name of the contributor
