@@ -4,8 +4,8 @@
 
 layout: home
 ---
-Welcome to my website! In this space I hope to look at:
+Welcome to my website! In the next few weeks, I will post pieces on:
 
-* Whether criticisms by late 20th century intellectual historians of the *New York Review of Books* stand up to statistical analysis.
 * The extent to which local coverage has declined in the *New York Times* by the numbers.
 * The extent to which *New York Times* coverage was dominated by coverage of Donald Trump compared with previous presidencies.
+* A comparison of homicide and covid mortality data for Washington, D.C.

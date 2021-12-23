@@ -18,7 +18,7 @@ Since its founding in 1963, the New York Review of Books has occupied a position
 
  
 
-The NYRB’s significance as an intellectual nexus has meant that it has also attracted a number of critics over the years. They have leveled various complaints against the NYRB: that it is insular and self-dealing, it is overly-male, it is overly-academic, has failed to foster new writers, and has favored certain publishers.
+The NYRB’s significance as an intellectual nexus has also earned it its fair share of critics. They have leveled various complaints against the NYRB: that it is insular and self-dealing, it is overly-male, it is overly-academic, has failed to foster new writers, and has favored certain publishers.
 
  
 
@@ -52,7 +52,7 @@ By the first and more restrictive measure, a reader would find that over time mo
 
  
 
-Considering these proportions calculated on an annual basis illustrates the value of the more inclusive measure. The contributor list was necessarily small in the first year of the NYRB’s publication, but many writers of books reviewed in 1963 came to be contributors themselves (34%).[[3\]](#_ftn3)  I prefer the more restrictive metric, however, because it better reflects how readers actually perceive the review. 
+Considering these proportions calculated on an annual basis illustrates the value of the more inclusive measure. The contributor list was necessarily small in the first year of the NYRB’s publication, but many writers of books reviewed in 1963 came to be contributors themselves (34%).[[3\]](#_ftn3)  I prefer the more restrictive metric, however, because it better reflects how readers actually perceive the *Review*. 
 
  
 
@@ -88,7 +88,7 @@ According to these data, 15.6% of all articles and reviews published in the NYRB
 
 ## Overly Academic?
 
-In *The Last Intellectuals* Russell Jacoby argued in 1987 that the NYRB had moved from featuring so-called public intellectuals in favor of academics. He wrote:
+In his 1987 book*The Last Intellectuals* Russell Jacoby argued that the NYRB had moved from featuring so-called public intellectuals in favor of academics. He wrote:
 
 The New York Review buzzed with energy and excitement during its first decade perhaps fueled by its intense crisscrossing relationships. Today, however, it looks very different. … it has refashioned its identity. For contributors the Review increasingly relies not on mere professors but on Ivy League professors, professors with titles and chairs, and especially professors from Oxford or Cambridge. Its few independent writers are old contributors like Gore Vidal and Theodore Draper. 
 
