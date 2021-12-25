@@ -18,7 +18,7 @@ Since its founding in 1963, the New York Review of Books has occupied a position
 
  
 
-The NYRB’s significance as an intellectual nexus has also attracted the *Review* its fair share of critics. They have leveled various complaints against the NYRB: that it is insular and self-dealing, its roster of contributors is overly-male, it is increasingly dominated by the professoriat, and has failed to foster new writers.
+The NYRB’s significance as an intellectual nexus has also earned the *Review* its fair share of critics. They have leveled various complaints against the NYRB: that it is insular and self-dealing, its roster of contributors is overly-male, it is increasingly dominated by the professoriat, and has failed to foster new writers.
 
  
 
@@ -76,7 +76,7 @@ As the graph below shows, this proportion of NYRB writers getting reviews there 
 
  
 
-## A Boy’s Club?
+## A Boys' Club?
 
 In 1972, Elaine Reuben observed that approximately 10% of reviews and articles published in the NYRB from its founding to the summer of 1971 had been written by women and that six women had written half of the articles written by women.[[4\]](#_ftn4) More recently, an article in *The New York Times* about the announcement of the NYRB’s new editors cited an audit finding that about 23% of *NYRB* articles had been written by women, and one of the new editors stated that female representation was a priority for the NYRB.[[5\]](#_ftn5) The audit referenced is a count conducted by VIDA: Women in Literary Arts, which relies on volunteers counting by hand.[[6\]](#_ftn6) Cross-referencing article and review bylines with Social Security Administration baby name data yields results without counting by hand.[[7\]](#_ftn7)
 
