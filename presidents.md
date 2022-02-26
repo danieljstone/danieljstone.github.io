@@ -6,15 +6,15 @@ layout: page
 
 During the years of the Trump administration, it felt like Donald Trump was everywhere you looked. This was especially the case with the New York Times, where it sometimes seemed as though the whole paper was on the Trump beat. But was this truly the case?
 
-Looking at the number of news articles and opinion articles mentioning Donald Trump shows that it was difficult to avoid him wherever you turned during the years of his presidency. Further, comparing numbers from the Trump years with other recent presidents demonstrates the extent to which the Times' coverage was particularly extensive.
+Looking at the number of news articles and opinion articles mentioning Donald Trump shows that indeed he was rarely out of view in the Times during his presidency. Further, comparing numbers from the Trump years with other recent presidencies demonstrates the extent to which the Times's Trump coverage was particularly extensive.
 
-Previously, some have attempted frequency analysis that looks at the number of times a word has appeared in the Times to measure the penetration of a concept. However, I submit that in this case the better measure is the proportion of articles and opinion pieces published that mention Trump or another. It represents, in my view, the likelihood of picking an article at random and encountering him, rather than something more abstract. This is to say that our goal is not lexical analysis, which might identify the emergence of a concept vis-á-vis a term's prevalence.
+Previously, some [have used frequency](https://www.cjr.org/covering_the_election/new-york-times-trump.php) analysis that looks at the number of times a word has appeared in the Times to measure the penetration of Trump coverage. However, I submit that in this case the better measure is the proportion of articles and opinion pieces published that mention Trump or another. It represents, in my view, the likelihood of picking an article at random and encountering him, rather than something more abstract. This is to say that our goal is not lexical analysis, which might identify the emergence of a concept vis-á-vis a term's prevalence.
 
-The figure below shows how many news articles, op-eds, and editorials mentioned "Trump" in a given week, from late 2014 to early 2022. I include the earlier data to show that even after the announcement of his candidacy on June 16, 2015, Trump did not factor particularly into Times coverage. Further, since "trump" is a word in its own right, it serves as a sort of control to demonstrate that the numbers we see correspond to the person. I include data for the period following the inauguration of Joe Biden on January 21, 2021 to show the extent to which Donald Trump remains in view.
+The figure below shows the proportion of news articles, op-eds, and editorials mentioning "Trump" in a given week, from late 2014 to early 2022. I include the earlier data to show that even after the announcement of his candidacy on June 16, 2015, Trump did not factor particularly into Times coverage until later. Further, since "trump" is a word in its own right, it serves as a sort of control to demonstrate that the numbers we see correspond to the person. I include data for the period following the inauguration of Joe Biden on January 21, 2021 to show the extent to which Donald Trump remains in view.
 
 {% include trumpweekly.html %}
 
-To better comprehend the above, it is helpful to divide the above into several periods in the Trump timeline: prior to candidacy, candidacy to nomination, nomination to election, election to defeat, defeat to inauguration, and inauguration to early 2022. 
+To better undestand the above, it is helpful to divide the above into several periods in the Trump timeline: prior to candidacy, candidacy to nomination, nomination to election, election to defeat, defeat to inauguration, and inauguration to early 2022. 
 
 | Period                              | Weekly Average News | Weekly Average Op-Eds | Weekly Average Editorials | Week of Highest News Coverage | Number of Weeks when Every  Editorial Mentioned "Trump" |
 | ----------------------------------- | ------------------- | --------------------- | ------------------------- | ----------------------------- | :-----------------------------------------------------: |
@@ -27,7 +27,7 @@ To better comprehend the above, it is helpful to divide the above into several p
 
 
 
-The weeks of highest coverage, which is to say the proportion of news articles mentioning Trump, identified above are unsurprising: nomination, election, ascension, defeat, and stepping down from office. What is most worth noting are the rows corresponding to the dates of the Trump presidency, which show that roughly 1 in 4 news articles, 1 in 2 op-eds, and 1 in 2 editorials mentioned him.
+The weeks of highest penetration identified above are unsurprising: nomination, election, ascension, defeat, and stepping down from office. What is most worth noting are the rows corresponding to the dates of the Trump presidency, which show that roughly 1 in 4 news articles, 1 in 2 op-eds, and 1 in 2 editorials mentioned him.
 
 To make sense of what the Trump numbers actually mean, we can compare them to other recent and current presidents.
 
