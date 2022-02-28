@@ -4,7 +4,5 @@
 
 layout: home
 ---
-Welcome to the newest version of my website! I hope to use this space to publish working papers on the following topics:
-
-* The extent to which local coverage has declined in the *New York Times*.
+Welcome to my website! I'm currently using this space to host a series of data projects that look at topics I find interesting. Feel free to reach out (email in the footer) if you have any questions or suggestions.
 
