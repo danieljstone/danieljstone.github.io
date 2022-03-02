@@ -13,7 +13,7 @@ This page presents detailed age-distribution data for covid mortality and homici
 -  in the past two years they have received more public attention than any other causes of deaths in the nation's capital and 
 - have been considered addressable if not largely solvable by public policy. 
 
-As a consequence, I think they are worth understanding better.
+As a consequence, I think the charts and numbers shown on this page should be part of the discussion around these topics. Further, they ought to be published by the government of Washington, D.C. rather than by me.
 
 **Background**
 
@@ -23,7 +23,7 @@ I sought these numbers in effort to investigate whether early-stage vaccination 
 
 I was motivated to compile the homicide data presented here in effort to better understand the District's [widely-reported](https://www.washingtonpost.com/local/public-safety/homicides-rise-washington/2020/12/31/59dd659e-3953-11eb-bc68-96af0daae728_story.html) surge in homicides during the covid pandemic.
 
-The main finding presented here is unsurprising. Since March 2020, Washington D.C. has faced two epidemics: one of the old (covid) and one of the young (violence). However, writing in the early months of 2020, the extent to which age distributions of each differ is rarely acknowledged.
+The main finding presented here is unsurprising. Since March 2020, Washington D.C. has faced two epidemics: one of the old (covid) and one of the young (violence). However, writing in the early months of 2022, the extent to which age distributions of each differ is rarely acknowledged.
 
 There are a lot of different ways to present this data, so I welcome any suggestions.
 
@@ -55,18 +55,18 @@ This chart shows the number of people of a given age who have died of covid in W
 
 **All D.C. Covid Deaths by Age, March 2020 - Present, Population Adjusted**
 
-This chart is an important complement to the previous chart. Each bar represents the number of covid deaths as a proportion of the population of people of a given age in Washington. As you can see, one is actually exponentially more likely to have died of covid the older they are; the effect is accentuated by the fact that DC's population skews particularly towards young adults.
+This chart is an important complement to the previous chart. Each bar represents the number of covid deaths as a proportion of the population of people of a given age in Washington. As you can see, one is actually exponentially more likely to have died of covid the older one is; the effect is accentuated by the fact that DC's population skews heavily towards young adults.
 
 {% include /dccharts/covidage_adjusted.html %}
 
 *Census data only provides population estimates for the 85+ population, which means that the rightmost bar corresponds to that group.*
 
-To better understand the numbers in the chart, it is helpful to tabulate the another representation the data—the 1 in X probabilities of someone of a given age having died of covid:
+To better understand the numbers in the above chart, it is helpful to tabulate the another representation the data—the 1 in X probabilities of someone of a given age having died of covid:
 
-|                                   Age Group |   0-9    |      10-19      |      20-29      |    30-39     |    40-49     |     50-59      |     60-69      |     70-79     |      80+       |
-| ------------------------------------------: | :------: | :-------------: | :-------------: | :----------: | :----------: | :------------: | :------------: | :-----------: | :------------: |
-|         People in Age Group per Covid Death | ∞ (none) | 1 in     66,645 | 1 in     26,270 | 1 in   4,460 | 1 in   1,495 | 1 in       431 | 1 in       193 | 1 in      120 | 1 in        56 |
-| Increase in Rate versus next youngest group |    -     |        -        |      2.5 X      |    5.9 X     |     3 X      |     3.5 X      |     2.2 X      |     1.6 X     |     2.1 X      |
+|                                   Age Group |      0-9      |      10-19      |      20-29      |    30-39     |    40-49     |     50-59      |     60-69      |     70-79     |      80+       |
+| ------------------------------------------: | :-----------: | :-------------: | :-------------: | :----------: | :----------: | :------------: | :------------: | :-----------: | :------------: |
+|         People in Age Group per Covid Death | 1 in ∞ (none) | 1 in     66,645 | 1 in     26,270 | 1 in   4,460 | 1 in   1,495 | 1 in       431 | 1 in       193 | 1 in      120 | 1 in        56 |
+| Increase in Rate versus next youngest group |       -       |        -        |      2.5 X      |    5.9 X     |     3 X      |     3.5 X      |     2.2 X      |     1.6 X     |     2.1 X      |
 
 
 
@@ -87,6 +87,8 @@ The crucial difference between the age distribution here and the overall data ab
 
 {% include /dccharts/covidagepv.html %}
 
+
+
 **All D.C. Covid Deaths by Age, May 2021 - Present, Population Adjusted**
 
 What is striking about the post-vaccination, population-adjusted chart is the extent to which it no longer skews so heavily right. The diminished risk of the chance of dying from covid is also clearer in this form.
@@ -97,11 +99,11 @@ What is striking about the post-vaccination, population-adjusted chart is the ex
 
 To better understand the numbers in the chart, it is again helpful to tabulate the another representation the data—the 1 in X probabilities of someone of a given age having died of covid:
 
-| Age  Group                                                   | 0-9  | 10-20       | 20-29       | 30-39       | 40-49      | 50-59      | 60-69      | 70-79    | 80+      |
-| ------------------------------------------------------------ | ---- | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- | -------- | -------- |
-| March 2020 - May 2021                                        | -    | 1 in 66,645 | 1 in 26,270 | 1 in 6,132  | 1 in 1,936 | 1 in 537   | 1 in 235   | 1 in 144 | 1 in 62  |
-| May 2021 - Present                                           | -    | -           | -           | 1 in 16,352 | 1 in 6,554 | 1 in 2,180 | 1 in 1,087 | 1 in 727 | 1 in 554 |
-| Difference  (x times less likely to die of covid after May 2021) | -    | -           | -           | 2.7         | 3.4        | 4.1        | 4.6        | 5        | 8.9      |
+| Age  Group                                                   | 0-9           | 10-20         | 20-29         | 30-39       | 40-49      | 50-59      | 60-69      | 70-79    | 80+      |
+| ------------------------------------------------------------ | ------------- | ------------- | ------------- | ----------- | ---------- | ---------- | ---------- | -------- | -------- |
+| March 2020 - May 2021                                        | 1 in ∞ (none) | 1 in 66,645   | 1 in 26,270   | 1 in 6,132  | 1 in 1,936 | 1 in 537   | 1 in 235   | 1 in 144 | 1 in 62  |
+| May 2021 - Present                                           | 1 in ∞ (none) | 1 in ∞ (none) | 1 in ∞ (none) | 1 in 16,352 | 1 in 6,554 | 1 in 2,180 | 1 in 1,087 | 1 in 727 | 1 in 554 |
+| Difference  (x times less likely to die of covid after May 2021) | -             | -             | -             | 2.7         | 3.4        | 4.1        | 4.6        | 5        | 8.9      |
 
 #### Homicide Data (March 2020-Present)
 
@@ -133,7 +135,7 @@ To better appreciate these numbers, it is helpful to tabulate them by age group 
 
 #### Comparing Homicide Data and Covid Fatality Data
 
-The following charts compare homicide and covid death age distribution. They mainly illustrate the very divergent populations most affected by each cause.
+The following charts compare homicide and covid death age distribution. They mainly illustrate the very divergent populations most affected by each cause of death.
 
 **Overall Incidence**
 
@@ -141,13 +143,11 @@ The following charts compare homicide and covid death age distribution. They mai
 
 **Incidence Since May 2021**
 
-We see here how the reduction in covid fatalities means in more recent months has meant that the number of lives lost to both homicides is comparable. 
+We see here how the reduction in covid fatalities in more recent months has meant that the numbers of lives lost to both homicides (180) and covid (209) since May 2021 are comparable. 
 
 {% include /dccharts/postvaxcombinedchart.html %}
 
 **Incidence Since May 2021, Population Adjusted**
-
-
 
 {% include /dccharts/pv_popadjusted.html %}
 
@@ -165,7 +165,7 @@ We see here how the reduction in covid fatalities means in more recent months ha
 
 **Population Counts**  [U.S. Census Bureau (2020 Singe-Age Population Estimate)](https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/state/asrh/SC-EST2020-AGESEX-CIV.csv)
 
-**Age Count Data**  I wrote a script that extracts age, date, and gender information from Washington, D.C.'s semi-daily press releases, which list more specific information for each covid decedent than is included in published numbers.
+**Age Count Data**  I wrote a script that extracts age, date, and gender information from Washington, D.C.'s semi-daily press releases, which list more specific information for each covid decedent than is included in published numbers. You can find the raw data [here](https://github.com/danieljstone/DC-COVID-Deaths-Age-Gender/blob/main/dc_covid_deaths.csv).
 
 **Homicide Data** I scraped most of the data from [DCWitness.org](https://dcwitness.org/interactive-map/), but filled in a number of gaps (namely missing ages) with my own research.
 
