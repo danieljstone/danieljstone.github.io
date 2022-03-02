@@ -95,7 +95,13 @@ What is striking about the post-vaccination, population-adjusted chart is the ex
 
 *Census data only provides population estimates for the 85+ population, which means that the rightmost bar corresponds to that group.*
 
+To better understand the numbers in the chart, it is again helpful to tabulate the another representation the data—the 1 in X probabilities of someone of a given age having died of covid:
 
+| Age  Group                                                   | 0-9  | 10-20       | 20-29       | 30-39       | 40-49      | 50-59      | 60-69      | 70-79    | 80+      |
+| ------------------------------------------------------------ | ---- | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- | -------- | -------- |
+| March 2020 - May 2021                                        | -    | 1 in 66,645 | 1 in 26,270 | 1 in 6,132  | 1 in 1,936 | 1 in 537   | 1 in 235   | 1 in 144 | 1 in 62  |
+| May 2021 - Present                                           | -    | -           | -           | 1 in 16,352 | 1 in 6,554 | 1 in 2,180 | 1 in 1,087 | 1 in 727 | 1 in 554 |
+| Difference  (x times less likely to die of covid after May 2021) | -    | -           | -           | 2.7         | 3.4        | 4.1        | 4.6        | 5        | 8.9      |
 
 #### Homicide Data (March 2020-Present)
 
@@ -134,6 +140,8 @@ The following charts compare homicide and covid death age distribution. They mai
 {% include /dccharts/combinedchart.html %}
 
 **Incidence Since May 2021**
+
+We see here how the reduction in covid fatalities means in more recent months has meant that the number of lives lost to both homicides is comparable. 
 
 {% include /dccharts/postvaxcombinedchart.html %}
 
