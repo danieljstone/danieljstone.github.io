@@ -6,7 +6,7 @@ layout: page
 
 **Introduction**
 
-This page presents detailed age-distribution data for covid mortality and homicides in Washington, D.C. from March 2020 to February 2022. To my knowledge, many of the numbers presented here are not available elsewhere. Further, typical age-distribution data groups populations in large bands (e.g., 34-55), meaning that one rarely perceives the shape of the underlying data.
+This page presents detailed age-distribution data for covid mortality and homicides in Washington, D.C. from March 2020 to February 2022. Most of the numbers presented here are not available elsewhere since they were arrived at by recreating a non-public database. Moreover, typical covid and homicide age-distribution data groups populations in large bands (e.g., 34-55), meaning that one rarely sees the shape of the underlying data.
 
  The only direct connection that I draw between the covid pandemic and homicide surge is that:
 
