@@ -25,7 +25,9 @@ I was motivated to compile the homicide data presented here in effort to better 
 
 The main finding presented here is unsurprising. Since March 2020, Washington D.C. has faced two epidemics: one of the old (covid) and one of the young (violence).
 
-There are a lot of different ways to present this data, so I welcome any suggestions.
+There are a lot of different ways to present this data, so I welcome any suggestions. 
+
+As of the time of compiling these charts, my covid data is missing approximately ten (less than 1% of data points), while the homicide data reports about 29 more cases than the DC police department's numbers (capturing, it appears, hit and runs, some of which were subsequently charged as vehicular homicides). 
 
 ## The Charts
 
@@ -153,7 +155,16 @@ We see here how the reduction in covid fatalities in more recent months has mean
 
 *Census data only provides population estimates for the 85+ population, which means that the rightmost bar corresponds to that group.*
 
+To put it together, for the period starting with May 1, 2021:
 
+| Age Group        |     0-9     | 10-19       | 20-29      |    30-39    |    40-49    |    50-59    |    60-69    |    70-79    |   80+    |
+| ---------------- | :---------: | ----------- | ---------- | :---------: | :---------: | :---------: | :---------: | :---------: | :------: |
+| Overall Covid    |      -      | -           | -          | 1 in 16,352 | 1 in 6,554  | 1 in 2,180  | 1 in 1,087  |  1 in 727   | 1 in 554 |
+| Overall Homicide | 1 in 74,438 | 1 in 5,127  | 1 in 2,085 | 1 in 2,777  | 1 in 2,840  | 1 in 5,138  | 1 in 12,389 | 1 in 19,255 |    -     |
+| Female Covid     |      -      | -           | -          | 1 in 9,532  | 1 in 4,785  | 1 in 1,915  | 1 in 1,411  |  1 in 747   | 1 in 580 |
+| Female Homicide  | 1 in 36,312 | 1 in 34,527 | 1 in 7,229 | 1 in 9,532  | 1 in 7,178  | 1 in 18,189 | 1 in 33,872 | 1 in 22,419 |    -     |
+| Male Covid       |             |             |            | 1 in 70,913 | 1 in 10,535 | 1 in 2,539  |  1 in 851   |  1 in 700   | 1 in 512 |
+| Male Homicide    |             | 1 in 2,677  | 1 in 1,114 | 1 in 1,576  | 1 in 1,756  | 1 in 2,963  | 1 in 7,019  | 1 in 16,090 |          |
 
 
 
