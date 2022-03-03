@@ -17,7 +17,7 @@ As a consequence, I think the charts and numbers shown on this page should be pa
 
 **Background**
 
-I was motivated to compile the covid data presented here after finding it was impossible to calculate the ratio of reported covid cases to deaths across age groups using published data. (The D.C. government uses different age brackets for case data and fatality data.)
+I was motivated to compile the covid data presented here after finding it was impossible to calculate the ratio of reported covid cases to deaths across age groups using published data. (The D.C. government uses different age brackets for [case data](https://i.imgur.com/p9bkE0A.png) and [fatality](https://i.imgur.com/TxQw7C7.png) data.)
 
 I sought these numbers in effort to investigate whether early-stage vaccination distribution strategy targeted groups that would benefit from the vaccine. I ultimately found that a large proportion of then-scarce doses were going to young people at virtually no risk of dying from covid, while many older people continued to die from the virus, which I wrote about in [The Washington Post](https://www.washingtonpost.com/opinions/2021/03/30/why-are-half-newly-vaccinated-people-dc-younger-than-44/).
 
