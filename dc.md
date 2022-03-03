@@ -6,9 +6,9 @@ layout: page
 
 **Introduction**
 
-This page presents detailed age-distribution data for covid mortality and homicides in Washington, D.C. from March 2020 to February 2022. Most of the numbers presented here are not available elsewhere since they were arrived at by recreating a non-public database. Moreover, typical covid and homicide age-distribution data groups populations in large bands (e.g., 34-55), meaning that one rarely sees the shape of the underlying data.
+This page presents detailed age-distribution data for covid mortality and homicides in Washington, D.C. from March 2020 to February 2022. Most of the numbers presented here are not available elsewhere since they come from recreating a non-public database. Moreover, typical covid and homicide age-distribution data groups populations in large bands (e.g., 34-55), meaning that one rarely sees the shape of the underlying data.
 
- The only direct connection that I draw between the covid pandemic and homicide surge is that:
+To be clear, the only direct connection that I draw between the covid pandemic and homicide surge is that:
 
 -  in the past two years they have received more public attention than any other causes of deaths in the nation's capital and 
 - have been considered addressable if not largely solvable by public policy. 
@@ -19,11 +19,11 @@ As a consequence, I think the charts and numbers shown on this page should be pa
 
 I was motivated to compile the covid data presented here after finding it was impossible to calculate the ratio of reported covid cases to deaths across age groups using published data. (The D.C. government uses different age brackets for case data and fatality data.)
 
-I sought these numbers in effort to investigate whether early-stage vaccination distribution strategy targeted groups who would benefit from the vaccine. I ultimately found that a large proportion of then-scarce doses were going to young people at virtually no risk of dying from covid, while many older people continued to die from the virus, which I wrote about in [The Washington Post](https://www.washingtonpost.com/opinions/2021/03/30/why-are-half-newly-vaccinated-people-dc-younger-than-44/).
+I sought these numbers in effort to investigate whether early-stage vaccination distribution strategy targeted groups that would benefit from the vaccine. I ultimately found that a large proportion of then-scarce doses were going to young people at virtually no risk of dying from covid, while many older people continued to die from the virus, which I wrote about in [The Washington Post](https://www.washingtonpost.com/opinions/2021/03/30/why-are-half-newly-vaccinated-people-dc-younger-than-44/).
 
 I was motivated to compile the homicide data presented here in effort to better understand the District's [widely-reported](https://www.washingtonpost.com/local/public-safety/homicides-rise-washington/2020/12/31/59dd659e-3953-11eb-bc68-96af0daae728_story.html) surge in homicides during the covid pandemic.
 
-The main finding presented here is unsurprising. Since March 2020, Washington D.C. has faced two epidemics: one of the old (covid) and one of the young (violence). However, writing in the early months of 2022, the extent to which age distributions of each differ is rarely acknowledged.
+The main finding presented here is unsurprising. Since March 2020, Washington D.C. has faced two epidemics: one of the old (covid) and one of the young (violence).
 
 There are a lot of different ways to present this data, so I welcome any suggestions.
 
@@ -41,7 +41,7 @@ This chart shows the peaks and troughs that correspond to covid's primary waves:
 
 **Total Homicides and Covid Deaths March 2020 - Present**
 
-This chart shows the accumulation of covid deaths and homicides since March of 2020. What is particularly strikingly visible are the impacts of the two first covid surges. As regards the homicide trend, even if we zoom in, we can see that it is fairly constant.
+This chart shows the accumulation of covid deaths and homicides since March of 2020. What is particularly strikingly visible are the impacts of the two first covid surges.
 
 {% include /dccharts/cumchart.html %}
 
@@ -49,7 +49,7 @@ This chart shows the accumulation of covid deaths and homicides since March of 2
 
 **All D.C. Covid Deaths by Age, March 2020 - Present** 
 
-This chart shows the number of people of a given age who have died of covid in Washington, D.C. since the start of the pandemic. Even without correcting it for how many people of a given age actually live in D.C. (the next chart), we can see that the population skews older. The median age of a covid decedent is 72.  The youngest reported age is 17 and that is something of an outlier. 
+This chart shows the number of people of a given age who have died of covid in Washington, D.C. since the start of the pandemic. Even without correcting for how many people of a given age actually live in D.C. (the next chart), we can see that the population skews older. The median age of a covid decedent is 72.  The youngest reported age is 17 and that is something of an outlier. 
 
 {% include /dccharts/covidbyage.html %}
 
