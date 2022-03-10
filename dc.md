@@ -166,11 +166,7 @@ To put it together, for the period starting with May 1, 2021:
 | Male Covid       |             |             |            | 1 in 70,913 | 1 in 10,535 | 1 in 2,539  |  1 in 851   |  1 in 700   | 1 in 512 |
 | Male Homicide    |             | 1 in 2,677  | 1 in 1,114 | 1 in 1,576  | 1 in 1,756  | 1 in 2,963  | 1 in 7,019  | 1 in 16,090 |          |
 
-
-
 ## Sources
-
-
 
 **Case Counts** D.C. Government (Retrieved February 24, 2022) (This page may be overwritten.)
 
@@ -179,4 +175,3 @@ To put it together, for the period starting with May 1, 2021:
 **Age Count Data**  I wrote a script that extracts age, date, and gender information from Washington, D.C.'s semi-daily press releases, which list more specific information for each covid decedent than is included in published numbers. You can find the raw data [here](https://github.com/danieljstone/DC-COVID-Deaths-Age-Gender/blob/main/dc_covid_deaths.csv).
 
 **Homicide Data** I scraped most of the data from [DCWitness.org](https://dcwitness.org/interactive-map/), but filled in a number of gaps (namely missing ages) with my own research.
-
