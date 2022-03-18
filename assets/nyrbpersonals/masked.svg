@@ -1,0 +1,1701 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2340" height="1080">
+<style>@font-face{font-family:'Ultra';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Ultra';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(600,733)" font-size="50" style="fill:black">seeks</text>
+<text transform="translate(213,819)" font-size="47" style="fill:black">man</text>
+<text transform="translate(592,568)" font-size="39" style="fill:black">woman</text>
+<text transform="translate(294,312)" font-size="36" style="fill:black">good</text>
+<text transform="translate(1874,1001) rotate(-90)" font-size="34" style="fill:black">attractive</text>
+<text transform="translate(1904,864) rotate(-90)" font-size="31" style="fill:black">life</text>
+<text transform="translate(1361,973)" font-size="29" style="fill:black">new</text>
+<text transform="translate(1453,739)" font-size="28" style="fill:black">travel</text>
+<text transform="translate(1695,978)" font-size="28" style="fill:black">fit</text>
+<text transform="translate(599,654)" font-size="27" style="fill:black">loves</text>
+<text transform="translate(1319,360)" font-size="27" style="fill:black">music</text>
+<text transform="translate(728,618)" font-size="27" style="fill:black">NYC</text>
+<text transform="translate(1454,105)" font-size="27" style="fill:black">humor</text>
+<text transform="translate(449,64)" font-size="27" style="fill:black">fun</text>
+<text transform="translate(1394,686) rotate(-90)" font-size="27" style="fill:black">looking</text>
+<text transform="translate(1946,210) rotate(-90)" font-size="26" style="fill:black">slender</text>
+<text transform="translate(407,166)" font-size="26" style="fill:black">love</text>
+<text transform="translate(247,470)" font-size="26" style="fill:black">smart</text>
+<text transform="translate(1897,134) rotate(-90)" font-size="26" style="fill:black">warm</text>
+<text transform="translate(2019,421) rotate(-90)" font-size="26" style="fill:black">seeking</text>
+<text transform="translate(1086,693)" font-size="26" style="fill:black">area</text>
+<text transform="translate(278,426)" font-size="25" style="fill:black">art</text>
+<text transform="translate(259,53)" font-size="25" style="fill:black">great</text>
+<text transform="translate(275,410) rotate(-90)" font-size="25" style="fill:black">male</text>
+<text transform="translate(2028,353)" font-size="25" style="fill:black">very</text>
+<text transform="translate(1259,237) rotate(-90)" font-size="25" style="fill:black">professional</text>
+<text transform="translate(998,432) rotate(-90)" font-size="25" style="fill:black">sense</text>
+<text transform="translate(1127,416)" font-size="25" style="fill:black">successful</text>
+<text transform="translate(1649,673)" font-size="25" style="fill:black">well</text>
+<text transform="translate(536,416)" font-size="25" style="fill:black">educated</text>
+<text transform="translate(216,910)" font-size="23" style="fill:black">relationship</text>
+<text transform="translate(1419,178)" font-size="23" style="fill:black">kind</text>
+<text transform="translate(1997,222)" font-size="23" style="fill:black">active</text>
+<text transform="translate(754,982) rotate(-90)" font-size="23" style="fill:black">beautiful</text>
+<text transform="translate(540,161)" font-size="23" style="fill:black">intellectual</text>
+<text transform="translate(1706,242) rotate(-90)" font-size="23" style="fill:black">financially</text>
+<text transform="translate(1358,744) rotate(-90)" font-size="23" style="fill:black">passionate</text>
+<text transform="translate(1288,233) rotate(-90)" font-size="23" style="fill:black">tall</text>
+<text transform="translate(461,925)" font-size="21" style="fill:black">accomplished</text>
+<text transform="translate(951,466)" font-size="21" style="fill:black">Boston</text>
+<text transform="translate(2011,926)" font-size="21" style="fill:black">more</text>
+<text transform="translate(1128,993)" font-size="21" style="fill:black">loving</text>
+<text transform="translate(1477,993)" font-size="21" style="fill:black">pretty</text>
+<text transform="translate(1995,886)" font-size="21" style="fill:black">arts</text>
+<text transform="translate(615,232)" font-size="21" style="fill:black">slim</text>
+<text transform="translate(1440,360)" font-size="21" style="fill:black">hiking</text>
+<text transform="translate(783,480)" font-size="21" style="fill:black">heart</text>
+<text transform="translate(1115,616)" font-size="21" style="fill:black">interested</text>
+<text transform="translate(247,838)" font-size="21" style="fill:black">adventurous</text>
+<text transform="translate(1818,483)" font-size="21" style="fill:black">photo</text>
+<text transform="translate(1596,737)" font-size="21" style="fill:black">curious</text>
+<text transform="translate(1471,221)" font-size="21" style="fill:black">writer</text>
+<text transform="translate(2004,466)" font-size="21" style="fill:black">athletic</text>
+<text transform="translate(725,366)" font-size="21" style="fill:black">beauty</text>
+<text transform="translate(193,993)" font-size="21" style="fill:black">intelligent</text>
+<text transform="translate(1515,968) rotate(-90)" font-size="21" style="fill:black">divorced</text>
+<text transform="translate(903,868)" font-size="21" style="fill:black">Manhattan</text>
+<text transform="translate(547,352)" font-size="21" style="fill:black">widow</text>
+<text transform="translate(885,992)" font-size="21" style="fill:black">share</text>
+<text transform="translate(1785,358)" font-size="21" style="fill:black">interests</text>
+<text transform="translate(1998,113)" font-size="21" style="fill:black">world</text>
+<text transform="translate(1127,739)" font-size="21" style="fill:black">theater</text>
+<text transform="translate(1091,952)" font-size="21" style="fill:black">open</text>
+<text transform="translate(910,197) rotate(-90)" font-size="21" style="fill:black">retired</text>
+<text transform="translate(929,228)" font-size="21" style="fill:black">home</text>
+<text transform="translate(784,125)" font-size="21" style="fill:black">long</text>
+<text transform="translate(311,108)" font-size="21" style="fill:black">enjoys</text>
+<text transform="translate(1230,1007) rotate(-90)" font-size="21" style="fill:black">female</text>
+<text transform="translate(753,393)" font-size="21" style="fill:black">yet</text>
+<text transform="translate(361,420)" font-size="21" style="fill:black">her</text>
+<text transform="translate(501,1001)" font-size="21" style="fill:black">friends</text>
+<text transform="translate(576,97)" font-size="21" style="fill:black">passion</text>
+<text transform="translate(1321,887)" font-size="21" style="fill:black">please</text>
+<text transform="translate(340,143)" font-size="21" style="fill:black">time</text>
+<text transform="translate(610,692)" font-size="21" style="fill:black">smile</text>
+<text transform="translate(1356,933)" font-size="21" style="fill:black">from</text>
+<text transform="translate(1631,606)" font-size="21" style="fill:black">funny</text>
+<text transform="translate(493,898) rotate(-90)" font-size="21" style="fill:black">no</text>
+<text transform="translate(1309,239) rotate(-90)" font-size="21" style="fill:black">movies</text>
+<text transform="translate(613,604)" font-size="21" style="fill:black">looks</text>
+<text transform="translate(1215,695)" font-size="21" style="fill:black">NY</text>
+<text transform="translate(1598,630)" font-size="21" style="fill:black">old</text>
+<text transform="translate(970,708)" font-size="21" style="fill:black">meet</text>
+<text transform="translate(290,241) rotate(-90)" font-size="21" style="fill:black">sophisticated</text>
+<text transform="translate(927,619)" font-size="21" style="fill:black">nature</text>
+<text transform="translate(1410,743) rotate(-90)" font-size="21" style="fill:black">secure</text>
+<text transform="translate(899,739)" font-size="21" style="fill:black">Jewish</text>
+<text transform="translate(596,232) rotate(-90)" font-size="21" style="fill:black">mind</text>
+<text transform="translate(826,204)" font-size="21" style="fill:black">Paris</text>
+<text transform="translate(718,995) rotate(-90)" font-size="21" style="fill:black">gentleman</text>
+<text transform="translate(274,446)" font-size="21" style="fill:black">out</text>
+<text transform="translate(1485,463)" font-size="21" style="fill:black">bright</text>
+<text transform="translate(225,877)" font-size="21" style="fill:black">lover</text>
+<text transform="translate(1345,403)" font-size="21" style="fill:black">York</text>
+<text transform="translate(899,887)" font-size="21" style="fill:black">your</text>
+<text transform="translate(1329,990)" font-size="21" style="fill:black">politics</text>
+<text transform="translate(1875,434)" font-size="21" style="fill:black">artist</text>
+<text transform="translate(1747,430)" font-size="21" style="fill:black">have</text>
+<text transform="translate(1124,935) rotate(-90)" font-size="21" style="fill:black">I'm</text>
+<text transform="translate(1112,873)" font-size="16" style="fill:black">companionship</text>
+<text transform="translate(1979,995)" font-size="16" style="fill:black">books</text>
+<text transform="translate(1444,420)" font-size="16" style="fill:black">all</text>
+<text transform="translate(1473,392) rotate(-90)" font-size="16" style="fill:black">am</text>
+<text transform="translate(1175,485)" font-size="16" style="fill:black">creative</text>
+<text transform="translate(763,426)" font-size="16" style="fill:black">age</text>
+<text transform="translate(1918,241) rotate(-90)" font-size="16" style="fill:black">conversation</text>
+<text transform="translate(903,912)" font-size="16" style="fill:black">skiing</text>
+<text transform="translate(1559,122)" font-size="16" style="fill:black">eyes</text>
+<text transform="translate(1439,616)" font-size="16" style="fill:black">companion</text>
+<text transform="translate(2003,488)" font-size="16" style="fill:black">healthy</text>
+<text transform="translate(1380,455)" font-size="16" style="fill:black">sensual</text>
+<text transform="translate(1658,690)" font-size="16" style="fill:black">literature</text>
+<text transform="translate(1893,996)" font-size="16" style="fill:black">food</text>
+<text transform="translate(1988,146)" font-size="16" style="fill:black">work</text>
+<text transform="translate(956,481)" font-size="16" style="fill:black">friendship</text>
+<text transform="translate(227,937)" font-size="16" style="fill:black">can</text>
+<text transform="translate(495,869)" font-size="16" style="fill:black">cooking</text>
+<text transform="translate(975,670)" font-size="16" style="fill:black">liberal</text>
+<text transform="translate(228,489)" font-size="16" style="fill:black">affectionate</text>
+<text transform="translate(538,478)" font-size="16" style="fill:black">professor</text>
+<text transform="translate(242,962)" font-size="16" style="fill:black">sexy</text>
+<text transform="translate(599,621)" font-size="16" style="fill:black">romance</text>
+<text transform="translate(1083,663)" font-size="16" style="fill:black">caring</text>
+<text transform="translate(1544,353)" font-size="16" style="fill:black">young</text>
+<text transform="translate(998,970)" font-size="16" style="fill:black">enjoy</text>
+<text transform="translate(1111,464)" font-size="16" style="fill:black">based</text>
+<text transform="translate(909,930)" font-size="16" style="fill:black">independent</text>
+<text transform="translate(1977,236)" font-size="16" style="fill:black">outdoors</text>
+<text transform="translate(2069,979)" font-size="16" style="fill:black">single</text>
+<text transform="translate(1989,902)" font-size="16" style="fill:black">laugh</text>
+<text transform="translate(324,328)" font-size="16" style="fill:black">academic</text>
+<text transform="translate(300,82)" font-size="16" style="fill:black">classical</text>
+<text transform="translate(229,313)" font-size="16" style="fill:black">this</text>
+<text transform="translate(1147,355)" font-size="16" style="fill:black">laughter</text>
+<text transform="translate(1218,667)" font-size="16" style="fill:black">playful</text>
+<text transform="translate(947,157) rotate(-90)" font-size="16" style="fill:black">petite</text>
+<text transform="translate(1989,181)" font-size="16" style="fill:black">warmth</text>
+<text transform="translate(669,202)" font-size="16" style="fill:black">nice</text>
+<text transform="translate(1452,873)" font-size="16" style="fill:black">mid</text>
+<text transform="translate(1873,450)" font-size="16" style="fill:black">has</text>
+<text transform="translate(391,218)" font-size="16" style="fill:black">youthful</text>
+<text transform="translate(365,468)" font-size="16" style="fill:black">lively</text>
+<text transform="translate(660,132)" font-size="16" style="fill:black">spirit</text>
+<text transform="translate(1834,995)" font-size="16" style="fill:black">it</text>
+<text transform="translate(1664,861)" font-size="16" style="fill:black">self</text>
+<text transform="translate(1597,984)" font-size="16" style="fill:black">wit</text>
+<text transform="translate(791,171)" font-size="16" style="fill:black">opera</text>
+<text transform="translate(1727,230) rotate(-90)" font-size="16" style="fill:black">photography</text>
+<text transform="translate(846,668)" font-size="16" style="fill:black">years</text>
+<text transform="translate(522,369)" font-size="16" style="fill:black">real</text>
+<text transform="translate(748,98)" font-size="16" style="fill:black">romantic</text>
+<text transform="translate(1411,147)" font-size="16" style="fill:black">people</text>
+<text transform="translate(278,391)" font-size="16" style="fill:black">intellectually</text>
+<text transform="translate(1700,708)" font-size="16" style="fill:black">friend</text>
+<text transform="translate(376,878)" font-size="16" style="fill:black">witty</text>
+<text transform="translate(368,186)" font-size="16" style="fill:black">interesting</text>
+<text transform="translate(2004,858)" font-size="16" style="fill:black">cultured</text>
+<text transform="translate(1320,371)" font-size="16" style="fill:black">generous</text>
+<text transform="translate(859,363)" font-size="16" style="fill:black">than</text>
+<text transform="translate(1884,372)" font-size="16" style="fill:black">too</text>
+<text transform="translate(1697,882)" font-size="16" style="fill:black">san</text>
+<text transform="translate(554,491)" font-size="16" style="fill:black">blonde</text>
+<text transform="translate(1902,60)" font-size="16" style="fill:black">living</text>
+<text transform="translate(473,969)" font-size="16" style="fill:black">live</text>
+<text transform="translate(2034,940)" font-size="16" style="fill:black">easygoing</text>
+<text transform="translate(1539,162)" font-size="16" style="fill:black">England</text>
+<text transform="translate(802,884)" font-size="16" style="fill:black">both</text>
+<text transform="translate(642,748)" font-size="16" style="fill:black">French</text>
+<text transform="translate(1238,637)" font-size="16" style="fill:black">year</text>
+<text transform="translate(1358,40)" font-size="16" style="fill:black">his</text>
+<text transform="translate(672,582)" font-size="16" style="fill:black">international</text>
+<text transform="translate(1606,1005)" font-size="16" style="fill:black">tennis</text>
+<text transform="translate(2024,371)" font-size="16" style="fill:black">lives</text>
+<text transform="translate(820,232)" font-size="16" style="fill:black">figure</text>
+<text transform="translate(877,690)" font-size="16" style="fill:black">cook</text>
+<text transform="translate(1462,709)" font-size="16" style="fill:black">adventure</text>
+<text transform="translate(1744,391)" font-size="16" style="fill:black">sailing</text>
+<text transform="translate(512,441)" font-size="16" style="fill:black">coast</text>
+<text transform="translate(1876,939)" font-size="16" style="fill:black">wine</text>
+<text transform="translate(280,349)" font-size="16" style="fill:black">non</text>
+<text transform="translate(907,92)" font-size="16" style="fill:black">film</text>
+<text transform="translate(1949,157)" font-size="16" style="fill:black">museums</text>
+<text transform="translate(1746,448)" font-size="16" style="fill:black">family</text>
+<text transform="translate(1561,206)" font-size="16" style="fill:black">will</text>
+<text transform="translate(1551,417)" font-size="16" style="fill:black">so</text>
+<text transform="translate(1362,470)" font-size="16" style="fill:black">hearted</text>
+<text transform="translate(422,474)" font-size="16" style="fill:black">only</text>
+<text transform="translate(287,971)" font-size="16" style="fill:black">la</text>
+<text transform="translate(737,688)" font-size="16" style="fill:black">reading</text>
+<text transform="translate(1416,644) rotate(-90)" font-size="16" style="fill:black">values</text>
+<text transform="translate(1754,1000) rotate(-90)" font-size="16" style="fill:black">comfortable</text>
+<text transform="translate(1170,55)" font-size="16" style="fill:black">lovely</text>
+<text transform="translate(1452,435)" font-size="16" style="fill:black">similar</text>
+<text transform="translate(1116,392)" font-size="16" style="fill:black">social</text>
+<text transform="translate(798,860)" font-size="16" style="fill:black">plus</text>
+<text transform="translate(2040,432)" font-size="16" style="fill:black">city</text>
+<text transform="translate(1711,724)" font-size="16" style="fill:black">do</text>
+<text transform="translate(2023,279)" font-size="16" style="fill:black">London</text>
+<text transform="translate(373,351)" font-size="16" style="fill:black">happy</text>
+<text transform="translate(478,941)" font-size="16" style="fill:black">jazz</text>
+<text transform="translate(1487,485)" font-size="16" style="fill:black">one</text>
+<text transform="translate(1213,74)" font-size="16" style="fill:black">we</text>
+<text transform="translate(1331,553)" font-size="16" style="fill:black">lady</text>
+<text transform="translate(1026,430) rotate(-90)" font-size="16" style="fill:black">European</text>
+<text transform="translate(689,640)" font-size="16" style="fill:black">traveled</text>
+<text transform="translate(724,995)" font-size="16" style="fill:black">former</text>
+<text transform="translate(1769,114)" font-size="16" style="fill:black">reply</text>
+<text transform="translate(354,854)" font-size="16" style="fill:black">down</text>
+<text transform="translate(1777,472)" font-size="16" style="fill:black">late</text>
+<text transform="translate(1319,568)" font-size="16" style="fill:black">guy</text>
+<text transform="translate(1273,153) rotate(-90)" font-size="16" style="fill:black">architecture</text>
+<text transform="translate(1986,197)" font-size="16" style="fill:black">Francisco</text>
+<text transform="translate(1460,637)" font-size="16" style="fill:black">minded</text>
+<text transform="translate(1224,898)" font-size="16" style="fill:black">ready</text>
+<text transform="translate(1910,397)" font-size="16" style="fill:black">up</text>
+<text transform="translate(360,440)" font-size="16" style="fill:black">together</text>
+<text transform="translate(2026,390)" font-size="16" style="fill:black">likes</text>
+<text transform="translate(252,853)" font-size="16" style="fill:black">early</text>
+<text transform="translate(811,898)" font-size="16" style="fill:black">also</text>
+<text transform="translate(1478,977) rotate(-90)" font-size="16" style="fill:black">handsome</text>
+<text transform="translate(1347,903)" font-size="16" style="fill:black">natural</text>
+<text transform="translate(858,721)" font-size="16" style="fill:black">still</text>
+<text transform="translate(1359,80) rotate(-90)" font-size="16" style="fill:black">ivy</text>
+<text transform="translate(1355,432)" font-size="16" style="fill:black">really</text>
+<text transform="translate(1463,685)" font-size="16" style="fill:black">ideas</text>
+<text transform="translate(1532,967) rotate(-90)" font-size="16" style="fill:black">Maine</text>
+<text transform="translate(1635,685) rotate(-90)" font-size="16" style="fill:black">blue</text>
+<text transform="translate(1917,922) rotate(-90)" font-size="16" style="fill:black">graceful</text>
+<text transform="translate(924,205)" font-size="16" style="fill:black">married</text>
+<text transform="translate(434,34)" font-size="16" style="fill:black">dark</text>
+<text transform="translate(987,635)" font-size="16" style="fill:black">over</text>
+<text transform="translate(1982,90)" font-size="16" style="fill:black">wonderful</text>
+<text transform="translate(1540,180)" font-size="16" style="fill:black">believes</text>
+<text transform="translate(1711,611)" font-size="16" style="fill:black">eyed</text>
+<text transform="translate(2093,866)" font-size="16" style="fill:black">high</text>
+<text transform="translate(444,118)" font-size="16" style="fill:black">just</text>
+<text transform="translate(982,317)" font-size="16" style="fill:black">talk</text>
+<text transform="translate(1599,962)" font-size="16" style="fill:black">what</text>
+<text transform="translate(1003,158) rotate(-90)" font-size="16" style="fill:black">country</text>
+<text transform="translate(1093,431)" font-size="16" style="fill:black">worldly</text>
+<text transform="translate(2046,994)" font-size="16" style="fill:black">Ph.D.</text>
+<text transform="translate(530,177)" font-size="16" style="fill:black">now</text>
+<text transform="translate(1096,708)" font-size="16" style="fill:black">biking</text>
+<text transform="translate(1372,947)" font-size="16" style="fill:black">hair</text>
+<text transform="translate(504,387)" font-size="16" style="fill:black">bay</text>
+<text transform="translate(402,232)" font-size="16" style="fill:black">learning</text>
+<text transform="translate(1366,484)" font-size="16" style="fill:black">history</text>
+<text transform="translate(807,457) rotate(-90)" font-size="16" style="fill:black">person</text>
+<text transform="translate(553,115)" font-size="16" style="fill:black">dogs</text>
+<text transform="translate(1477,388)" font-size="16" style="fill:black">easy</text>
+<text transform="translate(1546,374)" font-size="16" style="fill:black">author</text>
+<text transform="translate(1340,857)" font-size="16" style="fill:black">honest</text>
+<text transform="translate(1705,946) rotate(-90)" font-size="16" style="fill:black">things</text>
+<text transform="translate(1236,917)" font-size="16" style="fill:black">light</text>
+<text transform="translate(1482,236)" font-size="16" style="fill:black">walks</text>
+<text transform="translate(1115,631)" font-size="16" style="fill:black">must</text>
+<text transform="translate(1732,932) rotate(-90)" font-size="16" style="fill:black">trim</text>
+<text transform="translate(1348,1005)" font-size="16" style="fill:black">confident</text>
+<text transform="translate(952,947)" font-size="16" style="fill:black">interest</text>
+<text transform="translate(1286,173) rotate(-90)" font-size="16" style="fill:black">much</text>
+<text transform="translate(1879,957)" font-size="16" style="fill:black">read</text>
+<text transform="translate(1745,239) rotate(-90)" font-size="16" style="fill:black">confidence</text>
+<text transform="translate(309,220) rotate(-90)" font-size="16" style="fill:black">preferred</text>
+<text transform="translate(1243,450)" font-size="16" style="fill:black">full</text>
+<text transform="translate(1014,162)" font-size="16" style="fill:black">e</text>
+<text transform="translate(263,924)" font-size="16" style="fill:black">articulate</text>
+<text transform="translate(856,634)" font-size="16" style="fill:black">serious</text>
+<text transform="translate(1209,715)" font-size="16" style="fill:black">strong</text>
+<text transform="translate(1423,196)" font-size="16" style="fill:black">lasting</text>
+<text transform="translate(1896,216) rotate(-90)" font-size="16" style="fill:black">dating</text>
+<text transform="translate(619,668)" font-size="16" style="fill:black">known</text>
+<text transform="translate(884,378)" font-size="16" style="fill:black">east</text>
+<text transform="translate(992,988)" font-size="16" style="fill:black">term</text>
+<text transform="translate(387,486)" font-size="16" style="fill:black">any</text>
+<text transform="translate(920,596)" font-size="16" style="fill:black">mail</text>
+<text transform="translate(2061,959)" font-size="16" style="fill:black">intellect</text>
+<text transform="translate(586,579)" font-size="12" style="fill:black">something</text>
+<text transform="translate(346,817)" font-size="12" style="fill:black">passions</text>
+<text transform="translate(250,450) rotate(-90)" font-size="12" style="fill:black">never</text>
+<text transform="translate(578,871)" font-size="12" style="fill:black">body</text>
+<text transform="translate(778,493)" font-size="12" style="fill:black">adventures</text>
+<text transform="translate(853,701)" font-size="12" style="fill:black">children</text>
+<text transform="translate(1424,890)" font-size="12" style="fill:black">films</text>
+<text transform="translate(1750,401)" font-size="12" style="fill:black">style</text>
+<text transform="translate(1866,31)" font-size="12" style="fill:black">emotionally</text>
+<text transform="translate(846,649)" font-size="12" style="fill:black">politically</text>
+<text transform="translate(1139,749)" font-size="12" style="fill:black">restaurants</text>
+<text transform="translate(193,1004)" font-size="12" style="fill:black">expressive</text>
+<text transform="translate(867,442) rotate(-90)" font-size="12" style="fill:black">outgoing</text>
+<text transform="translate(1040,410) rotate(-90)" font-size="12" style="fill:black">stunning</text>
+<text transform="translate(1475,408)" font-size="12" style="fill:black">gentle</text>
+<text transform="translate(1110,370)" font-size="12" style="fill:black">same</text>
+<text transform="translate(1233,980)" font-size="12" style="fill:black">yoga</text>
+<text transform="translate(774,979) rotate(-90)" font-size="12" style="fill:black">intelligence</text>
+<text transform="translate(971,683)" font-size="12" style="fill:black">thoughtful</text>
+<text transform="translate(1444,749)" font-size="12" style="fill:black">character</text>
+<text transform="translate(782,155)" font-size="12" style="fill:black">widowed</text>
+<text transform="translate(549,132)" font-size="12" style="fill:black">laughs</text>
+<text transform="translate(1856,225)" font-size="12" style="fill:black">sports</text>
+<text transform="translate(1775,483)" font-size="12" style="fill:black">other</text>
+<text transform="translate(1869,393)" font-size="12" style="fill:black">book</text>
+<text transform="translate(1333,77) rotate(-90)" font-size="12" style="fill:black">find</text>
+<text transform="translate(456,76)" font-size="12" style="fill:black">our</text>
+<text transform="translate(734,664)" font-size="12" style="fill:black">excellent</text>
+<text transform="translate(731,341)" font-size="12" style="fill:black">brunette</text>
+<text transform="translate(858,343)" font-size="12" style="fill:black">spirited</text>
+<text transform="translate(231,293)" font-size="12" style="fill:black">around</text>
+<text transform="translate(1418,126)" font-size="12" style="fill:black">exploring</text>
+<text transform="translate(379,367)" font-size="12" style="fill:black">delights</text>
+<text transform="translate(2043,337) rotate(-90)" font-size="12" style="fill:black">culture</text>
+<text transform="translate(1220,382)" font-size="12" style="fill:black">partner</text>
+<text transform="translate(1151,933) rotate(-90)" font-size="12" style="fill:black">stable</text>
+<text transform="translate(647,457)" font-size="12" style="fill:black">local</text>
+<text transform="translate(376,197)" font-size="12" style="fill:black">sweet</text>
+<text transform="translate(1321,195) rotate(-90)" font-size="12" style="fill:black">times</text>
+<text transform="translate(343,876)" font-size="12" style="fill:black">lots</text>
+<text transform="translate(1489,979) rotate(-90)" font-size="12" style="fill:black">cosmopolitan</text>
+<text transform="translate(923,172) rotate(-90)" font-size="12" style="fill:black">pleasures</text>
+<text transform="translate(517,451)" font-size="12" style="fill:black">mature</text>
+<text transform="translate(597,963)" font-size="12" style="fill:black">right</text>
+<text transform="translate(1976,969)" font-size="12" style="fill:black">west</text>
+<text transform="translate(1366,71)" font-size="12" style="fill:black">ltr</text>
+<text transform="translate(906,751)" font-size="12" style="fill:black">considered</text>
+<text transform="translate(1550,140)" font-size="12" style="fill:black">cultural</text>
+<text transform="translate(1875,969)" font-size="12" style="fill:black">marriage</text>
+<text transform="translate(1107,641)" font-size="12" style="fill:black">earth</text>
+<text transform="translate(1389,744) rotate(-90)" font-size="12" style="fill:black">piano</text>
+<text transform="translate(1601,901)" font-size="12" style="fill:black">women</text>
+<text transform="translate(883,608)" font-size="12" style="fill:black">best</text>
+<text transform="translate(828,454)" font-size="12" style="fill:black">legs</text>
+<text transform="translate(1233,936)" font-size="12" style="fill:black">send</text>
+<text transform="translate(1201,88) rotate(-90)" font-size="12" style="fill:black">low</text>
+<text transform="translate(1765,1009) rotate(-90)" font-size="12" style="fill:black">unpretentious</text>
+<text transform="translate(1992,124)" font-size="12" style="fill:black">irreverent</text>
+<text transform="translate(1441,664)" font-size="12" style="fill:black">traveler</text>
+<text transform="translate(992,648)" font-size="12" style="fill:black">Chicago</text>
+<text transform="translate(1093,967)" font-size="12" style="fill:black">elegant</text>
+<text transform="translate(1185,30)" font-size="12" style="fill:black">France</text>
+<text transform="translate(1757,369)" font-size="12" style="fill:black">energetic</text>
+<text transform="translate(626,376)" font-size="12" style="fill:black">literate</text>
+<text transform="translate(1660,751)" font-size="12" style="fill:black">service</text>
+<text transform="translate(1239,950)" font-size="12" style="fill:black">dinner</text>
+<text transform="translate(1255,367) rotate(-90)" font-size="12" style="fill:black">ns</text>
+<text transform="translate(965,494)" font-size="12" style="fill:black">available</text>
+<text transform="translate(248,30)" font-size="11" style="fill:black">community</text>
+<text transform="translate(955,1002)" font-size="11" style="fill:black">southern</text>
+<text transform="translate(563,362)" font-size="11" style="fill:black">herself</text>
+<text transform="translate(746,590)" font-size="11" style="fill:black">someone</text>
+<text transform="translate(1325,214)" font-size="11" style="fill:black">let's</text>
+<text transform="translate(543,848)" font-size="11" style="fill:black">older</text>
+<text transform="translate(1570,393)" font-size="11" style="fill:black">cute</text>
+<text transform="translate(1615,884)" font-size="11" style="fill:black">day</text>
+<text transform="translate(966,442)" font-size="11" style="fill:black">progressive</text>
+<text transform="translate(1436,599)" font-size="11" style="fill:black">Cambridge</text>
+<text transform="translate(623,631)" font-size="11" style="fill:black">concerts</text>
+<text transform="translate(980,292)" font-size="11" style="fill:black">literary</text>
+<text transform="translate(1768,129)" font-size="11" style="fill:black">between</text>
+<text transform="translate(196,839)" font-size="11" style="fill:black">toned</text>
+<text transform="translate(758,408)" font-size="11" style="fill:black">calm</text>
+<text transform="translate(749,699)" font-size="11" style="fill:black">side</text>
+<text transform="translate(609,225) rotate(-90)" font-size="11" style="fill:black">sensitive</text>
+<text transform="translate(421,142)" font-size="11" style="fill:black">seriously</text>
+<text transform="translate(1095,443)" font-size="11" style="fill:black">business</text>
+<text transform="translate(1830,336)" font-size="11" style="fill:black">deeply</text>
+<text transform="translate(929,172)" font-size="11" style="fill:black">bio</text>
+<text transform="translate(1677,242) rotate(-90)" font-size="11" style="fill:black">men</text>
+<text transform="translate(728,955) rotate(-90)" font-size="11" style="fill:black">compassionate</text>
+<text transform="translate(1682,163) rotate(-90)" font-size="11" style="fill:black">feminine</text>
+<text transform="translate(1520,749)" font-size="11" style="fill:black">back</text>
+<text transform="translate(1136,1001)" font-size="11" style="fill:black">some</text>
+<text transform="translate(578,745)" font-size="11" style="fill:black">big</text>
+<text transform="translate(593,900)" font-size="11" style="fill:black">SWF</text>
+<text transform="translate(1166,338)" font-size="11" style="fill:black">DC</text>
+<text transform="translate(647,111)" font-size="11" style="fill:black">include</text>
+<text transform="translate(1448,851)" font-size="11" style="fill:black">adores</text>
+<text transform="translate(1210,91)" font-size="11" style="fill:black">golf</text>
+<text transform="translate(1153,851)" font-size="11" style="fill:black">published</text>
+<text transform="translate(1757,91)" font-size="11" style="fill:black">company</text>
+<text transform="translate(1897,70)" font-size="11" style="fill:black">Italian</text>
+<text transform="translate(734,1006)" font-size="11" style="fill:black">vibrant</text>
+<text transform="translate(2021,400)" font-size="11" style="fill:black">walking</text>
+<text transform="translate(1126,479)" font-size="11" style="fill:black">lawyer</text>
+<text transform="translate(1551,437)" font-size="11" style="fill:black">Italy</text>
+<text transform="translate(2079,374)" font-size="11" style="fill:black">write</text>
+<text transform="translate(2045,1004)" font-size="11" style="fill:black">Angeles</text>
+<text transform="translate(433,85)" font-size="11" style="fill:black">outdoor</text>
+<text transform="translate(2099,879)" font-size="11" style="fill:black">many</text>
+<text transform="translate(375,162)" font-size="11" style="fill:black">play</text>
+<text transform="translate(797,976) rotate(-90)" font-size="11" style="fill:black">los</text>
+<text transform="translate(1353,457)" font-size="11" style="fill:black">f</text>
+<text transform="translate(976,433) rotate(-90)" font-size="11" style="fill:black">sophistication</text>
+<text transform="translate(1866,409)" font-size="11" style="fill:black">counterpart</text>
+<text transform="translate(1024,148) rotate(-90)" font-size="11" style="fill:black">physically</text>
+<text transform="translate(1338,413)" font-size="11" style="fill:black">sometimes</text>
+<text transform="translate(291,232)" font-size="11" style="fill:black">dinners</text>
+<text transform="translate(710,650)" font-size="11" style="fill:black">outlook</text>
+<text transform="translate(1166,495)" font-size="11" style="fill:black">through</text>
+<text transform="translate(2079,302)" font-size="11" style="fill:black">classy</text>
+<text transform="translate(567,225) rotate(-90)" font-size="11" style="fill:black">can't</text>
+<text transform="translate(1247,960)" font-size="11" style="fill:black">quick</text>
+<text transform="translate(680,1004)" font-size="11" style="fill:black">roots</text>
+<text transform="translate(1491,79)" font-size="11" style="fill:black">shape</text>
+<text transform="translate(851,213)" font-size="11" style="fill:black">touch</text>
+<text transform="translate(1008,416) rotate(-90)" font-size="11" style="fill:black">appreciated</text>
+<text transform="translate(623,389)" font-size="11" style="fill:black">gracious</text>
+<text transform="translate(1879,462)" font-size="11" style="fill:black">striking</text>
+<text transform="translate(491,979)" font-size="11" style="fill:black">himself</text>
+<text transform="translate(1153,593)" font-size="11" style="fill:black">meeting</text>
+<text transform="translate(1375,544)" font-size="11" style="fill:black">reader</text>
+<text transform="translate(320,62)" font-size="11" style="fill:black">drawn</text>
+<text transform="translate(1097,884)" font-size="11" style="fill:black">green</text>
+<text transform="translate(1228,460)" font-size="11" style="fill:black">aged</text>
+<text transform="translate(1200,625)" font-size="11" style="fill:black">part</text>
+<text transform="translate(1637,646)" font-size="11" style="fill:black">thin</text>
+<text transform="translate(1452,393) rotate(-90)" font-size="11" style="fill:black">key</text>
+<text transform="translate(218,323)" font-size="11" style="fill:black">spiritual</text>
+<text transform="translate(1350,381)" font-size="11" style="fill:black">vivacious</text>
+<text transform="translate(456,907)" font-size="11" style="fill:black">American</text>
+<text transform="translate(1347,867)" font-size="11" style="fill:black">English</text>
+<text transform="translate(911,186)" font-size="11" style="fill:black">genuine</text>
+<text transform="translate(1591,715)" font-size="11" style="fill:black">always</text>
+<text transform="translate(714,746)" font-size="11" style="fill:black">highly</text>
+<text transform="translate(1381,915)" font-size="11" style="fill:black">life's</text>
+<text transform="translate(1629,984)" font-size="11" style="fill:black">being</text>
+<text transform="translate(1788,405)" font-size="11" style="fill:black">first</text>
+<text transform="translate(607,107)" font-size="11" style="fill:black">lived</text>
+<text transform="translate(1956,238) rotate(-90)" font-size="11" style="fill:black">Santa</text>
+<text transform="translate(1726,638)" font-size="11" style="fill:black">soft</text>
+<text transform="translate(2033,448) rotate(-90)" font-size="11" style="fill:black">soul</text>
+<text transform="translate(288,400)" font-size="10" style="fill:black">engaging</text>
+<text transform="translate(575,883)" font-size="10" style="fill:black">dancing</text>
+<text transform="translate(1618,941)" font-size="10" style="fill:black">writing</text>
+<text transform="translate(986,718)" font-size="10" style="fill:black">future</text>
+<text transform="translate(1010,881)" font-size="10" style="fill:black">should</text>
+<text transform="translate(784,136)" font-size="10" style="fill:black">thinks</text>
+<text transform="translate(1524,486)" font-size="10" style="fill:black">there</text>
+<text transform="translate(1657,197)" font-size="10" style="fill:black">fine</text>
+<text transform="translate(503,415)" font-size="10" style="fill:black">etc.</text>
+<text transform="translate(886,185) rotate(-90)" font-size="10" style="fill:black">everything</text>
+<text transform="translate(623,360)" font-size="10" style="fill:black">refined</text>
+<text transform="translate(279,365)" font-size="10" style="fill:black">stylish</text>
+<text transform="translate(1588,746)" font-size="10" style="fill:black">able</text>
+<text transform="translate(1884,1006)" font-size="10" style="fill:black">most</text>
+<text transform="translate(448,97)" font-size="10" style="fill:black">dwm</text>
+<text transform="translate(364,121)" font-size="10" style="fill:black">swm</text>
+<text transform="translate(523,402) rotate(-90)" font-size="10" style="fill:black">w</text>
+<text transform="translate(221,945)" font-size="9" style="fill:black">contemporary</text>
+<text transform="translate(655,211)" font-size="9" style="fill:black">sparkling</text>
+<text transform="translate(1834,493)" font-size="9" style="fill:black">favorite</text>
+<text transform="translate(1371,753) rotate(-90)" font-size="9" style="fill:black">humorous</text>
+<text transform="translate(946,238)" font-size="9" style="fill:black">northern</text>
+<text transform="translate(609,240)" font-size="9" style="fill:black">special</text>
+<text transform="translate(344,799)" font-size="9" style="fill:black">dining</text>
+<text transform="translate(485,949)" font-size="9" style="fill:black">making</text>
+<text transform="translate(383,891)" font-size="9" style="fill:black">others</text>
+<text transform="translate(1773,142)" font-size="9" style="fill:black">you're</text>
+<text transform="translate(777,721)" font-size="9" style="fill:black">close</text>
+<text transform="translate(1708,732)" font-size="9" style="fill:black">makes</text>
+<text transform="translate(1092,408)" font-size="9" style="fill:black">quiet</text>
+<text transform="translate(309,285)" font-size="9" style="fill:black">urban</text>
+<text transform="translate(1562,402)" font-size="9" style="fill:black">when</text>
+<text transform="translate(250,886)" font-size="9" style="fill:black">she</text>
+<text transform="translate(1419,725) rotate(-90)" font-size="9" style="fill:black">mischievous</text>
+<text transform="translate(812,237) rotate(-90)" font-size="9" style="fill:black">generosity</text>
+<text transform="translate(1560,215)" font-size="9" style="fill:black">Europe</text>
+<text transform="translate(223,971)" font-size="9" style="fill:black">dance</text>
+<text transform="translate(263,227) rotate(-90)" font-size="9" style="fill:black">plays</text>
+<text transform="translate(1539,963)" font-size="9" style="fill:black">girl</text>
+<text transform="translate(1718,997)" font-size="9" style="fill:black">into</text>
+<text transform="translate(849,383) rotate(-90)" font-size="9" style="fill:black">make</text>
+<text transform="translate(219,885)" font-size="9" style="fill:black">note</text>
+<text transform="translate(1096,672)" font-size="9" style="fill:black">want</text>
+<text transform="translate(411,411)" font-size="9" style="fill:black">get</text>
+<text transform="translate(1262,364)" font-size="9" style="fill:black">sf</text>
+<text transform="translate(398,336)" font-size="9" style="fill:black">informed</text>
+<text transform="translate(524,459)" font-size="9" style="fill:black">kindness</text>
+<text transform="translate(632,540)" font-size="9" style="fill:black">without</text>
+<text transform="translate(692,896) rotate(-90)" font-size="9" style="fill:black">working</text>
+<text transform="translate(1711,856)" font-size="9" style="fill:black">small</text>
+<text transform="translate(1327,744) rotate(-90)" font-size="9" style="fill:black">white</text>
+<text transform="translate(1330,105)" font-size="9" style="fill:black">deep</text>
+<text transform="translate(1456,646)" font-size="9" style="fill:black">kids</text>
+<text transform="translate(1954,136) rotate(-90)" font-size="9" style="fill:black">compatible</text>
+<text transform="translate(2022,410)" font-size="9" style="fill:black">especially</text>
+<text transform="translate(2033,866)" font-size="9" style="fill:black">charming</text>
+<text transform="translate(1315,29)" font-size="9" style="fill:black">willing</text>
+<text transform="translate(585,977)" font-size="9" style="fill:black">younger</text>
+<text transform="translate(1255,688)" font-size="9" style="fill:black">south</text>
+<text transform="translate(1214,362)" font-size="9" style="fill:black">game</text>
+<text transform="translate(1738,619)" font-size="9" style="fill:black">left</text>
+<text transform="translate(1539,81)" font-size="9" style="fill:black">lot</text>
+<text transform="translate(2099,317)" font-size="9" style="fill:black">NPR</text>
+<text transform="translate(499,424)" font-size="9" style="fill:black">traveling</text>
+<text transform="translate(1701,867)" font-size="9" style="fill:black">resident</text>
+<text transform="translate(1156,1010)" font-size="9" style="fill:black">beaches</text>
+<text transform="translate(1612,909)" font-size="9" style="fill:black">foreign</text>
+<text transform="translate(294,1002)" font-size="9" style="fill:black">playing</text>
+<text transform="translate(1621,861)" font-size="9" style="fill:black">boards</text>
+<text transform="translate(1317,225)" font-size="9" style="fill:black">wants</text>
+<text transform="translate(1032,121)" font-size="9" style="fill:black">fan</text>
+<text transform="translate(753,83)" font-size="9" style="fill:black">Barcelona</text>
+<text transform="translate(1643,616)" font-size="9" style="fill:black">current</text>
+<text transform="translate(401,448)" font-size="9" style="fill:black">perhaps</text>
+<text transform="translate(1488,1002)" font-size="9" style="fill:black">sharing</text>
+<text transform="translate(531,1009)" font-size="9" style="fill:black">health</text>
+<text transform="translate(971,955)" font-size="9" style="fill:black">Mozart</text>
+<text transform="translate(1287,125)" font-size="9" style="fill:black">summer</text>
+<text transform="translate(1494,417)" font-size="9" style="fill:black">often</text>
+<text transform="translate(991,183)" font-size="9" style="fill:black">cape</text>
+<text transform="translate(1150,370)" font-size="9" style="fill:black">type</text>
+<text transform="translate(880,98)" font-size="9" style="fill:black">dwf</text>
+<text transform="translate(815,106)" font-size="9" style="fill:black">two</text>
+<text transform="translate(717,374)" font-size="8" style="fill:black">authenticity</text>
+<text transform="translate(420,198)" font-size="8" style="fill:black">nonsmoking</text>
+<text transform="translate(1287,137)" font-size="8" style="fill:black">enjoying</text>
+<text transform="translate(582,540)" font-size="8" style="fill:black">personal</text>
+<text transform="translate(1232,389)" font-size="8" style="fill:black">pleasure</text>
+<text transform="translate(2077,381)" font-size="8" style="fill:black">explore</text>
+<text transform="translate(781,702)" font-size="8" style="fill:black">prefers</text>
+<text transform="translate(887,966)" font-size="8" style="fill:black">respond</text>
+<text transform="translate(1987,385) rotate(-90)" font-size="8" style="fill:black">widower</text>
+<text transform="translate(1663,123) rotate(-90)" font-size="8" style="fill:black">enough</text>
+<text transform="translate(268,932)" font-size="8" style="fill:black">places</text>
+<text transform="translate(996,724)" font-size="8" style="fill:black">grace</text>
+<text transform="translate(419,319)" font-size="8" style="fill:black">bent</text>
+<text transform="translate(1920,381)" font-size="8" style="fill:black">lean</text>
+<text transform="translate(1748,225)" font-size="8" style="fill:black">next</text>
+<text transform="translate(349,884)" font-size="8" style="fill:black">them</text>
+<text transform="translate(520,884)" font-size="8" style="fill:black">red</text>
+<text transform="translate(1436,339)" font-size="8" style="fill:black">Manhattanite</text>
+<text transform="translate(1485,494)" font-size="8" style="fill:black">exploration</text>
+<text transform="translate(1471,717)" font-size="8" style="fill:black">Westchester</text>
+<text transform="translate(579,933)" font-size="8" style="fill:black">connection</text>
+<text transform="translate(636,470)" font-size="8" style="fill:black">lifestyle</text>
+<text transform="translate(805,906)" font-size="8" style="fill:black">possible</text>
+<text transform="translate(574,498)" font-size="8" style="fill:black">sensuous</text>
+<text transform="translate(291,90)" font-size="8" style="fill:black">animals</text>
+<text transform="translate(796,379)" font-size="8" style="fill:black">depth</text>
+<text transform="translate(680,138)" font-size="8" style="fill:black">don't</text>
+<text transform="translate(798,346)" font-size="8" style="fill:black">maybe</text>
+<text transform="translate(1447,228)" font-size="8" style="fill:black">know</text>
+<text transform="translate(1374,493)" font-size="8" style="fill:black">integrity</text>
+<text transform="translate(1985,164)" font-size="8" style="fill:black">languages</text>
+<text transform="translate(1981,977)" font-size="8" style="fill:black">discreet</text>
+<text transform="translate(1203,881)" font-size="8" style="fill:black">dynamic</text>
+<text transform="translate(1541,227)" font-size="8" style="fill:black">engaged</text>
+<text transform="translate(194,826)" font-size="8" style="fill:black">resides</text>
+<text transform="translate(2086,285)" font-size="8" style="fill:black">solvent</text>
+<text transform="translate(422,492)" font-size="8" style="fill:black">abroad</text>
+<text transform="translate(1578,337)" font-size="8" style="fill:black">career</text>
+<text transform="translate(1595,647)" font-size="8" style="fill:black">study</text>
+<text transform="translate(216,853)" font-size="8" style="fill:black">dash</text>
+<text transform="translate(419,66)" font-size="8" style="fill:black">does</text>
+<text transform="translate(242,70)" font-size="8" style="fill:black">even</text>
+<text transform="translate(845,686)" font-size="8" style="fill:black">head</text>
+<text transform="translate(346,45)" font-size="8" style="fill:black">way</text>
+<text transform="translate(1331,338)" font-size="8" style="fill:black">consultant</text>
+<text transform="translate(1092,716)" font-size="8" style="fill:black">preferably</text>
+<text transform="translate(709,541)" font-size="8" style="fill:black">committed</text>
+<text transform="translate(960,387) rotate(-90)" font-size="8" style="fill:black">gardening</text>
+<text transform="translate(875,386)" font-size="8" style="fill:black">artistic</text>
+<text transform="translate(1858,235)" font-size="8" style="fill:black">intimacy</text>
+<text transform="translate(413,51)" font-size="8" style="fill:black">brainy</text>
+<text transform="translate(404,302)" font-size="8" style="fill:black">black</text>
+<text transform="translate(434,239)" font-size="8" style="fill:black">movie</text>
+<text transform="translate(582,731) rotate(-90)" font-size="8" style="fill:black">these</text>
+<text transform="translate(756,348)" font-size="8" style="fill:black">under</text>
+<text transform="translate(372,91)" font-size="8" style="fill:black">avid</text>
+<text transform="translate(2105,995)" font-size="8" style="fill:black">club</text>
+<text transform="translate(545,386)" font-size="8" style="fill:black">mwm</text>
+<text transform="translate(1368,674) rotate(-90)" font-size="8" style="fill:black">conversationalist</text>
+<text transform="translate(1175,38)" font-size="8" style="fill:black">irreverence</text>
+<text transform="translate(1289,76) rotate(-90)" font-size="8" style="fill:black">gravitates</text>
+<text transform="translate(1209,649)" font-size="8" style="fill:black">midwestern</text>
+<text transform="translate(1644,653)" font-size="8" style="fill:black">political</text>
+<text transform="translate(614,699)" font-size="8" style="fill:black">educator</text>
+<text transform="translate(643,440)" font-size="8" style="fill:black">presence</text>
+<text transform="translate(864,615)" font-size="8" style="fill:black">talented</text>
+<text transform="translate(533,185)" font-size="8" style="fill:black">teaching</text>
+<text transform="translate(2035,444)" font-size="8" style="fill:black">weekends</text>
+<text transform="translate(1762,412)" font-size="8" style="fill:black">whatever</text>
+<text transform="translate(1495,244)" font-size="8" style="fill:black">classic</text>
+<text transform="translate(1455,155)" font-size="8" style="fill:black">contact</text>
+<text transform="translate(217,921)" font-size="8" style="fill:black">nothing</text>
+<text transform="translate(314,120)" font-size="8" style="fill:black">Vermont</text>
+<text transform="translate(1430,215)" font-size="8" style="fill:black">brains</text>
+<text transform="translate(1903,39)" font-size="8" style="fill:black">letter</text>
+<text transform="translate(1579,187)" font-size="8" style="fill:black">tender</text>
+<text transform="translate(634,483)" font-size="8" style="fill:black">works</text>
+<text transform="translate(881,419) rotate(-90)" font-size="8" style="fill:black">born</text>
+<text transform="translate(1712,941)" font-size="8" style="fill:black">once</text>
+<text transform="translate(1398,749)" font-size="8" style="fill:black">poet</text>
+<text transform="translate(678,405)" font-size="8" style="fill:black">I'd</text>
+<text transform="translate(1325,1002)" font-size="8" style="fill:black">ad</text>
+<text transform="translate(249,400) rotate(-90)" font-size="8" style="fill:black">photographer</text>
+<text transform="translate(1884,925) rotate(-90)" font-size="8" style="fill:black">background</text>
+<text transform="translate(1234,242) rotate(-90)" font-size="8" style="fill:black">completely</text>
+<text transform="translate(1898,78)" font-size="8" style="fill:black">curiosity</text>
+<text transform="translate(2097,889)" font-size="8" style="fill:black">physical</text>
+<text transform="translate(756,443)" font-size="8" style="fill:black">college</text>
+<text transform="translate(986,276)" font-size="8" style="fill:black">radiant</text>
+<text transform="translate(1356,440)" font-size="8" style="fill:black">Zealand</text>
+<text transform="translate(311,201)" font-size="8" style="fill:black">giving</text>
+<text transform="translate(474,469) rotate(-90)" font-size="8" style="fill:black">recent</text>
+<text transform="translate(356,398)" font-size="8" style="fill:black">street</text>
+<text transform="translate(1723,590)" font-size="8" style="fill:black">brown</text>
+<text transform="translate(1416,871)" font-size="8" style="fill:black">views</text>
+<text transform="translate(1096,979)" font-size="8" style="fill:black">vital</text>
+<text transform="translate(752,110)" font-size="8" style="fill:black">keen</text>
+<text transform="translate(1912,486) rotate(-90)" font-size="8" style="fill:black">look</text>
+<text transform="translate(696,187)" font-size="8" style="fill:black">CA</text>
+<text transform="translate(1349,974) rotate(-90)" font-size="8" style="fill:black">spontaneity</text>
+<text transform="translate(814,448) rotate(-90)" font-size="8" style="fill:black">spontaneous</text>
+<text transform="translate(1474,372)" font-size="8" style="fill:black">adventurer</text>
+<text transform="translate(1341,82) rotate(-90)" font-size="8" style="fill:black">California</text>
+<text transform="translate(1160,936) rotate(-90)" font-size="8" style="fill:black">authentic</text>
+<text transform="translate(1335,748) rotate(-90)" font-size="8" style="fill:black">discovery</text>
+<text transform="translate(1831,840) rotate(-90)" font-size="8" style="fill:black">actively</text>
+<text transform="translate(281,332)" font-size="8" style="fill:black">socially</text>
+<text transform="translate(1828,366)" font-size="8" style="fill:black">somewhat</text>
+<text transform="translate(1978,1003)" font-size="8" style="fill:black">ability</text>
+<text transform="translate(1013,888)" font-size="8" style="fill:black">theatre</text>
+<text transform="translate(1312,233)" font-size="8" style="fill:black">thinker</text>
+<text transform="translate(2097,224) rotate(-90)" font-size="8" style="fill:black">change</text>
+<text transform="translate(781,730)" font-size="8" style="fill:black">little</text>
+<text transform="translate(1515,596)" font-size="8" style="fill:black">upbeat</text>
+<text transform="translate(935,845)" font-size="8" style="fill:black">verbal</text>
+<text transform="translate(1566,108)" font-size="8" style="fill:black">after</text>
+<text transform="translate(248,236)" font-size="8" style="fill:black">Asian</text>
+<text transform="translate(452,127)" font-size="8" style="fill:black">beach</text>
+<text transform="translate(2080,489)" font-size="8" style="fill:black">loyal</text>
+<text transform="translate(1858,208)" font-size="8" style="fill:black">trips</text>
+<text transform="translate(761,906) rotate(-90)" font-size="8" style="fill:black">water</text>
+<text transform="translate(1214,636)" font-size="8" style="fill:black">free</text>
+<text transform="translate(897,1000)" font-size="8" style="fill:black">take</text>
+<text transform="translate(1513,339)" font-size="8" style="fill:black">dog</text>
+<text transform="translate(1350,943)" font-size="8" style="fill:black">gay</text>
+<text transform="translate(1841,847) rotate(-90)" font-size="8" style="fill:black">experience</text>
+<text transform="translate(967,299)" font-size="8" style="fill:black">chocolate</text>
+<text transform="translate(1893,924) rotate(-90)" font-size="8" style="fill:black">gentlemen</text>
+<text transform="translate(1228,727)" font-size="8" style="fill:black">eclectic</text>
+<text transform="translate(465,41)" font-size="8" style="fill:black">painting</text>
+<text transform="translate(602,743)" font-size="8" style="fill:black">private</text>
+<text transform="translate(1185,335)" font-size="8" style="fill:black">sixties</text>
+<text transform="translate(1173,469)" font-size="8" style="fill:black">moment</text>
+<text transform="translate(1329,90)" font-size="8" style="fill:black">Sunday</text>
+<text transform="translate(2104,847)" font-size="8" style="fill:black">alive</text>
+<text transform="translate(822,182)" font-size="8" style="fill:black">need</text>
+<text transform="translate(590,731) rotate(-90)" font-size="8" style="fill:black">sex</text>
+<text transform="translate(883,879)" font-size="8" style="fill:black">go</text>
+<text transform="translate(2070,234)" font-size="8" style="fill:black">he</text>
+<text transform="translate(318,187) rotate(-90)" font-size="8" style="fill:black">enthusiastic</text>
+<text transform="translate(1669,985)" font-size="8" style="fill:black">Berkshires</text>
+<text transform="translate(2033,909)" font-size="8" style="fill:black">difference</text>
+<text transform="translate(1875,978)" font-size="8" style="fill:black">caucasian</text>
+<text transform="translate(2054,331) rotate(-90)" font-size="8" style="fill:black">anywhere</text>
+<text transform="translate(599,675)" font-size="8" style="fill:black">radiance</text>
+<text transform="translate(964,131) rotate(-90)" font-size="8" style="fill:black">watching</text>
+<text transform="translate(970,600)" font-size="8" style="fill:black">present</text>
+<text transform="translate(1232,470)" font-size="8" style="fill:black">Rockies</text>
+<text transform="translate(1103,377)" font-size="8" style="fill:black">mensch</text>
+<text transform="translate(348,284)" font-size="8" style="fill:black">shared</text>
+<text transform="translate(1421,672)" font-size="8" style="fill:black">simple</text>
+<text transform="translate(1394,72) rotate(-90)" font-size="8" style="fill:black">yorker</text>
+<text transform="translate(762,455)" font-size="8" style="fill:black">going</text>
+<text transform="translate(1260,696)" font-size="8" style="fill:black">call</text>
+<text transform="translate(775,557)" font-size="8" style="fill:black">days</text>
+<text transform="translate(907,671)" font-size="8" style="fill:black">I've</text>
+<text transform="translate(1087,909)" font-size="8" style="fill:black">rich</text>
+<text transform="translate(228,469) rotate(-90)" font-size="8" style="fill:black">end</text>
+<text transform="translate(416,34)" font-size="8" style="fill:black">ish</text>
+<text transform="translate(253,433)" font-size="8" style="fill:black">joy</text>
+<text transform="translate(766,648)" font-size="8" style="fill:black">co</text>
+<text transform="translate(2008,935)" font-size="8" style="fill:black">us</text>
+<text transform="translate(1864,378)" font-size="6" style="fill:black">approachable</text>
+<text transform="translate(1830,1006)" font-size="6" style="fill:black">breathtaking</text>
+<text transform="translate(1012,448)" font-size="6" style="fill:black">humanitarian</text>
+<text transform="translate(1452,111)" font-size="6" style="fill:black">renaissance</text>
+<text transform="translate(2064,472)" font-size="6" style="fill:black">supportive</text>
+<text transform="translate(979,912)" font-size="6" style="fill:black">conscious</text>
+<text transform="translate(801,462)" font-size="6" style="fill:black">snuggling</text>
+<text transform="translate(1709,738)" font-size="6" style="fill:black">Colorado</text>
+<text transform="translate(1898,101)" font-size="6" style="fill:black">friendly</text>
+<text transform="translate(1497,921) rotate(-90)" font-size="6" style="fill:black">unafraid</text>
+<text transform="translate(949,1008)" font-size="6" style="fill:black">chamber</text>
+<text transform="translate(1236,422)" font-size="6" style="fill:black">desires</text>
+<text transform="translate(813,213)" font-size="6" style="fill:black">smoking</text>
+<text transform="translate(1916,441)" font-size="6" style="fill:black">Toronto</text>
+<text transform="translate(748,623)" font-size="6" style="fill:black">ballet</text>
+<text transform="translate(1545,186)" font-size="6" style="fill:black">energy</text>
+<text transform="translate(1081,931)" font-size="6" style="fill:black">photos</text>
+<text transform="translate(1973,107)" font-size="6" style="fill:black">could</text>
+<text transform="translate(1998,443)" font-size="6" style="fill:black">house</text>
+<text transform="translate(1325,584)" font-size="6" style="fill:black">lithe</text>
+<text transform="translate(1753,100)" font-size="6" style="fill:black">media</text>
+<text transform="translate(844,101) rotate(-90)" font-size="6" style="fill:black">ocean</text>
+<text transform="translate(1020,848)" font-size="6" style="fill:black">range</text>
+<text transform="translate(1140,647)" font-size="6" style="fill:black">savvy</text>
+<text transform="translate(421,498)" font-size="6" style="fill:black">park</text>
+<text transform="translate(274,1007)" font-size="6" style="fill:black">zest</text>
+<text transform="translate(1808,455)" font-size="6" style="fill:black">cod</text>
+<text transform="translate(1027,305)" font-size="6" style="fill:black">djf</text>
+<text transform="translate(458,960)" font-size="6" style="fill:black">iso</text>
+<text transform="translate(993,1008)" font-size="6" style="fill:black">off</text>
+<text transform="translate(2018,474)" font-size="6" style="fill:black">fe</text>
+<text transform="translate(1751,206) rotate(-90)" font-size="6" style="fill:black">complimentary</text>
+<text transform="translate(1472,470)" font-size="6" style="fill:black">entrepreneur</text>
+<text transform="translate(386,126)" font-size="6" style="fill:black">activities</text>
+<text transform="translate(1993,383) rotate(-90)" font-size="6" style="fill:black">commitment</text>
+<text transform="translate(1474,441)" font-size="6" style="fill:black">optimistic</text>
+<text transform="translate(1979,494)" font-size="6" style="fill:black">personable</text>
+<text transform="translate(1591,993) rotate(-90)" font-size="6" style="fill:black">appealing</text>
+<text transform="translate(589,79)" font-size="6" style="fill:black">physician</text>
+<text transform="translate(754,670)" font-size="6" style="fill:black">substance</text>
+<text transform="translate(1818,499)" font-size="6" style="fill:black">activist</text>
+<text transform="translate(1082,649)" font-size="6" style="fill:black">involved</text>
+<text transform="translate(759,740)" font-size="6" style="fill:black">musician</text>
+<text transform="translate(1978,916)" font-size="6" style="fill:black">projects</text>
+<text transform="translate(868,675)" font-size="6" style="fill:black">Provence</text>
+<text transform="translate(1796,980) rotate(-90)" font-size="6" style="fill:black">central</text>
+<text transform="translate(1442,623)" font-size="6" style="fill:black">fiction</text>
+<text transform="translate(370,426)" font-size="6" style="fill:black">fitness</text>
+<text transform="translate(496,892)" font-size="6" style="fill:black">getting</text>
+<text transform="translate(1271,181) rotate(-90)" font-size="6" style="fill:black">patient</text>
+<text transform="translate(1122,450)" font-size="6" style="fill:black">mutual</text>
+<text transform="translate(976,689)" font-size="6" style="fill:black">crazy</text>
+<text transform="translate(419,377)" font-size="6" style="fill:black">jolla</text>
+<text transform="translate(297,238)" font-size="6" style="fill:black">ease</text>
+<text transform="translate(641,346)" font-size="6" style="fill:black">mwf</text>
+<text transform="translate(1599,660) rotate(-90)" font-size="6" style="fill:black">au</text>
+<text transform="translate(1443,476)" font-size="6" style="fill:black">NJ</text>
+<text transform="translate(1479,691)" font-size="6" style="fill:black">Philadelphia</text>
+<text transform="translate(538,392)" font-size="6" style="fill:black">journalist</text>
+<text transform="translate(995,654)" font-size="6" style="fill:black">executive</text>
+<text transform="translate(1995,864)" font-size="6" style="fill:black">naturally</text>
+<text transform="translate(1209,104)" font-size="6" style="fill:black">adorable</text>
+<text transform="translate(885,1006)" font-size="6" style="fill:black">attorney</text>
+<text transform="translate(1701,950)" font-size="6" style="fill:black">recently</text>
+<text transform="translate(1447,202)" font-size="6" style="fill:black">despite</text>
+<text transform="translate(1972,202)" font-size="6" style="fill:black">gardens</text>
+<text transform="translate(203,957)" font-size="6" style="fill:black">painter</text>
+<text transform="translate(2091,921)" font-size="6" style="fill:black">quality</text>
+<text transform="translate(901,714)" font-size="6" style="fill:black">running</text>
+<text transform="translate(717,169) rotate(-90)" font-size="6" style="fill:black">Seattle</text>
+<text transform="translate(1532,972)" font-size="6" style="fill:black">absurd</text>
+<text transform="translate(241,191)" font-size="6" style="fill:black">haired</text>
+<text transform="translate(348,156)" font-size="6" style="fill:black">island</text>
+<text transform="translate(1663,925)" font-size="6" style="fill:black">speaks</text>
+<text transform="translate(1027,106)" font-size="6" style="fill:black">think</text>
+<text transform="translate(595,331)" font-size="6" style="fill:black">been</text>
+<text transform="translate(1402,560)" font-size="6" style="fill:black">care</text>
+<text transform="translate(1212,905)" font-size="6" style="fill:black">rock</text>
+<text transform="translate(700,971) rotate(-90)" font-size="6" style="fill:black">hip</text>
+<text transform="translate(239,859)" font-size="6" style="fill:black">unassuming</text>
+<text transform="translate(381,203)" font-size="6" style="fill:black">Washington</text>
+<text transform="translate(397,238)" font-size="6" style="fill:black">favorites</text>
+<text transform="translate(657,422)" font-size="6" style="fill:black">nonsmoker</text>
+<text transform="translate(305,960)" font-size="6" style="fill:black">anything</text>
+<text transform="translate(1541,470)" font-size="6" style="fill:black">project</text>
+<text transform="translate(326,26)" font-size="6" style="fill:black">relaxed</text>
+<text transform="translate(1554,381)" font-size="6" style="fill:black">sonatas</text>
+<text transform="translate(1418,155)" font-size="6" style="fill:black">better</text>
+<text transform="translate(1023,896)" font-size="6" style="fill:black">cities</text>
+<text transform="translate(512,965)" font-size="6" style="fill:black">easily</text>
+<text transform="translate(1729,1010)" font-size="6" style="fill:black">joyful</text>
+<text transform="translate(384,494)" font-size="6" style="fill:black">junkie</text>
+<text transform="translate(1325,197)" font-size="6" style="fill:black">mother</text>
+<text transform="translate(774,150) rotate(-90)" font-size="6" style="fill:black">poetry</text>
+<text transform="translate(1720,671)" font-size="6" style="fill:black">spoken</text>
+<text transform="translate(1643,624)" font-size="6" style="fill:black">wishes</text>
+<text transform="translate(1663,588)" font-size="6" style="fill:black">cross</text>
+<text transform="translate(1246,621)" font-size="6" style="fill:black">knows</text>
+<text transform="translate(421,459)" font-size="6" style="fill:black">major</text>
+<text transform="translate(569,422)" font-size="6" style="fill:black">meals</text>
+<text transform="translate(1995,281)" font-size="6" style="fill:black">upper</text>
+<text transform="translate(885,907)" font-size="6" style="fill:black">ever</text>
+<text transform="translate(876,733)" font-size="6" style="fill:black">grad</text>
+<text transform="translate(683,977)" font-size="6" style="fill:black">help</text>
+<text transform="translate(1336,749)" font-size="6" style="fill:black">tell</text>
+<text transform="translate(364,373)" font-size="6" style="fill:black">whom</text>
+<text transform="translate(1763,214)" font-size="6" style="fill:black">CEO</text>
+<text transform="translate(966,979)" font-size="6" style="fill:black">gwm</text>
+<text transform="translate(730,700)" font-size="6" style="fill:black">how</text>
+<text transform="translate(809,917)" font-size="6" style="fill:black">met</text>
+<text transform="translate(1544,138) rotate(-90)" font-size="6" style="fill:black">sly</text>
+<text transform="translate(908,210)" font-size="6" style="fill:black">de</text>
+<text transform="translate(1908,447)" font-size="6" style="fill:black">creativity</text>
+<text transform="translate(1593,636)" font-size="6" style="fill:black">architect</text>
+<text transform="translate(986,171)" font-size="6" style="fill:black">challenge</text>
+<text transform="translate(1260,674)" font-size="6" style="fill:black">director</text>
+<text transform="translate(573,855)" font-size="6" style="fill:black">intimate</text>
+<text transform="translate(503,851)" font-size="6" style="fill:black">language</text>
+<text transform="translate(573,233) rotate(-90)" font-size="6" style="fill:black">oriented</text>
+<text transform="translate(1559,423)" font-size="6" style="fill:black">sparkle</text>
+<text transform="translate(1227,736)" font-size="6" style="fill:black">teacher</text>
+<text transform="translate(1214,341)" font-size="6" style="fill:black">coffee</text>
+<text transform="translate(1602,870)" font-size="6" style="fill:black">senior</text>
+<text transform="translate(1972,956)" font-size="6" style="fill:black">smarts</text>
+<text transform="translate(603,751)" font-size="6" style="fill:black">unless</text>
+<text transform="translate(278,407)" font-size="6" style="fill:black">fresh</text>
+<text transform="translate(792,868) rotate(-90)" font-size="6" style="fill:black">reads</text>
+<text transform="translate(1754,197)" font-size="6" style="fill:black">sharp</text>
+<text transform="translate(773,629)" font-size="6" style="fill:black">tapas</text>
+<text transform="translate(1945,993) rotate(-90)" font-size="6" style="fill:black">Terre</text>
+<text transform="translate(1014,733)" font-size="6" style="fill:black">I'll</text>
+<text transform="translate(537,874)" font-size="6" style="fill:black">mass</text>
+<text transform="translate(424,423)" font-size="6" style="fill:black">seek</text>
+<text transform="translate(643,395)" font-size="6" style="fill:black">walk</text>
+<text transform="translate(1787,78)" font-size="6" style="fill:black">dry</text>
+<text transform="translate(1712,238)" font-size="6" style="fill:black">its</text>
+<text transform="translate(713,341)" font-size="6" style="fill:black">st</text>
+<text transform="translate(1160,755)" font-size="6" style="fill:black">genuineness</text>
+<text transform="translate(922,893)" font-size="6" style="fill:black">extremely</text>
+<text transform="translate(1385,550)" font-size="6" style="fill:black">important</text>
+<text transform="translate(352,861)" font-size="6" style="fill:black">similarly</text>
+<text transform="translate(1158,599)" font-size="6" style="fill:black">balanced</text>
+<text transform="translate(2028,494)" font-size="6" style="fill:black">Berkeley</text>
+<text transform="translate(273,885)" font-size="6" style="fill:black">delicate</text>
+<text transform="translate(1196,422)" font-size="6" style="fill:black">demeanor</text>
+<text transform="translate(1429,858)" font-size="6" style="fill:black">enduring</text>
+<text transform="translate(717,381)" font-size="6" style="fill:black">flexible</text>
+<text transform="translate(1773,1012) rotate(-90)" font-size="6" style="fill:black">possibly</text>
+<text transform="translate(1728,120)" font-size="6" style="fill:black">African</text>
+<text transform="translate(869,82)" font-size="6" style="fill:black">another</text>
+<text transform="translate(1543,236)" font-size="6" style="fill:black">justice</text>
+<text transform="translate(1314,386)" font-size="6" style="fill:black">sincere</text>
+<text transform="translate(1514,111)" font-size="6" style="fill:black">travels</text>
+<text transform="translate(1663,204)" font-size="6" style="fill:black">dancer</text>
+<text transform="translate(1027,127)" font-size="6" style="fill:black">dreams</text>
+<text transform="translate(398,860)" font-size="6" style="fill:black">museum</text>
+<text transform="translate(1802,376)" font-size="6" style="fill:black">player</text>
+<text transform="translate(1599,752)" font-size="6" style="fill:black">urbane</text>
+<text transform="translate(1030,415)" font-size="6" style="fill:black">again</text>
+<text transform="translate(912,974)" font-size="6" style="fill:black">charm</text>
+<text transform="translate(1207,858)" font-size="6" style="fill:black">glass</text>
+<text transform="translate(324,215)" font-size="6" style="fill:black">hiker</text>
+<text transform="translate(198,817) rotate(-90)" font-size="6" style="fill:black">human</text>
+<text transform="translate(300,373)" font-size="6" style="fill:black">Latin</text>
+<text transform="translate(253,418)" font-size="6" style="fill:black">offer</text>
+<text transform="translate(1713,620)" font-size="6" style="fill:black">sassy</text>
+<text transform="translate(1666,94)" font-size="6" style="fill:black">spark</text>
+<text transform="translate(1673,697)" font-size="6" style="fill:black">sushi</text>
+<text transform="translate(926,998)" font-size="6" style="fill:black">youth</text>
+<text transform="translate(369,921)" font-size="6" style="fill:black">each</text>
+<text transform="translate(1983,300)" font-size="6" style="fill:black">near</text>
+<text transform="translate(194,968)" font-size="6" style="fill:black">risk</text>
+<text transform="translate(1720,86)" font-size="6" style="fill:black">were</text>
+<text transform="translate(849,707)" font-size="6" style="fill:black">M.D.</text>
+<text transform="translate(886,743)" font-size="6" style="fill:black">vin</text>
+<text transform="translate(978,185)" font-size="6" style="fill:black">CT</text>
+<text transform="translate(806,866)" font-size="6" style="fill:black">lighthearted</text>
+<text transform="translate(1745,454)" font-size="6" style="fill:black">appreciates</text>
+<text transform="translate(1923,904) rotate(-90)" font-size="6" style="fill:black">appreciator</text>
+<text transform="translate(541,375)" font-size="6" style="fill:black">captivating</text>
+<text transform="translate(279,495)" font-size="6" style="fill:black">environment</text>
+<text transform="translate(1009,138) rotate(-90)" font-size="6" style="fill:black">friendships</text>
+<text transform="translate(851,128) rotate(-90)" font-size="6" style="fill:black">matchmaking</text>
+<text transform="translate(1994,487) rotate(-90)" font-size="6" style="fill:black">philosophy</text>
+<text transform="translate(956,211)" font-size="6" style="fill:black">unattached</text>
+<text transform="translate(2101,897)" font-size="6" style="fill:black">economist</text>
+<text transform="translate(883,955)" font-size="6" style="fill:black">including</text>
+<text transform="translate(784,709)" font-size="6" style="fill:black">intuitive</text>
+<text transform="translate(1915,1005)" font-size="6" style="fill:black">cultures</text>
+<text transform="translate(1152,721)" font-size="6" style="fill:black">graduate</text>
+<text transform="translate(1997,96)" font-size="6" style="fill:black">mischief</text>
+<text transform="translate(1989,131)" font-size="6" style="fill:black">sunlight</text>
+<text transform="translate(1627,969)" font-size="6" style="fill:black">certain</text>
+<text transform="translate(1528,903) rotate(-90)" font-size="6" style="fill:black">gourmet</text>
+<text transform="translate(1131,859)" font-size="6" style="fill:black">kindred</text>
+<text transform="translate(1650,846)" font-size="6" style="fill:black">natured</text>
+<text transform="translate(1042,454)" font-size="6" style="fill:black">Spanish</text>
+<text transform="translate(328,365) rotate(-90)" font-size="6" style="fill:black">beyond</text>
+<text transform="translate(1956,163)" font-size="6" style="fill:black">cinque</text>
+<text transform="translate(1356,46)" font-size="6" style="fill:black">modern</text>
+<text transform="translate(307,967)" font-size="6" style="fill:black">public</text>
+<text transform="translate(1495,975)" font-size="6" style="fill:black">smoker</text>
+<text transform="translate(676,219)" font-size="6" style="fill:black">taking</text>
+<text transform="translate(1663,83)" font-size="6" style="fill:black">though</text>
+<text transform="translate(828,139)" font-size="6" style="fill:black">visits</text>
+<text transform="translate(472,986)" font-size="6" style="fill:black">widely</text>
+<text transform="translate(1289,931) rotate(-90)" font-size="6" style="fill:black">alone</text>
+<text transform="translate(1101,726)" font-size="6" style="fill:black">along</text>
+<text transform="translate(1715,904) rotate(-90)" font-size="6" style="fill:black">cooks</text>
+<text transform="translate(1604,608)" font-size="6" style="fill:black">finds</text>
+<text transform="translate(1165,857)" font-size="6" style="fill:black">games</text>
+<text transform="translate(1028,89)" font-size="6" style="fill:black">owner</text>
+<text transform="translate(1742,435) rotate(-90)" font-size="6" style="fill:black">takes</text>
+<text transform="translate(409,308)" font-size="6" style="fill:black">Bach</text>
+<text transform="translate(868,464) rotate(-90)" font-size="6" style="fill:black">cats</text>
+<text transform="translate(2028,941) rotate(-90)" font-size="6" style="fill:black">fair</text>
+<text transform="translate(1788,489)" font-size="6" style="fill:black">hard</text>
+<text transform="translate(1223,228) rotate(-90)" font-size="6" style="fill:black">here</text>
+<text transform="translate(2097,342)" font-size="6" style="fill:black">word</text>
+<text transform="translate(1098,384)" font-size="6" style="fill:black">coq</text>
+<text transform="translate(1462,1007)" font-size="6" style="fill:black">lbs.</text>
+<text transform="translate(1636,1011)" font-size="6" style="fill:black">was</text>
+<text transform="translate(1848,942) rotate(-90)" font-size="6" style="fill:black">professionally</text>
+<text transform="translate(1900,918) rotate(-90)" font-size="6" style="fill:black">entertaining</text>
+<text transform="translate(1296,69) rotate(-90)" font-size="6" style="fill:black">passionately</text>
+<text transform="translate(1925,241) rotate(-90)" font-size="6" style="fill:black">refreshingly</text>
+<text transform="translate(700,903) rotate(-90)" font-size="6" style="fill:black">memberships</text>
+<text transform="translate(922,602)" font-size="6" style="fill:black">cultivated</text>
+<text transform="translate(1591,700)" font-size="6" style="fill:black">hopefully</text>
+<text transform="translate(256,299)" font-size="6" style="fill:black">scientist</text>
+<text transform="translate(223,495)" font-size="6" style="fill:black">whimsical</text>
+<text transform="translate(1795,337)" font-size="6" style="fill:black">cheerful</text>
+<text transform="translate(413,72)" font-size="6" style="fill:black">gardener</text>
+<text transform="translate(1873,416)" font-size="6" style="fill:black">offering</text>
+<text transform="translate(1112,358)" font-size="6" style="fill:black">radiates</text>
+<text transform="translate(1317,113)" font-size="6" style="fill:black">thinking</text>
+<text transform="translate(747,120)" font-size="6" style="fill:black">whistler</text>
+<text transform="translate(1313,239)" font-size="6" style="fill:black">believe</text>
+<text transform="translate(1248,968)" font-size="6" style="fill:black">doesn't</text>
+<text transform="translate(1488,670)" font-size="6" style="fill:black">picture</text>
+<text transform="translate(1139,975)" font-size="6" style="fill:black">turning</text>
+<text transform="translate(1266,211) rotate(-90)" font-size="6" style="fill:black">before</text>
+<text transform="translate(1855,69)" font-size="6" style="fill:black">casual</text>
+<text transform="translate(963,986)" font-size="6" style="fill:black">turned</text>
+<text transform="translate(1842,980) rotate(-90)" font-size="6" style="fill:black">build</text>
+<text transform="translate(1437,702)" font-size="6" style="fill:black">hands</text>
+<text transform="translate(1906,799)" font-size="6" style="fill:black">irony</text>
+<text transform="translate(1355,577)" font-size="6" style="fill:black">japan</text>
+<text transform="translate(626,75)" font-size="6" style="fill:black">leggy</text>
+<text transform="translate(1090,416)" font-size="6" style="fill:black">might</text>
+<text transform="translate(1957,195) rotate(-90)" font-size="6" style="fill:black">short</text>
+<text transform="translate(1048,462)" font-size="6" style="fill:black">snowy</text>
+<text transform="translate(585,567) rotate(-90)" font-size="6" style="fill:black">Texas</text>
+<text transform="translate(780,980)" font-size="6" style="fill:black">sane</text>
+<text transform="translate(1976,219)" font-size="6" style="fill:black">semi</text>
+<text transform="translate(1855,499)" font-size="6" style="fill:black">wild</text>
+<text transform="translate(493,73)" font-size="6" style="fill:black">ice</text>
+<text transform="translate(1097,632) rotate(-90)" font-size="6" style="fill:black">say</text>
+<text transform="translate(591,422)" font-size="6" style="fill:black">unconventional</text>
+<text transform="translate(1554,146)" font-size="4" style="fill:black">companionable</text>
+<text transform="translate(919,936)" font-size="4" style="fill:black">inquisitive</text>
+<text transform="translate(876,654)" font-size="4" style="fill:black">excitement</text>
+<text transform="translate(851,219)" font-size="4" style="fill:black">nonfiction</text>
+<text transform="translate(642,166)" font-size="4" style="fill:black">affection</text>
+<text transform="translate(1425,109)" font-size="4" style="fill:black">congenial</text>
+<text transform="translate(1043,493)" font-size="4" style="fill:black">galleries</text>
+<text transform="translate(1466,183)" font-size="4" style="fill:black">heartfelt</text>
+<text transform="translate(1213,699)" font-size="4" style="fill:black">qualities</text>
+<text transform="translate(667,700)" font-size="4" style="fill:black">somewhere</text>
+<text transform="translate(1080,921)" font-size="4" style="fill:black">changing</text>
+<text transform="translate(921,235)" font-size="4" style="fill:black">fabulous</text>
+<text transform="translate(1482,84)" font-size="4" style="fill:black">grounded</text>
+<text transform="translate(749,413)" font-size="4" style="fill:black">maverick</text>
+<text transform="translate(450,939)" font-size="4" style="fill:black">sociable</text>
+<text transform="translate(708,585)" font-size="4" style="fill:black">capable</text>
+<text transform="translate(1471,416)" font-size="4" style="fill:black">concert</text>
+<text transform="translate(883,392)" font-size="4" style="fill:black">mojitos</text>
+<text transform="translate(489,25)" font-size="4" style="fill:black">perfect</text>
+<text transform="translate(1425,493)" font-size="4" style="fill:black">scholar</text>
+<text transform="translate(1542,337)" font-size="4" style="fill:black">thrives</text>
+<text transform="translate(1718,744)" font-size="4" style="fill:black">editor</text>
+<text transform="translate(1452,714)" font-size="4" style="fill:black">inside</text>
+<text transform="translate(320,443)" font-size="4" style="fill:black">number</text>
+<text transform="translate(388,404)" font-size="4" style="fill:black">resist</text>
+<text transform="translate(1266,454)" font-size="4" style="fill:black">writes</text>
+<text transform="translate(1235,989)" font-size="4" style="fill:black">place</text>
+<text transform="translate(1628,850)" font-size="4" style="fill:black">spent</text>
+<text transform="translate(272,307)" font-size="4" style="fill:black">usual</text>
+<text transform="translate(1937,39)" font-size="4" style="fill:black">where</text>
+<text transform="translate(535,196)" font-size="4" style="fill:black">while</text>
+<text transform="translate(1346,907)" font-size="4" style="fill:black">half</text>
+<text transform="translate(1439,100)" font-size="4" style="fill:black">keep</text>
+<text transform="translate(982,639) rotate(-90)" font-size="4" style="fill:black">nuts</text>
+<text transform="translate(1475,670) rotate(-90)" font-size="4" style="fill:black">tv</text>
+<text transform="translate(244,211) rotate(-90)" font-size="4" style="fill:black">m</text>
+<text transform="translate(241,282)" font-size="4" style="fill:black">philanthropic</text>
+<text transform="translate(1746,232)" font-size="4" style="fill:black">agriculture</text>
+<text transform="translate(940,899)" font-size="4" style="fill:black">considerate</text>
+<text transform="translate(612,584)" font-size="4" style="fill:black">established</text>
+<text transform="translate(1018,952)" font-size="4" style="fill:black">university</text>
+<text transform="translate(874,120) rotate(-90)" font-size="4" style="fill:black">aesthetic</text>
+<text transform="translate(1614,991)" font-size="4" style="fill:black">Caribbean</text>
+<text transform="translate(1313,363) rotate(-90)" font-size="4" style="fill:black">exchange</text>
+<text transform="translate(329,495)" font-size="4" style="fill:black">listener</text>
+<text transform="translate(2101,322)" font-size="4" style="fill:black">terrific</text>
+<text transform="translate(1482,392)" font-size="4" style="fill:black">treasure</text>
+<text transform="translate(405,916) rotate(-90)" font-size="4" style="fill:black">trekking</text>
+<text transform="translate(1847,463)" font-size="4" style="fill:black">athlete</text>
+<text transform="translate(1375,721) rotate(-90)" font-size="4" style="fill:black">attuned</text>
+<text transform="translate(1236,741)" font-size="4" style="fill:black">Florida</text>
+<text transform="translate(418,39)" font-size="4" style="fill:black">stories</text>
+<text transform="translate(1395,648)" font-size="4" style="fill:black">there's</text>
+<text transform="translate(573,1008)" font-size="4" style="fill:black">county</text>
+<text transform="translate(2097,360)" font-size="4" style="fill:black">eating</text>
+<text transform="translate(677,184)" font-size="4" style="fill:black">issues</text>
+<text transform="translate(1436,634)" font-size="4" style="fill:black">singer</text>
+<text transform="translate(1361,75)" font-size="4" style="fill:black">turkey</text>
+<text transform="translate(1655,630)" font-size="4" style="fill:black">class</text>
+<text transform="translate(2086,445)" font-size="4" style="fill:black">comes</text>
+<text transform="translate(439,352)" font-size="4" style="fill:black">FALSE</text>
+<text transform="translate(1440,466)" font-size="4" style="fill:black">hopes</text>
+<text transform="translate(1608,598)" font-size="4" style="fill:black">sound</text>
+<text transform="translate(1751,377)" font-size="4" style="fill:black">spicy</text>
+<text transform="translate(1763,353)" font-size="4" style="fill:black">twist</text>
+<text transform="translate(1207,889)" font-size="4" style="fill:black">who's</text>
+<text transform="translate(486,996)" font-size="4" style="fill:black">door</text>
+<text transform="translate(513,460)" font-size="4" style="fill:black">it's</text>
+<text transform="translate(1222,592)" font-size="4" style="fill:black">lost</text>
+<text transform="translate(2060,356)" font-size="4" style="fill:black">p.o</text>
+<text transform="translate(1140,490)" font-size="4" style="fill:black">shy</text>
+<text transform="translate(358,147)" font-size="4" style="fill:black">top</text>
+<text transform="translate(1750,139) rotate(-90)" font-size="4" style="fill:black">md</text>
+<text transform="translate(536,153) rotate(-90)" font-size="4" style="fill:black">wm</text>
+<text transform="translate(1480,1007)" font-size="4" style="fill:black">psychotherapist</text>
+<text transform="translate(1342,418)" font-size="4" style="fill:black">conversations</text>
+<text transform="translate(613,211)" font-size="4" style="fill:black">distinguished</text>
+<text transform="translate(967,874)" font-size="4" style="fill:black">uncomplicated</text>
+<text transform="translate(1139,881)" font-size="4" style="fill:black">introduction</text>
+<text transform="translate(652,118)" font-size="4" style="fill:black">charitable</text>
+<text transform="translate(1243,701)" font-size="4" style="fill:black">intriguing</text>
+<text transform="translate(2068,873)" font-size="4" style="fill:black">meaningful</text>
+<text transform="translate(1591,381)" font-size="4" style="fill:black">occasional</text>
+<text transform="translate(364,473)" font-size="4" style="fill:black">cerebral</text>
+<text transform="translate(650,80)" font-size="4" style="fill:black">downhill</text>
+<text transform="translate(677,990)" font-size="4" style="fill:black">elegance</text>
+<text transform="translate(1483,643)" font-size="4" style="fill:black">elements</text>
+<text transform="translate(1622,743)" font-size="4" style="fill:black">penchant</text>
+<text transform="translate(1879,141)" font-size="4" style="fill:black">slightly</text>
+<text transform="translate(778,102)" font-size="4" style="fill:black">soulmate</text>
+<text transform="translate(531,137)" font-size="4" style="fill:black">spending</text>
+<text transform="translate(1617,916)" font-size="4" style="fill:black">yourself</text>
+<text transform="translate(1591,167)" font-size="4" style="fill:black">ethical</text>
+<text transform="translate(1180,975)" font-size="4" style="fill:black">husband</text>
+<text transform="translate(612,907)" font-size="4" style="fill:black">musical</text>
+<text transform="translate(416,173)" font-size="4" style="fill:black">pianist</text>
+<text transform="translate(1754,203)" font-size="4" style="fill:black">shapely</text>
+<text transform="translate(2005,288)" font-size="4" style="fill:black">animal</text>
+<text transform="translate(1275,937)" font-size="4" style="fill:black">heaven</text>
+<text transform="translate(624,896)" font-size="4" style="fill:black">Mexico</text>
+<text transform="translate(918,364) rotate(-90)" font-size="4" style="fill:black">modest</text>
+<text transform="translate(1898,86)" font-size="4" style="fill:black">myself</text>
+<text transform="translate(264,35)" font-size="4" style="fill:black">Venice</text>
+<text transform="translate(752,124)" font-size="4" style="fill:black">aware</text>
+<text transform="translate(323,239)" font-size="4" style="fill:black">birds</text>
+<text transform="translate(734,395)" font-size="4" style="fill:black">field</text>
+<text transform="translate(287,281)" font-size="4" style="fill:black">grown</text>
+<text transform="translate(1038,687)" font-size="4" style="fill:black">knack</text>
+<text transform="translate(303,63)" font-size="4" style="fill:black">needs</text>
+<text transform="translate(1387,25)" font-size="4" style="fill:black">taste</text>
+<text transform="translate(912,617)" font-size="4" style="fill:black">cool</text>
+<text transform="translate(709,184)" font-size="4" style="fill:black">cozy</text>
+<text transform="translate(362,67)" font-size="4" style="fill:black">date</text>
+<text transform="translate(1157,445)" font-size="4" style="fill:black">join</text>
+<text transform="translate(1043,80)" font-size="4" style="fill:black">wise</text>
+<text transform="translate(235,825)" font-size="4" style="fill:black">few</text>
+<text transform="translate(967,914)" font-size="4" style="fill:black">job</text>
+<text transform="translate(1875,43) rotate(-90)" font-size="4" style="fill:black">own</text>
+<text transform="translate(1822,108)" font-size="4" style="fill:black">see</text>
+<text transform="translate(341,804)" font-size="4" style="fill:black">wry</text>
+<text transform="translate(1176,364)" font-size="4" style="fill:black">deprecating</text>
+<text transform="translate(917,722)" font-size="4" style="fill:black">imaginative</text>
+<text transform="translate(549,980)" font-size="4" style="fill:black">wonderfully</text>
+<text transform="translate(455,172)" font-size="4" style="fill:black">empathetic</text>
+<text transform="translate(1681,718)" font-size="4" style="fill:black">insightful</text>
+<text transform="translate(1989,868)" font-size="4" style="fill:black">monogamous</text>
+<text transform="translate(534,463)" font-size="4" style="fill:black">psychology</text>
+<text transform="translate(364,333)" font-size="4" style="fill:black">respectful</text>
+<text transform="translate(1172,500)" font-size="4" style="fill:black">sensuality</text>
+<text transform="translate(1717,597)" font-size="4" style="fill:black">strikingly</text>
+<text transform="translate(1178,879)" font-size="4" style="fill:black">brilliant</text>
+<text transform="translate(420,324)" font-size="4" style="fill:black">competent</text>
+<text transform="translate(884,972)" font-size="4" style="fill:black">dedicated</text>
+<text transform="translate(521,353)" font-size="4" style="fill:black">happiness</text>
+<text transform="translate(577,584)" font-size="4" style="fill:black">knowledge</text>
+<text transform="translate(1221,367)" font-size="4" style="fill:black">paintings</text>
+<text transform="translate(2047,375)" font-size="4" style="fill:black">regularly</text>
+<text transform="translate(1456,447)" font-size="4" style="fill:black">allergic</text>
+<text transform="translate(590,119)" font-size="4" style="fill:black">Brooklyn</text>
+<text transform="translate(608,985)" font-size="4" style="fill:black">capacity</text>
+<text transform="translate(959,717)" font-size="4" style="fill:black">climbing</text>
+<text transform="translate(1212,109)" font-size="4" style="fill:black">embraces</text>
+<text transform="translate(2115,984)" font-size="4" style="fill:black">speaking</text>
+<text transform="translate(995,739)" font-size="4" style="fill:black">straight</text>
+<text transform="translate(668,166)" font-size="4" style="fill:black">swimming</text>
+<text transform="translate(457,886)" font-size="4" style="fill:black">diverse</text>
+<text transform="translate(1571,358)" font-size="4" style="fill:black">fifties</text>
+<text transform="translate(1313,35)" font-size="4" style="fill:black">finding</text>
+<text transform="translate(328,67)" font-size="4" style="fill:black">gallery</text>
+<text transform="translate(1973,881)" font-size="4" style="fill:black">happily</text>
+<text transform="translate(1201,720)" font-size="4" style="fill:black">lessons</text>
+<text transform="translate(272,224) rotate(-90)" font-size="4" style="fill:black">letters</text>
+<text transform="translate(1744,718)" font-size="4" style="fill:black">likable</text>
+<text transform="translate(801,204) rotate(-90)" font-size="4" style="fill:black">outside</text>
+<text transform="translate(1461,397)" font-size="4" style="fill:black">twinkle</text>
+<text transform="translate(854,368)" font-size="4" style="fill:black">welcome</text>
+<text transform="translate(435,480)" font-size="4" style="fill:black">exotic</text>
+<text transform="translate(360,127)" font-size="4" style="fill:black">kisses</text>
+<text transform="translate(297,109) rotate(-90)" font-size="4" style="fill:black">lounge</text>
+<text transform="translate(369,169)" font-size="4" style="fill:black">middle</text>
+<text transform="translate(2070,127)" font-size="4" style="fill:black">prefer</text>
+<text transform="translate(865,619)" font-size="4" style="fill:black">shares</text>
+<text transform="translate(1791,999) rotate(-90)" font-size="4" style="fill:black">valley</text>
+<text transform="translate(605,626)" font-size="4" style="fill:black">visual</text>
+<text transform="translate(456,946)" font-size="4" style="fill:black">whites</text>
+<text transform="translate(1224,597)" font-size="4" style="fill:black">winter</text>
+<text transform="translate(658,236)" font-size="4" style="fill:black">costa</text>
+<text transform="translate(1292,216) rotate(-90)" font-size="4" style="fill:black">cream</text>
+<text transform="translate(1979,208)" font-size="4" style="fill:black">daily</text>
+<text transform="translate(407,288)" font-size="4" style="fill:black">hotel</text>
+<text transform="translate(1456,692)" font-size="4" style="fill:black">keeps</text>
+<text transform="translate(1931,224)" font-size="4" style="fill:black">shows</text>
+<text transform="translate(952,190)" font-size="4" style="fill:black">Susan</text>
+<text transform="translate(677,233)" font-size="4" style="fill:black">those</text>
+<text transform="translate(776,413)" font-size="4" style="fill:black">vivre</text>
+<text transform="translate(891,595)" font-size="4" style="fill:black">ages</text>
+<text transform="translate(1547,193)" font-size="4" style="fill:black">chic</text>
+<text transform="translate(1904,826)" font-size="4" style="fill:black">hang</text>
+<text transform="translate(2033,945)" font-size="4" style="fill:black">mate</text>
+<text transform="translate(637,933)" font-size="4" style="fill:black">room</text>
+<text transform="translate(1492,204)" font-size="4" style="fill:black">D.C.</text>
+<text transform="translate(678,394)" font-size="4" style="fill:black">hot</text>
+<text transform="translate(2087,228)" font-size="4" style="fill:black">put</text>
+<text transform="translate(1979,1007)" font-size="4" style="fill:black">run</text>
+<text transform="translate(1234,965)" font-size="4" style="fill:black">sea</text>
+<text transform="translate(626,490)" font-size="4" style="fill:black">combination</text>
+<text transform="translate(362,451)" font-size="4" style="fill:black">exceptional</text>
+<text transform="translate(2093,291)" font-size="4" style="fill:black">reminiscent</text>
+<text transform="translate(1601,945)" font-size="4" style="fill:black">snowshoeing</text>
+<text transform="translate(2041,844)" font-size="4" style="fill:black">substantive</text>
+<text transform="translate(2025,128)" font-size="4" style="fill:black">challenges</text>
+<text transform="translate(295,475)" font-size="4" style="fill:black">transplant</text>
+<text transform="translate(1129,396)" font-size="4" style="fill:black">currently</text>
+<text transform="translate(656,672)" font-size="4" style="fill:black">essential</text>
+<text transform="translate(970,849)" font-size="4" style="fill:black">religious</text>
+<text transform="translate(1251,881)" font-size="4" style="fill:black">seventies</text>
+<text transform="translate(506,1008)" font-size="4" style="fill:black">addicted</text>
+<text transform="translate(257,451)" font-size="4" style="fill:black">exercise</text>
+<text transform="translate(750,433)" font-size="4" style="fill:black">features</text>
+<text transform="translate(1816,463)" font-size="4" style="fill:black">Parisian</text>
+<text transform="translate(449,931)" font-size="4" style="fill:black">positive</text>
+<text transform="translate(1401,574)" font-size="4" style="fill:black">studying</text>
+<text transform="translate(2064,203)" font-size="4" style="fill:black">symphony</text>
+<text transform="translate(873,448) rotate(-90)" font-size="4" style="fill:black">vigorous</text>
+<text transform="translate(1598,720)" font-size="4" style="fill:black">visiting</text>
+<text transform="translate(1572,96)" font-size="4" style="fill:black">wildlife</text>
+<text transform="translate(421,852) rotate(-90)" font-size="4" style="fill:black">connect</text>
+<text transform="translate(555,120)" font-size="4" style="fill:black">focused</text>
+<text transform="translate(2110,927)" font-size="4" style="fill:black">forward</text>
+<text transform="translate(500,874)" font-size="4" style="fill:black">Harvard</text>
+<text transform="translate(1393,951)" font-size="4" style="fill:black">Hepburn</text>
+<text transform="translate(456,894)" font-size="4" style="fill:black">holding</text>
+<text transform="translate(1371,689)" font-size="4" style="fill:black">keeping</text>
+<text transform="translate(1106,987)" font-size="4" style="fill:black">naughty</text>
+<text transform="translate(957,756)" font-size="4" style="fill:black">science</text>
+<text transform="translate(398,111)" font-size="4" style="fill:black">allure</text>
+<text transform="translate(795,596)" font-size="4" style="fill:black">ardent</text>
+<text transform="translate(1593,968)" font-size="4" style="fill:black">comely</text>
+<text transform="translate(1791,494)" font-size="4" style="fill:black">fellow</text>
+<text transform="translate(770,545)" font-size="4" style="fill:black">novels</text>
+<text transform="translate(1780,100)" font-size="4" style="fill:black">poised</text>
+<text transform="translate(1094,891)" font-size="4" style="fill:black">spunky</text>
+<text transform="translate(1941,44)" font-size="4" style="fill:black">streak</text>
+<text transform="translate(995,324)" font-size="4" style="fill:black">vistas</text>
+<text transform="translate(1476,650)" font-size="4" style="fill:black">wanted</text>
+<text transform="translate(1922,478) rotate(-90)" font-size="4" style="fill:black">beats</text>
+<text transform="translate(855,888) rotate(-90)" font-size="4" style="fill:black">cares</text>
+<text transform="translate(878,347)" font-size="4" style="fill:black">clubs</text>
+<text transform="translate(2073,116)" font-size="4" style="fill:black">every</text>
+<text transform="translate(1372,592) rotate(-90)" font-size="4" style="fill:black">lousy</text>
+<text transform="translate(799,843)" font-size="4" style="fill:black">loved</text>
+<text transform="translate(260,474)" font-size="4" style="fill:black">model</text>
+<text transform="translate(555,141)" font-size="4" style="fill:black">rural</text>
+<text transform="translate(1409,881)" font-size="4" style="fill:black">she's</text>
+<text transform="translate(732,670)" font-size="4" style="fill:black">spend</text>
+<text transform="translate(1864,54)" font-size="4" style="fill:black">tired</text>
+<text transform="translate(1806,434)" font-size="4" style="fill:black">words</text>
+<text transform="translate(498,403)" font-size="4" style="fill:black">bike</text>
+<text transform="translate(350,31)" font-size="4" style="fill:black">hear</text>
+<text transform="translate(1362,563)" font-size="4" style="fill:black">hope</text>
+<text transform="translate(1034,726) rotate(-90)" font-size="4" style="fill:black">john</text>
+<text transform="translate(1033,937)" font-size="4" style="fill:black">Nobu</text>
+<text transform="translate(298,406)" font-size="4" style="fill:black">then</text>
+<text transform="translate(404,141)" font-size="4" style="fill:black">town</text>
+<text transform="translate(2051,164) rotate(-90)" font-size="4" style="fill:black">tri</text>
+<text transform="translate(1410,340)" font-size="4" style="fill:black">via</text>
+<text transform="translate(200,812)" font-size="4" style="fill:black">ed</text>
+<text transform="translate(1083,697)" font-size="4" style="fill:black">ma</text>
+<text transform="translate(1604,120)" font-size="4" style="fill:black">ok</text>
+<text transform="translate(1322,536)" font-size="4" style="fill:black">correspondence</text>
+<text transform="translate(667,587)" font-size="4" style="fill:black">possibilities</text>
+<text transform="translate(1875,942)" font-size="4" style="fill:black">psychoanalyst</text>
+<text transform="translate(984,115) rotate(-90)" font-size="4" style="fill:black">understanding</text>
+<text transform="translate(487,955)" font-size="4" style="fill:black">psychologist</text>
+<text transform="translate(1587,127)" font-size="4" style="fill:black">contributes</text>
+<text transform="translate(372,822)" font-size="4" style="fill:black">trailblazer</text>
+<text transform="translate(873,87)" font-size="4" style="fill:black">compassion</text>
+<text transform="translate(340,87)" font-size="4" style="fill:black">conversant</text>
+<text transform="translate(1131,673)" font-size="4" style="fill:black">delightful</text>
+<text transform="translate(283,976)" font-size="4" style="fill:black">fascinated</text>
+<text transform="translate(1687,187) rotate(-90)" font-size="4" style="fill:black">innovative</text>
+<text transform="translate(1542,442)" font-size="4" style="fill:black">affirming</text>
+<text transform="translate(996,690)" font-size="4" style="fill:black">champagne</text>
+<text transform="translate(935,851)" font-size="4" style="fill:black">intrigued</text>
+<text transform="translate(219,891)" font-size="4" style="fill:black">situation</text>
+<text transform="translate(254,349) rotate(-90)" font-size="4" style="fill:black">Broadway</text>
+<text transform="translate(583,138)" font-size="4" style="fill:black">Buddhism</text>
+<text transform="translate(1858,189)" font-size="4" style="fill:black">Buddhist</text>
+<text transform="translate(1358,950)" font-size="4" style="fill:black">democrat</text>
+<text transform="translate(1372,695)" font-size="4" style="fill:black">discover</text>
+<text transform="translate(792,140)" font-size="4" style="fill:black">humanity</text>
+<text transform="translate(394,116)" font-size="4" style="fill:black">laughing</text>
+<text transform="translate(1753,465)" font-size="4" style="fill:black">lectures</text>
+<text transform="translate(1666,930)" font-size="4" style="fill:black">Mohegan</text>
+<text transform="translate(613,167)" font-size="4" style="fill:black">national</text>
+<text transform="translate(1246,24)" font-size="4" style="fill:black">wouldn't</text>
+<text transform="translate(2087,479)" font-size="4" style="fill:black">ancient</text>
+<text transform="translate(925,755)" font-size="4" style="fill:black">assured</text>
+<text transform="translate(1440,730) rotate(-90)" font-size="4" style="fill:black">camping</text>
+<text transform="translate(968,904)" font-size="4" style="fill:black">habitat</text>
+<text transform="translate(1032,943)" font-size="4" style="fill:black">offbeat</text>
+<text transform="translate(1718,94)" font-size="4" style="fill:black">regular</text>
+<text transform="translate(1175,622)" font-size="4" style="fill:black">talking</text>
+<text transform="translate(1730,125)" font-size="4" style="fill:black">tenured</text>
+<text transform="translate(718,963)" font-size="4" style="fill:black">winning</text>
+<text transform="translate(2001,448)" font-size="4" style="fill:black">anyone</text>
+<text transform="translate(1822,341)" font-size="4" style="fill:black">appeal</text>
+<text transform="translate(2091,495)" font-size="4" style="fill:black">causes</text>
+<text transform="translate(1237,344)" font-size="4" style="fill:black">clever</text>
+<text transform="translate(1375,750)" font-size="4" style="fill:black">design</text>
+<text transform="translate(977,960)" font-size="4" style="fill:black">desire</text>
+<text transform="translate(1225,674)" font-size="4" style="fill:black">having</text>
+<text transform="translate(1088,638)" font-size="4" style="fill:black">hotels</text>
+<text transform="translate(772,871)" font-size="4" style="fill:black">member</text>
+<text transform="translate(974,449)" font-size="4" style="fill:black">Monica</text>
+<text transform="translate(1642,586)" font-size="4" style="fill:black">return</text>
+<text transform="translate(2126,317) rotate(-90)" font-size="4" style="fill:black">spring</text>
+<text transform="translate(1604,890)" font-size="4" style="fill:black">wicked</text>
+<text transform="translate(1130,916) rotate(-90)" font-size="4" style="fill:black">within</text>
+<text transform="translate(1755,891)" font-size="4" style="fill:black">adult</text>
+<text transform="translate(478,447) rotate(-90)" font-size="4" style="fill:black">board</text>
+<text transform="translate(1237,60) rotate(-90)" font-size="4" style="fill:black">fifty</text>
+<text transform="translate(1273,649)" font-size="4" style="fill:black">jeans</text>
+<text transform="translate(1909,925)" font-size="4" style="fill:black">learn</text>
+<text transform="translate(493,880)" font-size="4" style="fill:black">night</text>
+<text transform="translate(1825,972) rotate(-90)" font-size="4" style="fill:black">sadly</text>
+<text transform="translate(1996,925)" font-size="4" style="fill:black">sixty</text>
+<text transform="translate(559,94)" font-size="4" style="fill:black">state</text>
+<text transform="translate(533,124)" font-size="4" style="fill:black">story</text>
+<text transform="translate(327,219)" font-size="4" style="fill:black">sunny</text>
+<text transform="translate(575,888)" font-size="4" style="fill:black">tango</text>
+<text transform="translate(1654,224)" font-size="4" style="fill:black">third</text>
+<text transform="translate(1230,1003)" font-size="4" style="fill:black">which</text>
+<text transform="translate(1953,168)" font-size="4" style="fill:black">yours</text>
+<text transform="translate(826,439) rotate(-90)" font-size="4" style="fill:black">feel</text>
+<text transform="translate(1279,104)" font-size="4" style="fill:black">joie</text>
+<text transform="translate(770,567)" font-size="4" style="fill:black">line</text>
+<text transform="translate(528,934)" font-size="4" style="fill:black">MoMA</text>
+<text transform="translate(1860,74)" font-size="4" style="fill:black">news</text>
+<text transform="translate(1271,238)" font-size="4" style="fill:black">NYRB</text>
+<text transform="translate(1331,400)" font-size="4" style="fill:black">past</text>
+<text transform="translate(1037,695)" font-size="4" style="fill:black">rare</text>
+<text transform="translate(1122,646)" font-size="4" style="fill:black">roll</text>
+<text transform="translate(246,40)" font-size="4" style="fill:black">sing</text>
+<text transform="translate(1932,233)" font-size="4" style="fill:black">spur</text>
+<text transform="translate(1365,445)" font-size="4" style="fill:black">watt</text>
+<text transform="translate(391,916)" font-size="4" style="fill:black">eye</text>
+<text transform="translate(605,997)" font-size="4" style="fill:black">got</text>
+<text transform="translate(1545,475)" font-size="4" style="fill:black">L.A.</text>
+<text transform="translate(982,647)" font-size="4" style="fill:black">sjf</text>
+<text transform="translate(716,203) rotate(-90)" font-size="4" style="fill:black">ex</text>
+<text transform="translate(1470,237) rotate(-90)" font-size="4" style="fill:black">b</text>
+<text transform="translate(701,978)" font-size="4" style="fill:black">o</text>
+<text transform="translate(2046,335)" font-size="4" style="fill:black">improvisational</text>
+<text transform="translate(1505,620)" font-size="4" style="fill:black">adventuresome</text>
+<text transform="translate(1657,991)" font-size="4" style="fill:black">aesthetically</text>
+<text transform="translate(270,159) rotate(-90)" font-size="4" style="fill:black">communicative</text>
+<text transform="translate(848,237)" font-size="4" style="fill:black">exceptionally</text>
+<text transform="translate(1778,147)" font-size="4" style="fill:black">occasionally</text>
+<text transform="translate(1423,133)" font-size="4" style="fill:black">psychiatrist</text>
+<text transform="translate(429,146)" font-size="4" style="fill:black">commentator</text>
+<text transform="translate(2051,1011)" font-size="4" style="fill:black">Connecticut</text>
+<text transform="translate(942,624)" font-size="4" style="fill:black">experiences</text>
+<text transform="translate(316,843)" font-size="4" style="fill:black">traditional</text>
+<text transform="translate(1426,894)" font-size="4" style="fill:black">understated</text>
+<text transform="translate(543,984)" font-size="4" style="fill:black">basketball</text>
+<text transform="translate(1713,932) rotate(-90)" font-size="4" style="fill:black">culturally</text>
+<text transform="translate(669,143)" font-size="4" style="fill:black">particular</text>
+<text transform="translate(2030,470)" font-size="4" style="fill:black">reasonably</text>
+<text transform="translate(1689,844)" font-size="4" style="fill:black">reflective</text>
+<text transform="translate(1096,397)" font-size="4" style="fill:black">responsive</text>
+<text transform="translate(1232,994)" font-size="4" style="fill:black">apartment</text>
+<text transform="translate(1531,204)" font-size="4" style="fill:black">Australia</text>
+<text transform="translate(461,975)" font-size="4" style="fill:black">described</text>
+<text transform="translate(1855,195)" font-size="4" style="fill:black">elsewhere</text>
+<text transform="translate(1027,96)" font-size="4" style="fill:black">emotional</text>
+<text transform="translate(378,150)" font-size="4" style="fill:black">expansive</text>
+<text transform="translate(726,386)" font-size="4" style="fill:black">genuinely</text>
+<text transform="translate(736,675)" font-size="4" style="fill:black">impromptu</text>
+<text transform="translate(714,346)" font-size="4" style="fill:black">mountains</text>
+<text transform="translate(1976,359) rotate(-90)" font-size="4" style="fill:black">affinity</text>
+<text transform="translate(1050,468)" font-size="4" style="fill:black">affluent</text>
+<text transform="translate(248,74)" font-size="4" style="fill:black">enamored</text>
+<text transform="translate(791,673)" font-size="4" style="fill:black">Japanese</text>
+<text transform="translate(1544,385)" font-size="4" style="fill:black">probably</text>
+<text transform="translate(1749,238)" font-size="4" style="fill:black">vineyard</text>
+<text transform="translate(678,541)" font-size="4" style="fill:black">America</text>
+<text transform="translate(1906,359)" font-size="4" style="fill:black">Chinese</text>
+<text transform="translate(1907,807)" font-size="4" style="fill:black">coastal</text>
+<text transform="translate(856,114) rotate(-90)" font-size="4" style="fill:black">cycling</text>
+<text transform="translate(923,940)" font-size="4" style="fill:black">devoted</text>
+<text transform="translate(1020,621)" font-size="4" style="fill:black">erudite</text>
+<text transform="translate(1229,489)" font-size="4" style="fill:black">glamour</text>
+<text transform="translate(1170,422)" font-size="4" style="fill:black">lesbian</text>
+<text transform="translate(824,912)" font-size="4" style="fill:black">Lincoln</text>
+<text transform="translate(1534,1006)" font-size="4" style="fill:black">Mexican</text>
+<text transform="translate(1173,67)" font-size="4" style="fill:black">profile</text>
+<text transform="translate(1452,651)" font-size="4" style="fill:black">Russian</text>
+<text transform="translate(1714,626)" font-size="4" style="fill:black">singing</text>
+<text transform="translate(1320,866)" font-size="4" style="fill:black">student</text>
+<text transform="translate(768,744)" font-size="4" style="fill:black">upscale</text>
+<text transform="translate(822,143)" font-size="4" style="fill:black">upstate</text>
+<text transform="translate(1902,203) rotate(-90)" font-size="4" style="fill:black">center</text>
+<text transform="translate(352,804)" font-size="4" style="fill:black">cinema</text>
+<text transform="translate(1788,946)" font-size="4" style="fill:black">events</text>
+<text transform="translate(1767,77)" font-size="4" style="fill:black">golden</text>
+<text transform="translate(782,564)" font-size="4" style="fill:black">Greece</text>
+<text transform="translate(710,136)" font-size="4" style="fill:black">leader</text>
+<text transform="translate(1476,240)" font-size="4" style="fill:black">listen</text>
+<text transform="translate(456,100)" font-size="4" style="fill:black">mostly</text>
+<text transform="translate(952,126) rotate(-90)" font-size="4" style="fill:black">Prague</text>
+<text transform="translate(1733,872)" font-size="4" style="fill:black">savors</text>
+<text transform="translate(1029,335)" font-size="4" style="fill:black">school</text>
+<text transform="translate(682,410)" font-size="4" style="fill:black">blond</text>
+<text transform="translate(2101,1003)" font-size="4" style="fill:black">blues</text>
+<text transform="translate(585,702)" font-size="4" style="fill:black">child</text>
+<text transform="translate(557,929)" font-size="4" style="fill:black">eager</text>
+<text transform="translate(626,244)" font-size="4" style="fill:black">equal</text>
+<text transform="translate(1326,964)" font-size="4" style="fill:black">gives</text>
+<text transform="translate(598,697)" font-size="4" style="fill:black">India</text>
+<text transform="translate(2015,202)" font-size="4" style="fill:black">magic</text>
+<text transform="translate(1974,96)" font-size="4" style="fill:black">metro</text>
+<text transform="translate(2055,283)" font-size="4" style="fill:black">sleek</text>
+<text transform="translate(535,486)" font-size="4" style="fill:black">talks</text>
+<text transform="translate(818,358)" font-size="4" style="fill:black">voice</text>
+<text transform="translate(1603,360)" font-size="4" style="fill:black">whose</text>
+<text transform="translate(566,935)" font-size="4" style="fill:black">café</text>
+<text transform="translate(890,422) rotate(-90)" font-size="4" style="fill:black">cars</text>
+<text transform="translate(1989,320)" font-size="4" style="fill:black">edge</text>
+<text transform="translate(1336,377)" font-size="4" style="fill:black">else</text>
+<text transform="translate(1412,441)" font-size="4" style="fill:black">face</text>
+<text transform="translate(369,479)" font-size="4" style="fill:black">folk</text>
+<text transform="translate(538,201)" font-size="4" style="fill:black">goer</text>
+<text transform="translate(1496,343)" font-size="4" style="fill:black">hall</text>
+<text transform="translate(1240,219) rotate(-90)" font-size="4" style="fill:black">hand</text>
+<text transform="translate(1519,438)" font-size="4" style="fill:black">last</text>
+<text transform="translate(367,56)" font-size="4" style="fill:black">mine</text>
+<text transform="translate(1690,615)" font-size="4" style="fill:black">tape</text>
+<text transform="translate(736,624)" font-size="4" style="fill:black">bit</text>
+<text transform="translate(1575,446)" font-size="4" style="fill:black">fly</text>
+<text transform="translate(651,349)" font-size="4" style="fill:black">U.S.</text>
+<text transform="translate(1287,149)" font-size="4" style="fill:black">dm</text>
+<text transform="translate(267,496)" font-size="4" style="fill:black">wf</text>
+<text transform="translate(2082,387)" font-size="4" style="fill:black">appreciative</text>
+<text transform="translate(281,450)" font-size="4" style="fill:black">unencumbered</text>
+<text transform="translate(598,336)" font-size="4" style="fill:black">conspirator</text>
+<text transform="translate(631,752)" font-size="4" style="fill:black">mountaintop</text>
+<text transform="translate(880,897)" font-size="4" style="fill:black">responsible</text>
+<text transform="translate(1876,793)" font-size="4" style="fill:black">aesthetics</text>
+<text transform="translate(1900,107)" font-size="4" style="fill:black">appreciate</text>
+<text transform="translate(1436,367) rotate(-90)" font-size="4" style="fill:black">attributes</text>
+<text transform="translate(524,397)" font-size="4" style="fill:black">cheekbones</text>
+<text transform="translate(579,236)" font-size="4" style="fill:black">contagious</text>
+<text transform="translate(2070,240)" font-size="4" style="fill:black">enthusiasm</text>
+<text transform="translate(1593,144)" font-size="4" style="fill:black">everywhere</text>
+<text transform="translate(1981,907)" font-size="4" style="fill:black">foundation</text>
+<text transform="translate(994,281)" font-size="4" style="fill:black">profession</text>
+<text transform="translate(1310,202)" font-size="4" style="fill:black">reinvented</text>
+<text transform="translate(1605,1010)" font-size="4" style="fill:black">retrievers</text>
+<text transform="translate(311,971)" font-size="4" style="fill:black">technology</text>
+<text transform="translate(1445,403)" font-size="4" style="fill:black">improving</text>
+<text transform="translate(1115,890)" font-size="4" style="fill:black">librarian</text>
+<text transform="translate(1727,677)" font-size="4" style="fill:black">surprises</text>
+<text transform="translate(1262,922)" font-size="4" style="fill:black">Atlantic</text>
+<text transform="translate(1527,602)" font-size="4" style="fill:black">environs</text>
+<text transform="translate(923,190)" font-size="4" style="fill:black">explorer</text>
+<text transform="translate(1322,1006)" font-size="4" style="fill:black">gorgeous</text>
+<text transform="translate(2002,430)" font-size="4" style="fill:black">inclined</text>
+<text transform="translate(1227,855)" font-size="4" style="fill:black">magnetic</text>
+<text transform="translate(1096,448)" font-size="4" style="fill:black">medicine</text>
+<text transform="translate(399,423)" font-size="4" style="fill:black">pleasant</text>
+<text transform="translate(1439,877)" font-size="4" style="fill:black">pursuits</text>
+<text transform="translate(339,888)" font-size="4" style="fill:black">response</text>
+<text transform="translate(1204,77)" font-size="4" style="fill:black">Sarandon</text>
+<text transform="translate(1355,910)" font-size="4" style="fill:black">strongly</text>
+<text transform="translate(363,180) rotate(-90)" font-size="4" style="fill:black">vacation</text>
+<text transform="translate(675,225)" font-size="4" style="fill:black">weakness</text>
+<text transform="translate(975,969)" font-size="4" style="fill:black">affairs</text>
+<text transform="translate(1763,434)" font-size="4" style="fill:black">Charles</text>
+<text transform="translate(1995,982)" font-size="4" style="fill:black">clients</text>
+<text transform="translate(1979,305)" font-size="4" style="fill:black">curator</text>
+<text transform="translate(1605,658)" font-size="4" style="fill:black">delight</text>
+<text transform="translate(1916,368)" font-size="4" style="fill:black">equally</text>
+<text transform="translate(510,373)" font-size="4" style="fill:black">Midwest</text>
+<text transform="translate(397,498)" font-size="4" style="fill:black">mystery</text>
+<text transform="translate(802,999) rotate(-90)" font-size="4" style="fill:black">recipes</text>
+<text transform="translate(1995,470)" font-size="4" style="fill:black">secular</text>
+<text transform="translate(1123,348)" font-size="4" style="fill:black">willowy</text>
+<text transform="translate(1711,121) rotate(-90)" font-size="4" style="fill:black">winters</text>
+<text transform="translate(1355,567)" font-size="4" style="fill:black">Alaska</text>
+<text transform="translate(683,95)" font-size="4" style="fill:black">bridge</text>
+<text transform="translate(1679,865)" font-size="4" style="fill:black">exudes</text>
+<text transform="translate(1882,487)" font-size="4" style="fill:black">garden</text>
+<text transform="translate(1638,889)" font-size="4" style="fill:black">higher</text>
+<text transform="translate(1467,133)" font-size="4" style="fill:black">manner</text>
+<text transform="translate(1105,732)" font-size="4" style="fill:black">Oregon</text>
+<text transform="translate(1156,396)" font-size="4" style="fill:black">planet</text>
+<text transform="translate(1833,977) rotate(-90)" font-size="4" style="fill:black">raised</text>
+<text transform="translate(1311,41)" font-size="4" style="fill:black">rather</text>
+<text transform="translate(1265,394)" font-size="4" style="fill:black">review</text>
+<text transform="translate(738,402)" font-size="4" style="fill:black">seeker</text>
+<text transform="translate(1425,201)" font-size="4" style="fill:black">sought</text>
+<text transform="translate(1653,126)" font-size="4" style="fill:black">sunset</text>
+<text transform="translate(269,971)" font-size="4" style="fill:black">flair</text>
+<text transform="translate(746,422)" font-size="4" style="fill:black">Frick</text>
+<text transform="translate(230,466)" font-size="4" style="fill:black">inner</text>
+<text transform="translate(1088,897)" font-size="4" style="fill:black">multi</text>
+<text transform="translate(404,133)" font-size="4" style="fill:black">Nepal</text>
+<text transform="translate(1027,425)" font-size="4" style="fill:black">buys</text>
+<text transform="translate(763,867) rotate(-90)" font-size="4" style="fill:black">clam</text>
+<text transform="translate(1237,32)" font-size="4" style="fill:black">come</text>
+<text transform="translate(410,900)" font-size="4" style="fill:black">feet</text>
+<text transform="translate(1577,166)" font-size="4" style="fill:black">hold</text>
+<text transform="translate(875,109)" font-size="4" style="fill:black">NY's</text>
+<text transform="translate(843,437)" font-size="4" style="fill:black">puns</text>
+<text transform="translate(1458,982)" font-size="4" style="fill:black">said</text>
+<text transform="translate(1260,217)" font-size="4" style="fill:black">sits</text>
+<text transform="translate(2129,970)" font-size="4" style="fill:black">snow</text>
+<text transform="translate(1432,436)" font-size="4" style="fill:black">turn</text>
+<text transform="translate(241,220)" font-size="4" style="fill:black">gal</text>
+<text transform="translate(1027,144)" font-size="4" style="fill:black">hut</text>
+<text transform="translate(322,332)" font-size="4" style="fill:black">why</text>
+<text transform="translate(295,172) rotate(-90)" font-size="4" style="fill:black">psychologically</text>
+<text transform="translate(1860,240)" font-size="4" style="fill:black">introductions</text>
+<text transform="translate(929,143) rotate(-90)" font-size="4" style="fill:black">unsystematic</text>
+<text transform="translate(893,144) rotate(-90)" font-size="4" style="fill:black">candlelight</text>
+<text transform="translate(281,35)" font-size="4" style="fill:black">disposition</text>
+<text transform="translate(956,175) rotate(-90)" font-size="4" style="fill:black">imagination</text>
+<text transform="translate(1711,165) rotate(-90)" font-size="4" style="fill:black">maintenance</text>
+<text transform="translate(1264,421)" font-size="4" style="fill:black">significant</text>
+<text transform="translate(1847,824) rotate(-90)" font-size="4" style="fill:black">socializing</text>
+<text transform="translate(223,309) rotate(-90)" font-size="4" style="fill:black">apologizes</text>
+<text transform="translate(1865,397)" font-size="4" style="fill:black">approaches</text>
+<text transform="translate(1468,856)" font-size="4" style="fill:black">classicist</text>
+<text transform="translate(1923,179) rotate(-90)" font-size="4" style="fill:black">compelling</text>
+<text transform="translate(1900,92)" font-size="4" style="fill:black">conscience</text>
+<text transform="translate(796,899) rotate(-90)" font-size="4" style="fill:black">continuing</text>
+<text transform="translate(1448,160)" font-size="4" style="fill:black">frequently</text>
+<text transform="translate(2012,1000)" font-size="4" style="fill:black">perceptive</text>
+<text transform="translate(1420,609) rotate(-90)" font-size="4" style="fill:black">photograph</text>
+<text transform="translate(1780,1007) rotate(-90)" font-size="4" style="fill:black">practicing</text>
+<text transform="translate(1046,406) rotate(-90)" font-size="4" style="fill:black">watercolor</text>
+<text transform="translate(696,752)" font-size="4" style="fill:black">ambitious</text>
+<text transform="translate(1727,694)" font-size="4" style="fill:black">celebrate</text>
+<text transform="translate(1803,98)" font-size="4" style="fill:black">Christian</text>
+<text transform="translate(1422,642) rotate(-90)" font-size="4" style="fill:black">dolomites</text>
+<text transform="translate(803,336)" font-size="4" style="fill:black">fashioned</text>
+<text transform="translate(1503,421)" font-size="4" style="fill:black">honorable</text>
+<text transform="translate(1218,395)" font-size="4" style="fill:black">listening</text>
+<text transform="translate(1531,116)" font-size="4" style="fill:black">personals</text>
+<text transform="translate(1904,983)" font-size="4" style="fill:black">wellfleet</text>
+<text transform="translate(1856,59)" font-size="4" style="fill:black">alluring</text>
+<text transform="translate(577,905)" font-size="4" style="fill:black">animated</text>
+<text transform="translate(388,374)" font-size="4" style="fill:black">approach</text>
+<text transform="translate(219,472)" font-size="4" style="fill:black">baseball</text>
+<text transform="translate(1019,992)" font-size="4" style="fill:black">Carnegie</text>
+<text transform="translate(458,951)" font-size="4" style="fill:black">combines</text>
+<text transform="translate(1172,998)" font-size="4" style="fill:black">daringly</text>
+<text transform="translate(319,189)" font-size="4" style="fill:black">distance</text>
+<text transform="translate(1209,678) rotate(-90)" font-size="4" style="fill:black">employed</text>
+<text transform="translate(1363,52)" font-size="4" style="fill:black">evenings</text>
+<text transform="translate(759,972) rotate(-90)" font-size="4" style="fill:black">exciting</text>
+<text transform="translate(218,330)" font-size="4" style="fill:black">involves</text>
+<text transform="translate(539,1013)" font-size="4" style="fill:black">knockout</text>
+<text transform="translate(1737,407)" font-size="4" style="fill:black">novelist</text>
+<text transform="translate(951,488) rotate(-90)" font-size="4" style="fill:black">Positano</text>
+<text transform="translate(970,590)" font-size="4" style="fill:black">producer</text>
+<text transform="translate(1930,413)" font-size="4" style="fill:black">relocate</text>
+<text transform="translate(600,990)" font-size="4" style="fill:black">required</text>
+<text transform="translate(195,972)" font-size="4" style="fill:black">seasoned</text>
+<text transform="translate(1906,812)" font-size="4" style="fill:black">solitude</text>
+<text transform="translate(391,170)" font-size="4" style="fill:black">Stanford</text>
+<text transform="translate(512,465)" font-size="4" style="fill:black">abiding</text>
+<text transform="translate(1746,106)" font-size="4" style="fill:black">average</text>
+<text transform="translate(985,162)" font-size="4" style="fill:black">bookish</text>
+<text transform="translate(794,107)" font-size="4" style="fill:black">British</text>
+<text transform="translate(1275,111)" font-size="4" style="fill:black">driving</text>
+<text transform="translate(686,650)" font-size="4" style="fill:black">leaning</text>
+<text transform="translate(1208,909)" font-size="4" style="fill:black">moments</text>
+<text transform="translate(782,178)" font-size="4" style="fill:black">morocco</text>
+<text transform="translate(853,653)" font-size="4" style="fill:black">Tuscany</text>
+<text transform="translate(779,915) rotate(-90)" font-size="4" style="fill:black">weekend</text>
+<text transform="translate(857,468)" font-size="4" style="fill:black">brings</text>
+<text transform="translate(1637,681)" font-size="4" style="fill:black">corner</text>
+<text transform="translate(256,386) rotate(-90)" font-size="4" style="fill:black">counts</text>
+<text transform="translate(1537,927) rotate(-90)" font-size="4" style="fill:black">either</text>
+<text transform="translate(241,51)" font-size="4" style="fill:black">ethnic</text>
+<text transform="translate(1546,166)" font-size="4" style="fill:black">foodie</text>
+<text transform="translate(1311,146)" font-size="4" style="fill:black">global</text>
+<text transform="translate(643,365)" font-size="4" style="fill:black">Hawaii</text>
+<text transform="translate(1639,686)" font-size="4" style="fill:black">heifer</text>
+<text transform="translate(2027,981)" font-size="4" style="fill:black">jersey</text>
+<text transform="translate(1170,73)" font-size="4" style="fill:black">Oaxaca</text>
+<text transform="translate(1218,115)" font-size="4" style="fill:black">quirky</text>
+<text transform="translate(2097,351)" font-size="4" style="fill:black">season</text>
+<text transform="translate(1537,951) rotate(-90)" font-size="4" style="fill:black">second</text>
+<text transform="translate(1421,114)" font-size="4" style="fill:black">secret</text>
+<text transform="translate(317,204)" font-size="4" style="fill:black">sounds</text>
+<text transform="translate(1980,309)" font-size="4" style="fill:black">spaces</text>
+<text transform="translate(1465,454)" font-size="4" style="fill:black">varied</text>
+<text transform="translate(1206,1010)" font-size="4" style="fill:black">what's</text>
+<text transform="translate(1078,672)" font-size="4" style="fill:black">you'll</text>
+<text transform="translate(1463,954) rotate(-90)" font-size="4" style="fill:black">above</text>
+<text transform="translate(1028,133)" font-size="4" style="fill:black">apply</text>
+<text transform="translate(412,384)" font-size="4" style="fill:black">brave</text>
+<text transform="translate(816,236)" font-size="4" style="fill:black">Diego</text>
+<text transform="translate(992,747)" font-size="4" style="fill:black">drawl</text>
+<text transform="translate(885,399)" font-size="4" style="fill:black">feels</text>
+<text transform="translate(2089,911)" font-size="4" style="fill:black">found</text>
+<text transform="translate(1327,970)" font-size="4" style="fill:black">hikes</text>
+<text transform="translate(1044,365) rotate(-90)" font-size="4" style="fill:black">large</text>
+<text transform="translate(1190,855)" font-size="4" style="fill:black">least</text>
+<text transform="translate(1559,83)" font-size="4" style="fill:black">mac's</text>
+<text transform="translate(1975,115)" font-size="4" style="fill:black">quite</text>
+<text transform="translate(486,29)" font-size="4" style="fill:black">shack</text>
+<text transform="translate(2020,321)" font-size="4" style="fill:black">silly</text>
+<text transform="translate(981,337)" font-size="4" style="fill:black">three</text>
+<text transform="translate(1923,854) rotate(-90)" font-size="4" style="fill:black">thumb</text>
+<text transform="translate(1148,654)" font-size="4" style="fill:black">towns</text>
+<text transform="translate(1327,897)" font-size="4" style="fill:black">truly</text>
+<text transform="translate(1339,742) rotate(-90)" font-size="4" style="fill:black">you'd</text>
+<text transform="translate(1135,937) rotate(-90)" font-size="4" style="fill:black">bird</text>
+<text transform="translate(857,482)" font-size="4" style="fill:black">buff</text>
+<text transform="translate(1888,492)" font-size="4" style="fill:black">cell</text>
+<text transform="translate(1655,212)" font-size="4" style="fill:black">chef</text>
+<text transform="translate(1309,76)" font-size="4" style="fill:black">hill</text>
+<text transform="translate(2051,899)" font-size="4" style="fill:black">hint</text>
+<text transform="translate(816,842)" font-size="4" style="fill:black">less</text>
+<text transform="translate(1884,35)" font-size="4" style="fill:black">race</text>
+<text transform="translate(1422,678)" font-size="4" style="fill:black">Roku</text>
+<text transform="translate(607,607) rotate(-90)" font-size="4" style="fill:black">size</text>
+<text transform="translate(773,878)" font-size="4" style="fill:black">song</text>
+<text transform="translate(298,112)" font-size="4" style="fill:black">sure</text>
+<text transform="translate(2056,288)" font-size="4" style="fill:black">tick</text>
+<text transform="translate(663,445)" font-size="4" style="fill:black">told</text>
+<text transform="translate(328,125)" font-size="4" style="fill:black">tuna</text>
+<text transform="translate(501,394)" font-size="4" style="fill:black">wife</text>
+<text transform="translate(913,225)" font-size="4" style="fill:black">wire</text>
+<text transform="translate(285,375)" font-size="4" style="fill:black">yale</text>
+<text transform="translate(1342,423)" font-size="4" style="fill:black">ads</text>
+<text transform="translate(1141,1006)" font-size="4" style="fill:black">ago</text>
+<text transform="translate(1705,992)" font-size="4" style="fill:black">car</text>
+<text transform="translate(1438,480)" font-size="4" style="fill:black">NYT</text>
+<text transform="translate(1501,847)" font-size="4" style="fill:black">pie</text>
+<text transform="translate(228,444)" font-size="4" style="fill:black">sun</text>
+<text transform="translate(732,933)" font-size="4" style="fill:black">et</text>
+<text transform="translate(1715,844)" font-size="4" style="fill:black">op</text>
+<text transform="translate(1208,961)" font-size="4" style="fill:black">yr</text>
+<text transform="translate(734,913)" font-size="4" style="fill:black">y</text>
+<text transform="translate(1326,188) rotate(-90)" font-size="4" style="fill:black">internationally</text>
+<text transform="translate(1984,482) rotate(-90)" font-size="4" style="fill:black">anthropologist</text>
+<text transform="translate(1770,941) rotate(-90)" font-size="4" style="fill:black">conversational</text>
+<text transform="translate(1278,96) rotate(-90)" font-size="4" style="fill:black">indiscriminate</text>
+<text transform="translate(1398,633) rotate(-90)" font-size="4" style="fill:black">Mediterranean</text>
+<text transform="translate(1737,932) rotate(-90)" font-size="4" style="fill:black">photographing</text>
+<text transform="translate(1564,753) rotate(-90)" font-size="4" style="fill:black">relationships</text>
+<text transform="translate(2038,415)" font-size="4" style="fill:black">irresistible</text>
+<text transform="translate(760,947) rotate(-90)" font-size="4" style="fill:black">neuroscience</text>
+<text transform="translate(1373,670) rotate(-90)" font-size="4" style="fill:black">philanthropy</text>
+<text transform="translate(1442,987) rotate(-90)" font-size="4" style="fill:black">grandmother</text>
+<text transform="translate(1536,714)" font-size="4" style="fill:black">individuals</text>
+<text transform="translate(1683,242) rotate(-90)" font-size="4" style="fill:black">personality</text>
+<text transform="translate(1801,978) rotate(-90)" font-size="4" style="fill:black">personifies</text>
+<text transform="translate(779,972) rotate(-90)" font-size="4" style="fill:black">stimulating</text>
+<text transform="translate(1013,388) rotate(-90)" font-size="4" style="fill:black">Witherspoon</text>
+<text transform="translate(1465,920) rotate(-90)" font-size="4" style="fill:black">afternoons</text>
+<text transform="translate(1879,175) rotate(-90)" font-size="4" style="fill:black">crosswords</text>
+<text transform="translate(901,660)" font-size="4" style="fill:black">definitely</text>
+<text transform="translate(1252,371)" font-size="4" style="fill:black">discussion</text>
+<text transform="translate(437,117) rotate(-90)" font-size="4" style="fill:black">enthusiast</text>
+<text transform="translate(566,331)" font-size="4" style="fill:black">explorer's</text>
+<text transform="translate(1826,1007) rotate(-90)" font-size="4" style="fill:black">humanities</text>
+<text transform="translate(1533,903) rotate(-90)" font-size="4" style="fill:black">landscapes</text>
+<text transform="translate(1161,968) rotate(-90)" font-size="4" style="fill:black">Tanglewood</text>
+<text transform="translate(879,448) rotate(-90)" font-size="4" style="fill:black">upbringing</text>
+<text transform="translate(1529,241)" font-size="4" style="fill:black">Beethoven</text>
+<text transform="translate(725,167) rotate(-90)" font-size="4" style="fill:black">chemistry</text>
+<text transform="translate(1758,357)" font-size="4" style="fill:black">collector</text>
+<text transform="translate(438,39)" font-size="4" style="fill:black">different</text>
+<text transform="translate(622,495)" font-size="4" style="fill:black">education</text>
+<text transform="translate(1446,737) rotate(-90)" font-size="4" style="fill:black">enjoyment</text>
+<text transform="translate(554,215) rotate(-90)" font-size="4" style="fill:black">exquisite</text>
+<text transform="translate(1858,214)" font-size="4" style="fill:black">financial</text>
+<text transform="translate(1363,386)" font-size="4" style="fill:black">historian</text>
+<text transform="translate(1458,392) rotate(-90)" font-size="4" style="fill:black">newspaper</text>
+<text transform="translate(1277,49) rotate(-90)" font-size="4" style="fill:black">outdoorsy</text>
+<text transform="translate(812,80)" font-size="4" style="fill:black">returning</text>
+<text transform="translate(505,453) rotate(-90)" font-size="4" style="fill:black">searching</text>
+<text transform="translate(1877,466)" font-size="4" style="fill:black">sweetness</text>
+<text transform="translate(677,982)" font-size="4" style="fill:black">travelled</text>
+<text transform="translate(1138,338)" font-size="4" style="fill:black">treasures</text>
+<text transform="translate(1521,85)" font-size="4" style="fill:black">attitude</text>
+<text transform="translate(1598,664)" font-size="4" style="fill:black">balances</text>
+<text transform="translate(2088,964)" font-size="4" style="fill:black">Boston's</text>
+<text transform="translate(1573,407)" font-size="4" style="fill:black">canoeing</text>
+<text transform="translate(1734,624)" font-size="4" style="fill:black">ceramics</text>
+<text transform="translate(1127,595)" font-size="4" style="fill:black">Cornwall</text>
+<text transform="translate(1925,957)" font-size="4" style="fill:black">cruising</text>
+<text transform="translate(1317,70) rotate(-90)" font-size="4" style="fill:black">dazzling</text>
+<text transform="translate(1494,960) rotate(-90)" font-size="4" style="fill:black">exhibits</text>
+<text transform="translate(1904,831)" font-size="4" style="fill:black">mutually</text>
+<text transform="translate(1715,661)" font-size="4" style="fill:black">platonic</text>
+<text transform="translate(774,483) rotate(-90)" font-size="4" style="fill:black">Schumann</text>
+<text transform="translate(577,751)" font-size="4" style="fill:black">scrabble</text>
+<text transform="translate(1902,130) rotate(-90)" font-size="4" style="fill:black">thoughts</text>
+<text transform="translate(1136,917) rotate(-90)" font-size="4" style="fill:black">vitality</text>
+<text transform="translate(989,129) rotate(-90)" font-size="4" style="fill:black">ferrata</text>
+<text transform="translate(291,117)" font-size="4" style="fill:black">fishing</text>
+<text transform="translate(1574,414)" font-size="4" style="fill:black">forever</text>
+<text transform="translate(1769,374)" font-size="4" style="fill:black">fullest</text>
+<text transform="translate(252,439)" font-size="4" style="fill:black">honesty</text>
+<text transform="translate(1689,676)" font-size="4" style="fill:black">humbled</text>
+<text transform="translate(1905,819)" font-size="4" style="fill:black">medical</text>
+<text transform="translate(601,111)" font-size="4" style="fill:black">missing</text>
+<text transform="translate(1222,120)" font-size="4" style="fill:black">package</text>
+<text transform="translate(892,348)" font-size="4" style="fill:black">parties</text>
+<text transform="translate(1365,57)" font-size="4" style="fill:black">persona</text>
+<text transform="translate(1708,1002)" font-size="4" style="fill:black">rafting</text>
+<text transform="translate(1926,240)" font-size="4" style="fill:black">replies</text>
+<text transform="translate(436,343)" font-size="4" style="fill:black">sitting</text>
+<text transform="translate(430,309)" font-size="4" style="fill:black">soulful</text>
+<text transform="translate(1007,917)" font-size="4" style="fill:black">studies</text>
+<text transform="translate(2003,434)" font-size="4" style="fill:black">support</text>
+<text transform="translate(887,916)" font-size="4" style="fill:black">Tortola</text>
+<text transform="translate(1433,181)" font-size="4" style="fill:black">totally</text>
+<text transform="translate(1403,566)" font-size="4" style="fill:black">trained</text>
+<text transform="translate(802,977) rotate(-90)" font-size="4" style="fill:black">version</text>
+<text transform="translate(723,592)" font-size="4" style="fill:black">village</text>
+<text transform="translate(1274,178)" font-size="4" style="fill:black">afraid</text>
+<text transform="translate(815,363)" font-size="4" style="fill:black">Africa</text>
+<text transform="translate(1599,191)" font-size="4" style="fill:black">Audrey</text>
+<text transform="translate(1031,636)" font-size="4" style="fill:black">drinks</text>
+<text transform="translate(993,730)" font-size="4" style="fill:black">except</text>
+<text transform="translate(551,854)" font-size="4" style="fill:black">ground</text>
+<text transform="translate(1635,946)" font-size="4" style="fill:black">hidden</text>
+<text transform="translate(1604,671)" font-size="4" style="fill:black">length</text>
+<text transform="translate(1472,421)" font-size="4" style="fill:black">likely</text>
+<text transform="translate(528,902) rotate(-90)" font-size="4" style="fill:black">lonely</text>
+<text transform="translate(1611,354) rotate(-90)" font-size="4" style="fill:black">native</text>
+<text transform="translate(1679,705)" font-size="4" style="fill:black">nearby</text>
+<text transform="translate(1159,498) rotate(-90)" font-size="4" style="fill:black">poetic</text>
+<text transform="translate(817,368)" font-size="4" style="fill:black">sailor</text>
+<text transform="translate(795,604)" font-size="4" style="fill:black">sultry</text>
+<text transform="translate(1595,879)" font-size="4" style="fill:black">Sydney</text>
+<text transform="translate(1326,391)" font-size="4" style="fill:black">witted</text>
+<text transform="translate(678,957)" font-size="4" style="fill:black">agent</text>
+<text transform="translate(1972,886)" font-size="4" style="fill:black">aging</text>
+<text transform="translate(961,990)" font-size="4" style="fill:black">award</text>
+<text transform="translate(1691,650)" font-size="4" style="fill:black">basis</text>
+<text transform="translate(1626,865)" font-size="4" style="fill:black">broad</text>
+<text transform="translate(1480,138)" font-size="4" style="fill:black">doing</text>
+<text transform="translate(787,1003)" font-size="4" style="fill:black">dream</text>
+<text transform="translate(1548,977)" font-size="4" style="fill:black">drink</text>
+<text transform="translate(1889,339)" font-size="4" style="fill:black">later</text>
+<text transform="translate(1671,998)" font-size="4" style="fill:black">meets</text>
+<text transform="translate(465,427)" font-size="4" style="fill:black">point</text>
+<text transform="translate(1232,922)" font-size="4" style="fill:black">Reese</text>
+<text transform="translate(1320,853)" font-size="4" style="fill:black">Reyes</text>
+<text transform="translate(1480,144)" font-size="4" style="fill:black">she'd</text>
+<text transform="translate(626,886)" font-size="4" style="fill:black">solid</text>
+<text transform="translate(1564,335)" font-size="4" style="fill:black">we'll</text>
+<text transform="translate(2081,104) rotate(-90)" font-size="4" style="fill:black">bond</text>
+<text transform="translate(702,110)" font-size="4" style="fill:black">busy</text>
+<text transform="translate(1599,203)" font-size="4" style="fill:black">DVDs</text>
+<text transform="translate(1004,142)" font-size="4" style="fill:black">gets</text>
+<text transform="translate(1698,619)" font-size="4" style="fill:black">goes</text>
+<text transform="translate(1647,749)" font-size="4" style="fill:black">lake</text>
+<text transform="translate(1085,951) rotate(-90)" font-size="4" style="fill:black">mean</text>
+<text transform="translate(1444,678)" font-size="4" style="fill:black">pace</text>
+<text transform="translate(947,492)" font-size="4" style="fill:black">rest</text>
+<text transform="translate(1926,213)" font-size="4" style="fill:black">Rome</text>
+<text transform="translate(924,153)" font-size="4" style="fill:black">star</text>
+<text transform="translate(1217,464)" font-size="4" style="fill:black">wall</text>
+<text transform="translate(595,592)" font-size="4" style="fill:black">wish</text>
+<text transform="translate(1196,599)" font-size="4" style="fill:black">add</text>
+<text transform="translate(367,363)" font-size="4" style="fill:black">mix</text>
+<text transform="translate(540,114)" font-size="4" style="fill:black">PhD</text>
+<text transform="translate(1732,982)" font-size="4" style="fill:black">try</text>
+<text transform="translate(779,162)" font-size="4" style="fill:black">wjf</text>
+<text transform="translate(722,970)" font-size="4" style="fill:black">jf</text>
+<text transform="translate(681,897) rotate(-90)" font-size="4" style="fill:black">entrepreneurial</text>
+<text transform="translate(1711,212) rotate(-90)" font-size="4" style="fill:black">introspective</text>
+<text transform="translate(1905,185) rotate(-90)" font-size="4" style="fill:black">sensibilities</text>
+</svg>

@@ -1,0 +1,378 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
+<style>@font-face{font-family:'Ultra';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Ultra';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(172,611)" font-size="200" style="fill:black">love</text>
+<text transform="translate(402,772)" font-size="181" style="fill:black">life</text>
+<text transform="translate(21,212)" font-size="175" style="fill:black">woman</text>
+<text transform="translate(375,917)" font-size="169" style="fill:black">man</text>
+<text transform="translate(142,343)" font-size="165" style="fill:black">humor</text>
+<text transform="translate(252,446)" font-size="125" style="fill:black">New York</text>
+<text transform="translate(96,753) rotate(-90)" font-size="122" style="fill:black">share</text>
+<text transform="translate(935,997) rotate(-90)" font-size="122" style="fill:black">sense</text>
+<text transform="translate(70,964)" font-size="117" style="fill:black">fun</text>
+<text transform="translate(71,67)" font-size="86" style="fill:black">good looking</text>
+<text transform="translate(936,285) rotate(-90)" font-size="84" style="fill:black">meet</text>
+<text transform="translate(701,620)" font-size="84" style="fill:black">art</text>
+<text transform="translate(153,821)" font-size="82" style="fill:black">NYC</text>
+<text transform="translate(98,727)" font-size="82" style="fill:black">travel</text>
+<text transform="translate(360,978)" font-size="74" style="fill:black">interested</text>
+<text transform="translate(684,499)" font-size="64" style="fill:black">passion</text>
+<text transform="translate(138,863)" font-size="49" style="fill:black">looking</text>
+<text transform="translate(265,477)" font-size="36" style="fill:black">financially secure</text>
+<text transform="translate(384,99)" font-size="36" style="fill:black">intellectual</text>
+<text transform="translate(374,798)" font-size="36" style="fill:black">New England</text>
+<text transform="translate(717,534)" font-size="35" style="fill:black">Boston area</text>
+<text transform="translate(988,941) rotate(-90)" font-size="35" style="fill:black">classical music</text>
+<text transform="translate(96,646)" font-size="35" style="fill:black">San Francisco</text>
+<text transform="translate(252,99)" font-size="35" style="fill:black">live</text>
+<text transform="translate(34,988) rotate(-90)" font-size="35" style="fill:black">good looks</text>
+<text transform="translate(966,303) rotate(-90)" font-size="35" style="fill:black">Seeks smart</text>
+<text transform="translate(682,648)" font-size="35" style="fill:black">year old</text>
+<text transform="translate(684,809)" font-size="34" style="fill:black">friend</text>
+<text transform="translate(33,251)" font-size="34" style="fill:black">work</text>
+<text transform="translate(304,237)" font-size="34" style="fill:black">seeks man</text>
+<text transform="translate(132,594) rotate(-90)" font-size="34" style="fill:black">passionate</text>
+<text transform="translate(843,241) rotate(-90)" font-size="34" style="fill:black">long term</text>
+<text transform="translate(556,235)" font-size="24" style="fill:black">companionship</text>
+<text transform="translate(876,328) rotate(-90)" font-size="24" style="fill:black">woman seeks</text>
+<text transform="translate(4,306)" font-size="24" style="fill:black">e mail</text>
+<text transform="translate(195,666)" font-size="24" style="fill:black">fun loving</text>
+<text transform="translate(114,747)" font-size="24" style="fill:black">well educated</text>
+<text transform="translate(150,382)" font-size="24" style="fill:black">want</text>
+<text transform="translate(422,357)" font-size="24" style="fill:black">secure man</text>
+<text transform="translate(147,886)" font-size="24" style="fill:black">Seeks kind</text>
+<text transform="translate(32,277)" font-size="24" style="fill:black">interest</text>
+<text transform="translate(107,989)" font-size="24" style="fill:black">well traveled</text>
+<text transform="translate(725,361)" font-size="24" style="fill:black">adventure</text>
+<text transform="translate(852,556)" font-size="24" style="fill:black">BAY AREA</text>
+<text transform="translate(171,554) rotate(-90)" font-size="24" style="fill:black">active man</text>
+<text transform="translate(850,867) rotate(-90)" font-size="24" style="fill:black">romance</text>
+<text transform="translate(986,297) rotate(-90)" font-size="24" style="fill:black">NYC area</text>
+<text transform="translate(257,243)" font-size="24" style="fill:black">lot</text>
+<text transform="translate(56,921) rotate(-90)" font-size="24" style="fill:black">good food</text>
+<text transform="translate(8,104)" font-size="18" style="fill:black">lasting relationship</text>
+<text transform="translate(880,319)" font-size="18" style="fill:black">ready</text>
+<text transform="translate(985,155) rotate(-90)" font-size="18" style="fill:black">friendship</text>
+<text transform="translate(10,44)" font-size="18" style="fill:black">enjoy</text>
+<text transform="translate(14,564) rotate(-90)" font-size="18" style="fill:black">Ivy educated</text>
+<text transform="translate(794,15)" font-size="18" style="fill:black">seeking</text>
+<text transform="translate(699,550)" font-size="18" style="fill:black">LOS ANGELES</text>
+<text transform="translate(20,237) rotate(-90)" font-size="18" style="fill:black">know</text>
+<text transform="translate(794,722)" font-size="18" style="fill:black">make</text>
+<text transform="translate(883,347)" font-size="18" style="fill:black">man 60s</text>
+<text transform="translate(952,886) rotate(-90)" font-size="18" style="fill:black">seeks attractive</text>
+<text transform="translate(402,624)" font-size="15" style="fill:black">professional woman</text>
+<text transform="translate(3,19)" font-size="15" style="fill:black">50s 60s</text>
+<text transform="translate(145,576) rotate(-90)" font-size="15" style="fill:black">attractive woman</text>
+<text transform="translate(353,811)" font-size="15" style="fill:black">good conversation</text>
+<text transform="translate(284,488)" font-size="13" style="fill:black">intellectually curious</text>
+<text transform="translate(715,105)" font-size="13" style="fill:black">home</text>
+<text transform="translate(101,790)" font-size="13" style="fill:black">one</text>
+<text transform="translate(320,905)" font-size="13" style="fill:black">family</text>
+<text transform="translate(43,761)" font-size="13" style="fill:black">NYC woman</text>
+<text transform="translate(188,414)" font-size="13" style="fill:black">people</text>
+<text transform="translate(521,488)" font-size="13" style="fill:black">Seeks active</text>
+<text transform="translate(710,561)" font-size="13" style="fill:black">nice looking</text>
+<text transform="translate(568,809)" font-size="13" style="fill:black">East Coast</text>
+<text transform="translate(526,990)" font-size="13" style="fill:black">male companion</text>
+<text transform="translate(481,370)" font-size="13" style="fill:black">attractive</text>
+<text transform="translate(582,405)" font-size="13" style="fill:black">laugh</text>
+<text transform="translate(98,301)" font-size="13" style="fill:black">age</text>
+<text transform="translate(73,831) rotate(-90)" font-size="13" style="fill:black">style</text>
+<text transform="translate(72,845)" font-size="13" style="fill:black">touch</text>
+<text transform="translate(779,672)" font-size="13" style="fill:black">blue eyed</text>
+<text transform="translate(954,704) rotate(-90)" font-size="13" style="fill:black">Seeks educated</text>
+<text transform="translate(723,990)" font-size="13" style="fill:black">politically liberal</text>
+<text transform="translate(493,929)" font-size="13" style="fill:black">seeks male</text>
+<text transform="translate(324,990)" font-size="13" style="fill:black">financially independent</text>
+<text transform="translate(121,355)" font-size="13" style="fill:black">warm hearted</text>
+<text transform="translate(7,76)" font-size="13" style="fill:black">open</text>
+<text transform="translate(172,432)" font-size="13" style="fill:black">share life</text>
+<text transform="translate(884,11)" font-size="13" style="fill:black">skiing hiking</text>
+<text transform="translate(787,698)" font-size="13" style="fill:black">man 50s</text>
+<text transform="translate(141,83)" font-size="13" style="fill:black">well read</text>
+<text transform="translate(171,444)" font-size="13" style="fill:black">Must</text>
+<text transform="translate(174,456)" font-size="13" style="fill:black">good sense</text>
+<text transform="translate(938,363)" font-size="13" style="fill:black">much</text>
+<text transform="translate(173,393)" font-size="13" style="fill:black">gentleman</text>
+<text transform="translate(82,10)" font-size="11" style="fill:black">seeks intelligent</text>
+<text transform="translate(96,808)" font-size="11" style="fill:black">dinner</text>
+<text transform="translate(348,247)" font-size="11" style="fill:black">intellectual bent</text>
+<text transform="translate(646,10)" font-size="11" style="fill:black">Photo appreciated</text>
+<text transform="translate(383,367)" font-size="11" style="fill:black">Photo please</text>
+<text transform="translate(853,304) rotate(-90)" font-size="11" style="fill:black">financially stable</text>
+<text transform="translate(113,606)" font-size="11" style="fill:black">bio photo</text>
+<text transform="translate(440,110)" font-size="11" style="fill:black">talk</text>
+<text transform="translate(331,749)" font-size="11" style="fill:black">world</text>
+<text transform="translate(717,819)" font-size="11" style="fill:black">fit man</text>
+<text transform="translate(57,771)" font-size="11" style="fill:black">New Zealand</text>
+<text transform="translate(407,9)" font-size="11" style="fill:black">male counterpart</text>
+<text transform="translate(278,675)" font-size="11" style="fill:black">earth</text>
+<text transform="translate(113,659)" font-size="11" style="fill:black">confidence</text>
+<text transform="translate(201,11)" font-size="11" style="fill:black">art music</text>
+<text transform="translate(721,925)" font-size="11" style="fill:black">great sense</text>
+<text transform="translate(656,98)" font-size="11" style="fill:black">heart</text>
+<text transform="translate(289,107)" font-size="9" style="fill:black">Seeks accomplished</text>
+<text transform="translate(886,508)" font-size="9" style="fill:black">Divorced Jewish</text>
+<text transform="translate(61,858)" font-size="9" style="fill:black">New Yorker</text>
+<text transform="translate(661,244)" font-size="9" style="fill:black">tall slim</text>
+<text transform="translate(571,443)" font-size="9" style="fill:black">slim figure</text>
+<text transform="translate(44,219)" font-size="9" style="fill:black">loves skiing</text>
+<text transform="translate(638,486)" font-size="9" style="fill:black">mid 50s</text>
+<text transform="translate(958,972) rotate(-90)" font-size="9" style="fill:black">low key</text>
+<text transform="translate(494,108)" font-size="9" style="fill:black">attractive fit</text>
+<text transform="translate(665,82)" font-size="9" style="fill:black">making</text>
+<text transform="translate(523,116)" font-size="9" style="fill:black">spirit</text>
+<text transform="translate(858,864) rotate(-90)" font-size="9" style="fill:black">educated financially</text>
+<text transform="translate(941,987)" font-size="9" style="fill:black">Cape Cod</text>
+<text transform="translate(712,662)" font-size="9" style="fill:black">Santa Fe</text>
+<text transform="translate(181,828)" font-size="9" style="fill:black">La Jolla</text>
+<text transform="translate(809,122) rotate(-90)" font-size="9" style="fill:black">conversation</text>
+<text transform="translate(636,626)" font-size="9" style="fill:black">explore</text>
+<text transform="translate(590,928)" font-size="9" style="fill:black">intelligent man</text>
+<text transform="translate(917,564)" font-size="9" style="fill:black">physically fit</text>
+<text transform="translate(409,633)" font-size="9" style="fill:black">non smoking</text>
+<text transform="translate(177,894)" font-size="9" style="fill:black">new adventures</text>
+<text transform="translate(699,456)" font-size="8" style="fill:black">complimentary membership</text>
+<text transform="translate(241,755)" font-size="8" style="fill:black">Slender athletic</text>
+<text transform="translate(715,368)" font-size="8" style="fill:black">Seeks healthy</text>
+<text transform="translate(776,683)" font-size="8" style="fill:black">Jewish woman</text>
+<text transform="translate(767,775)" font-size="8" style="fill:black">cook great</text>
+<text transform="translate(896,455)" font-size="8" style="fill:black">loving man</text>
+<text transform="translate(460,496)" font-size="8" style="fill:black">photography architecture</text>
+<text transform="translate(326,792)" font-size="8" style="fill:black">children</text>
+<text transform="translate(608,108)" font-size="8" style="fill:black">warmth</text>
+<text transform="translate(124,621)" font-size="8" style="fill:black">find</text>
+<text transform="translate(697,869)" font-size="8" style="fill:black">plus</text>
+<text transform="translate(416,925)" font-size="8" style="fill:black">female</text>
+<text transform="translate(596,625)" font-size="8" style="fill:black">living</text>
+<text transform="translate(339,36)" font-size="8" style="fill:black">LTR</text>
+<text transform="translate(34,572)" font-size="8" style="fill:black">SF BAY</text>
+<text transform="translate(116,112)" font-size="8" style="fill:black">attractive man</text>
+<text transform="translate(45,981)" font-size="8" style="fill:black">area man</text>
+<text transform="translate(146,674)" font-size="8" style="fill:black">Manhattan woman</text>
+<text transform="translate(666,111)" font-size="8" style="fill:black">PO Box</text>
+<text transform="translate(572,417)" font-size="8" style="fill:black">seeks female</text>
+<text transform="translate(561,722) rotate(-90)" font-size="8" style="fill:black">chamber music</text>
+<text transform="translate(63,409)" font-size="8" style="fill:black">part time</text>
+<text transform="translate(61,867)" font-size="8" style="fill:black">natural beauty</text>
+<text transform="translate(30,287)" font-size="8" style="fill:black">tall fit</text>
+<text transform="translate(937,21)" font-size="8" style="fill:black">bright</text>
+<text transform="translate(553,816)" font-size="8" style="fill:black">challenge</text>
+<text transform="translate(213,617)" font-size="8" style="fill:black">contemporary art</text>
+<text transform="translate(714,242)" font-size="8" style="fill:black">great legs</text>
+<text transform="translate(787,369)" font-size="8" style="fill:black">Seeks nonsmoking</text>
+<text transform="translate(524,244)" font-size="8" style="fill:black">term relationship</text>
+<text transform="translate(419,612) rotate(-90)" font-size="8" style="fill:black">West Side</text>
+<text transform="translate(22,506) rotate(-90)" font-size="8" style="fill:black">roots international</text>
+<text transform="translate(5,315)" font-size="8" style="fill:black">international outlook</text>
+<text transform="translate(795,23)" font-size="8" style="fill:black">single man</text>
+<text transform="translate(145,754)" font-size="8" style="fill:black">completely real</text>
+<text transform="translate(81,815)" font-size="8" style="fill:black">love laughter</text>
+<text transform="translate(381,819)" font-size="8" style="fill:black">Drawn</text>
+<text transform="translate(24,59)" font-size="8" style="fill:black">together</text>
+<text transform="translate(252,495)" font-size="8" style="fill:black">meeting</text>
+<text transform="translate(854,979) rotate(-90)" font-size="8" style="fill:black">Actively enjoys</text>
+<text transform="translate(313,886)" font-size="8" style="fill:black">Tall slender</text>
+<text transform="translate(136,219)" font-size="8" style="fill:black">Midwestern roots</text>
+<text transform="translate(619,816)" font-size="8" style="fill:black">Please send</text>
+<text transform="translate(64,970)" font-size="8" style="fill:black">SMART FUNNY</text>
+<text transform="translate(52,989)" font-size="8" style="fill:black">Great cook</text>
+<text transform="translate(994,282) rotate(-90)" font-size="8" style="fill:black">successful professional</text>
+<text transform="translate(808,507)" font-size="8" style="fill:black">healthy active</text>
+<text transform="translate(319,74)" font-size="8" style="fill:black">Maine Coast</text>
+<text transform="translate(8,418) rotate(-90)" font-size="8" style="fill:black">values generosity</text>
+<text transform="translate(776,655)" font-size="8" style="fill:black">PRIVATE DATING</text>
+<text transform="translate(149,362)" font-size="8" style="fill:black">DATING CLUB</text>
+<text transform="translate(568,429)" font-size="8" style="fill:black">right person</text>
+<text transform="translate(382,352)" font-size="8" style="fill:black">known</text>
+<text transform="translate(701,437) rotate(-90)" font-size="8" style="fill:black">zest</text>
+<text transform="translate(878,289)" font-size="8" style="fill:black">brown eyes</text>
+<text transform="translate(994,147) rotate(-90)" font-size="8" style="fill:black">professional man</text>
+<text transform="translate(855,110) rotate(-90)" font-size="8" style="fill:black">good company</text>
+<text transform="translate(811,337)" font-size="8" style="fill:black">fit attractive</text>
+<text transform="translate(19,744) rotate(-90)" font-size="8" style="fill:black">thinks deeply</text>
+<text transform="translate(993,368) rotate(-90)" font-size="8" style="fill:black">sailing hiking</text>
+<text transform="translate(778,816)" font-size="8" style="fill:black">Manhattan</text>
+<text transform="translate(354,757)" font-size="8" style="fill:black">summer</text>
+<text transform="translate(243,351)" font-size="8" style="fill:black">smart kind</text>
+<text transform="translate(303,830)" font-size="8" style="fill:black">music movies</text>
+<text transform="translate(332,91)" font-size="8" style="fill:black">blue eyes</text>
+<text transform="translate(260,567) rotate(-90)" font-size="8" style="fill:black">Cinque Terre</text>
+<text transform="translate(106,607) rotate(-90)" font-size="8" style="fill:black">affectionate divorced</text>
+<text transform="translate(867,112) rotate(-90)" font-size="8" style="fill:black">deeply politically</text>
+<text transform="translate(482,735) rotate(-90)" font-size="8" style="fill:black">nature beauty</text>
+<text transform="translate(396,496)" font-size="8" style="fill:black">bent Boston</text>
+<text transform="translate(1,111)" font-size="8" style="fill:black">WIDOW seeks</text>
+<text transform="translate(325,952)" font-size="8" style="fill:black">coq au</text>
+<text transform="translate(870,734)" font-size="8" style="fill:black">au vin</text>
+<text transform="translate(329,736)" font-size="8" style="fill:black">WIDOW retired</text>
+<text transform="translate(19,405) rotate(-90)" font-size="8" style="fill:black">service project</text>
+<text transform="translate(801,304)" font-size="8" style="fill:black">depth</text>
+<text transform="translate(28,485)" font-size="8" style="fill:black">happy</text>
+<text transform="translate(146,618)" font-size="8" style="fill:black">serious</text>
+<text transform="translate(789,104) rotate(-90)" font-size="8" style="fill:black">sophisticated</text>
+<text transform="translate(87,822)" font-size="8" style="fill:black">need</text>
+<text transform="translate(42,994)" font-size="5" style="fill:black">offering complimentary</text>
+<text transform="translate(829,318)" font-size="5" style="fill:black">early 70s</text>
+<text transform="translate(569,629)" font-size="5" style="fill:black">sly wit</text>
+<text transform="translate(186,994)" font-size="5" style="fill:black">literature politics</text>
+<text transform="translate(237,220)" font-size="5" style="fill:black">SERIOUSLY PRETTY</text>
+<text transform="translate(313,350)" font-size="5" style="fill:black">York City</text>
+<text transform="translate(610,450)" font-size="5" style="fill:black">financially comfortable</text>
+<text transform="translate(92,829)" font-size="5" style="fill:black">man 5'9</text>
+<text transform="translate(754,782)" font-size="5" style="fill:black">head turning</text>
+<text transform="translate(313,968)" font-size="5" style="fill:black">good natured</text>
+<text transform="translate(747,566)" font-size="5" style="fill:black">giving back</text>
+<text transform="translate(820,728)" font-size="5" style="fill:black">send photo</text>
+<text transform="translate(637,351)" font-size="5" style="fill:black">natural radiance</text>
+<text transform="translate(967,587)" font-size="5" style="fill:black">music art</text>
+<text transform="translate(273,306) rotate(-90)" font-size="5" style="fill:black">sexy sophisticated</text>
+<text transform="translate(308,249)" font-size="5" style="fill:black">NY LA</text>
+<text transform="translate(798,741)" font-size="5" style="fill:black">really cute</text>
+<text transform="translate(563,364)" font-size="5" style="fill:black">dating beautiful</text>
+<text transform="translate(190,461)" font-size="5" style="fill:black">striking natural</text>
+<text transform="translate(93,777)" font-size="5" style="fill:black">outdoors lover</text>
+<text transform="translate(841,342)" font-size="5" style="fill:black">beautiful</text>
+<text transform="translate(452,816)" font-size="5" style="fill:black">absurd</text>
+<text transform="translate(617,247)" font-size="5" style="fill:black">letter</text>
+<text transform="translate(968,978) rotate(-90)" font-size="5" style="fill:black">Delight</text>
+<text transform="translate(533,46) rotate(-90)" font-size="5" style="fill:black">unless</text>
+<text transform="translate(994,844) rotate(-90)" font-size="5" style="fill:black">mojitos</text>
+<text transform="translate(626,493)" font-size="5" style="fill:black">loving relationship</text>
+<text transform="translate(882,143) rotate(-90)" font-size="5" style="fill:black">good friend</text>
+<text transform="translate(871,561)" font-size="5" style="fill:black">social justice</text>
+<text transform="translate(102,335)" font-size="5" style="fill:black">time Slender</text>
+<text transform="translate(792,757)" font-size="5" style="fill:black">late 60s</text>
+<text transform="translate(586,388)" font-size="5" style="fill:black">long legs</text>
+<text transform="translate(367,651)" font-size="5" style="fill:black">dark hair</text>
+<text transform="translate(211,231)" font-size="5" style="fill:black">divorced 5'8</text>
+<text transform="translate(946,950) rotate(-90)" font-size="5" style="fill:black">lived abroad</text>
+<text transform="translate(994,708) rotate(-90)" font-size="5" style="fill:black">Adventurous curious</text>
+<text transform="translate(549,450)" font-size="5" style="fill:black">sparkling eyes</text>
+<text transform="translate(153,561)" font-size="5" style="fill:black">green eyed</text>
+<text transform="translate(306,995)" font-size="5" style="fill:black">attractive slender</text>
+<text transform="translate(844,120)" font-size="5" style="fill:black">Loves art</text>
+<text transform="translate(356,674) rotate(-90)" font-size="5" style="fill:black">60s 70s</text>
+<text transform="translate(20,224)" font-size="5" style="fill:black">many interests</text>
+<text transform="translate(566,13)" font-size="5" style="fill:black">hiking sailing</text>
+<text transform="translate(337,451)" font-size="5" style="fill:black">warm demeanor</text>
+<text transform="translate(730,930)" font-size="5" style="fill:black">Expressive affectionate</text>
+<text transform="translate(184,398)" font-size="5" style="fill:black">attractive accomplished</text>
+<text transform="translate(882,222) rotate(-90)" font-size="5" style="fill:black">great conversationalist</text>
+<text transform="translate(84,257)" font-size="5" style="fill:black">difference giving</text>
+<text transform="translate(756,507)" font-size="5" style="fill:black">man values</text>
+<text transform="translate(386,930)" font-size="5" style="fill:black">generosity authenticity</text>
+<text transform="translate(674,988)" font-size="5" style="fill:black">foreign film</text>
+<text transform="translate(970,457)" font-size="5" style="fill:black">outdoor</text>
+<text transform="translate(565,866)" font-size="5" style="fill:black">young</text>
+<text transform="translate(421,820)" font-size="5" style="fill:black">thing</text>
+<text transform="translate(362,494)" font-size="5" style="fill:black">see</text>
+<text transform="translate(58,971) rotate(-90)" font-size="5" style="fill:black">deeply curious</text>
+<text transform="translate(20,601) rotate(-90)" font-size="5" style="fill:black">successful man</text>
+<text transform="translate(502,995)" font-size="5" style="fill:black">excellent sense</text>
+<text transform="translate(90,282)" font-size="5" style="fill:black">well informed</text>
+<text transform="translate(358,656)" font-size="5" style="fill:black">Please respond</text>
+<text transform="translate(887,331)" font-size="5" style="fill:black">man interested</text>
+<text transform="translate(889,300)" font-size="5" style="fill:black">life pleasures</text>
+<text transform="translate(517,606)" font-size="5" style="fill:black">socially conscious</text>
+<text transform="translate(189,969)" font-size="5" style="fill:black">good heart</text>
+<text transform="translate(936,571)" font-size="5" style="fill:black">art architecture</text>
+<text transform="translate(323,917)" font-size="5" style="fill:black">seeking man</text>
+<text transform="translate(241,103)" font-size="5" style="fill:black">kindred spirit</text>
+<text transform="translate(15,84)" font-size="5" style="fill:black">liberal politics</text>
+<text transform="translate(993,925) rotate(-90)" font-size="5" style="fill:black">area preferred</text>
+<text transform="translate(474,242)" font-size="5" style="fill:black">early 50s</text>
+<text transform="translate(88,322)" font-size="5" style="fill:black">kind intelligent</text>
+<text transform="translate(213,437)" font-size="5" style="fill:black">warm witty</text>
+<text transform="translate(131,994)" font-size="5" style="fill:black">male friend</text>
+<text transform="translate(951,372)" font-size="5" style="fill:black">England area</text>
+<text transform="translate(354,766)" font-size="5" style="fill:black">Washington DC</text>
+<text transform="translate(8,996) rotate(-90)" font-size="5" style="fill:black">BEAUTIFUL intellectually</text>
+<text transform="translate(475,816)" font-size="5" style="fill:black">demeanor genuineness</text>
+<text transform="translate(958,897) rotate(-90)" font-size="5" style="fill:black">character Expressive</text>
+<text transform="translate(304,974)" font-size="5" style="fill:black">travel Seek</text>
+<text transform="translate(576,72)" font-size="5" style="fill:black">gentlemen aged</text>
+<text transform="translate(791,244)" font-size="5" style="fill:black">RESIST striking</text>
+<text transform="translate(957,594)" font-size="5" style="fill:black">beauty sexy</text>
+<text transform="translate(507,73)" font-size="5" style="fill:black">Slender lean</text>
+<text transform="translate(946,326)" font-size="5" style="fill:black">lean really</text>
+<text transform="translate(329,10)" font-size="5" style="fill:black">artist low</text>
+<text transform="translate(939,994)" font-size="5" style="fill:black">key humanitarian</text>
+<text transform="translate(653,994)" font-size="5" style="fill:black">loving athletic</text>
+<text transform="translate(212,244)" font-size="5" style="fill:black">false note</text>
+<text transform="translate(328,620)" font-size="5" style="fill:black">unassuming playful</text>
+<text transform="translate(271,891)" font-size="5" style="fill:black">playful smile</text>
+<text transform="translate(248,994)" font-size="5" style="fill:black">Nature outdoors</text>
+<text transform="translate(790,703)" font-size="5" style="fill:black">spontaneity delights</text>
+<text transform="translate(4,24)" font-size="5" style="fill:black">exploration discovery</text>
+<text transform="translate(521,594)" font-size="5" style="fill:black">Coast Cinque</text>
+<text transform="translate(491,450)" font-size="5" style="fill:black">Terre Whistler</text>
+<text transform="translate(151,496) rotate(-90)" font-size="5" style="fill:black">Whistler Passionately</text>
+<text transform="translate(98,287)" font-size="5" style="fill:black">Passionately loves</text>
+<text transform="translate(783,763)" font-size="5" style="fill:black">sailing New</text>
+<text transform="translate(696,627) rotate(-90)" font-size="5" style="fill:black">England photography</text>
+<text transform="translate(701,249)" font-size="5" style="fill:black">architecture Great</text>
+<text transform="translate(372,662)" font-size="5" style="fill:black">vin Crazy</text>
+<text transform="translate(557,826)" font-size="5" style="fill:black">back youth</text>
+<text transform="translate(179,209)" font-size="5" style="fill:black">risk local</text>
+<text transform="translate(944,28)" font-size="5" style="fill:black">local agriculture</text>
+<text transform="translate(994,808) rotate(-90)" font-size="5" style="fill:black">agriculture teaching</text>
+<text transform="translate(67,415)" font-size="5" style="fill:black">teaching art</text>
+<text transform="translate(669,821)" font-size="5" style="fill:black">art Seeking</text>
+<text transform="translate(814,100) rotate(-90)" font-size="5" style="fill:black">Seeking adventurous</text>
+<text transform="translate(710,448) rotate(-90)" font-size="5" style="fill:black">adventurous verbal</text>
+<text transform="translate(319,114)" font-size="5" style="fill:black">men</text>
+<text transform="translate(341,944) rotate(-90)" font-size="5" style="fill:black">ease</text>
+<text transform="translate(328,554)" font-size="5" style="fill:black">time</text>
+<text transform="translate(554,636)" font-size="5" style="fill:black">married</text>
+<text transform="translate(856,651)" font-size="5" style="fill:black">someone</text>
+<text transform="translate(736,301)" font-size="5" style="fill:black">hope</text>
+<text transform="translate(326,572)" font-size="5" style="fill:black">knack</text>
+<text transform="translate(563,372)" font-size="5" style="fill:black">seeks friendship</text>
+<text transform="translate(62,787)" font-size="5" style="fill:black">loves music</text>
+<text transform="translate(2,321)" font-size="5" style="fill:black">really good</text>
+<text transform="translate(262,503)" font-size="5" style="fill:black">girl next</text>
+<text transform="translate(140,893)" font-size="5" style="fill:black">next door</text>
+<text transform="translate(147,567)" font-size="5" style="fill:black">Seeks warm</text>
+<text transform="translate(318,923)" font-size="5" style="fill:black">Sunday Times</text>
+<text transform="translate(955,602)" font-size="5" style="fill:black">Soft spoken</text>
+<text transform="translate(498,629)" font-size="5" style="fill:black">similar interests</text>
+<text transform="translate(733,995)" font-size="5" style="fill:black">seeks successful</text>
+<text transform="translate(347,349)" font-size="5" style="fill:black">food good</text>
+<text transform="translate(334,79)" font-size="5" style="fill:black">downhill skiing</text>
+<text transform="translate(809,995)" font-size="5" style="fill:black">OLDER WOMAN</text>
+<text transform="translate(812,324)" font-size="5" style="fill:black">retired lawyer</text>
+<text transform="translate(330,46)" font-size="5" style="fill:black">lot thinks</text>
+<text transform="translate(11,158) rotate(-90)" font-size="5" style="fill:black">enjoys skiing</text>
+<text transform="translate(103,342)" font-size="5" style="fill:black">cook Seeks</text>
+<text transform="translate(102,471) rotate(-90)" font-size="5" style="fill:black">generous heart</text>
+<text transform="translate(435,372)" font-size="5" style="fill:black">social change</text>
+<text transform="translate(541,176) rotate(-90)" font-size="5" style="fill:black">change literature</text>
+<text transform="translate(591,252)" font-size="5" style="fill:black">ANGELES MAN</text>
+<text transform="translate(300,493)" font-size="5" style="fill:black">cute Adventurous</text>
+<text transform="translate(35,671)" font-size="5" style="fill:black">note Light</text>
+<text transform="translate(947,310)" font-size="5" style="fill:black">heart open</text>
+<text transform="translate(112,796)" font-size="5" style="fill:black">smile Nature</text>
+<text transform="translate(406,307) rotate(-90)" font-size="5" style="fill:black">beauty creativity</text>
+<text transform="translate(959,738) rotate(-90)" font-size="5" style="fill:black">creativity spontaneity</text>
+<text transform="translate(705,110)" font-size="5" style="fill:black">comfortable</text>
+<text transform="translate(696,530)" font-size="5" style="fill:black">shape</text>
+<text transform="translate(382,501)" font-size="5" style="fill:black">funny</text>
+<text transform="translate(101,610)" font-size="5" style="fill:black">care</text>
+<text transform="translate(139,782)" font-size="5" style="fill:black">hang</text>
+<text transform="translate(5,753) rotate(-90)" font-size="5" style="fill:black">MANHATTAN BASED</text>
+<text transform="translate(454,14)" font-size="5" style="fill:black">music lover</text>
+<text transform="translate(669,166) rotate(-90)" font-size="5" style="fill:black">Believes nothing</text>
+<text transform="translate(861,959) rotate(-90)" font-size="5" style="fill:black">informed interest</text>
+<text transform="translate(617,572)" font-size="5" style="fill:black">years old</text>
+<text transform="translate(698,567)" font-size="5" style="fill:black">Embraces life</text>
+<text transform="translate(856,414)" font-size="5" style="fill:black">Seeks bright</text>
+<text transform="translate(809,140)" font-size="5" style="fill:black">business owner</text>
+<text transform="translate(788,747)" font-size="5" style="fill:black">Recent photo</text>
+<text transform="translate(775,216)" font-size="5" style="fill:black">available man</text>
+<text transform="translate(795,108) rotate(-90)" font-size="5" style="fill:black">successful cosmopolitan</text>
+<text transform="translate(241,671)" font-size="5" style="fill:black">good wine</text>
+<text transform="translate(954,576)" font-size="5" style="fill:black">good listener</text>
+</svg>
